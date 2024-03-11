@@ -21,12 +21,13 @@
     "fs-extra": "^7.0.0",
     "pre-commit": "^1.2.2",
     "pre-push": "^0.1.1",
+    "ramda": "^0.29.1",
     "regenerator-runtime": "^0.13.9",
     "serverless": "^2.51.2",
-    "serverless-scriptable-plugin": "^0.7.0",
-    "ramda": "^0.29.1"
+    "serverless-scriptable-plugin": "^0.7.0"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.529.1",
     "aws-sdk": "^2.1574.0",
     "undici": "^6.7.1",
     "xml2js": "^0.6.2"

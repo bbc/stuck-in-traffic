@@ -6,13 +6,9 @@ plugins:
 custom:
   accountId: ${ssm:/accountId}
   outputSnsTopicName: ${self:provider.stage}-stuck-in-traffic-topic
-  metricNamespace: AggregateMetrics
   serviceName: ${self:provider.stage}-stuck-in-traffic
-  stage: ${opt:stage, 'int'}
-  morphDataEnvOverrides: # on int or test stage we can override the upstream SBL env
-    int: 'live'
-    test: 'live'
-  morphDataEnv: ${self:custom.morphDataEnvOverrides.${self:custom.stage}, 'live'}
+  bucketName: ${self:provider.stage}-stuck-in-traffic-bucket
+  stage: int
   deploymentBucket: ${self:custom.stage}-interactive-tv-data-deployment-bucket
   scriptHooks:
     after:deploy:compileEvents: serverless-add-event-triggers.js
@@ -23,6 +19,10 @@ resources:
       Type: AWS::SNS::Topic
       Properties:
         TopicName: ${self:custom.outputSnsTopicName}
+    StuckInTrafficBucket:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: ${self:custom.bucketName}
 
 provider:
   name: aws
@@ -54,6 +54,23 @@ provider:
         - 'arn:aws:ssm:eu-west-1:${self:custom.accountId}:parameter/credentials/certs/bbc/cert'
         - 'arn:aws:ssm:eu-west-1:${self:custom.accountId}:parameter/credentials/certs/bbc/key'
         - 'arn:aws:ssm:eu-west-1:${self:custom.accountId}:parameter/credentials/certs/bbc/ca'
+    - Effect: 'Allow'
+      Action:
+        - 's3:ListBucket'
+      Resource:
+        {
+          'Fn::Join':
+            ['', ['arn:aws:s3:::', { 'Ref': 'StuckInTrafficBucket' }]],
+        }
+    - Effect: 'Allow'
+      Action:
+        - 's3:PutObject'
+      Resource:
+        Fn::Join:
+          - ''
+          - - 'arn:aws:s3:::'
+            - 'Ref': 'StuckInTrafficBucket'
+            - '/*'
 
 functions:
   aggregate:
@@ -61,5 +78,4 @@ functions:
     name: ${self:custom.serviceName}
     description: Hits travel API and finds any potentially stale data
     environment:
-      MORPH_DATA_ENV: ${self:custom.morphDataEnv}
       OUTPUT_TOPIC_ARN: 'arn:aws:sns:eu-west-1:${self:custom.accountId}:${self:custom.outputSnsTopicName}'

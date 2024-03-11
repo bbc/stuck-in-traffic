@@ -2,6 +2,7 @@ import crypto from 'crypto'
 import { Agent } from 'undici'
 import xml2js from 'xml2js'
 import certService from './cert.js'
+import uploadService from './upload.js'
 
 const handleEvent = async (event, context) => {
   const parser = new xml2js.Parser()
@@ -101,6 +102,7 @@ const handleEvent = async (event, context) => {
   }
 
   const sortedNews = oldNews.sort((a, b) => b.daysOld - a.daysOld)
+  await uploadService.upload(sortedNews)
 
   return sortedNews
 }

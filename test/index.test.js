@@ -5,6 +5,7 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import certService from '../src/cert.js'
 import { handleEvent } from '../src/handler.js'
+import uploadService from '../src/upload.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -54,6 +55,10 @@ test('it should', async (t) => {
         key: 'this is a key',
         ca: 'this is a ca cert',
       }
+    })
+
+    mock.method(uploadService, 'upload', async () => {
+      return 1
     })
 
     const result = await handleEvent()
