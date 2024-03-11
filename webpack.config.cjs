@@ -1,6 +1,6 @@
-import CopyWebpackPlugin from 'copy-webpack-plugin'
-import path from 'path'
-import slsw from 'serverless-webpack'
+const path = require('path')
+const slsw = require('serverless-webpack')
+var CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = {
   entry: slsw.lib.entries,
