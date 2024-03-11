@@ -61,9 +61,10 @@ const handleEvent = async (event, context) => {
         throw new Error(`error while getting ${url}:` + e)
       }
 
-      console.log('response', response.body)
+      const text = await response.text()
+      console.log('text', text)
 
-      parser.parseString(response.body, (_, result) => {
+      parser.parseString(text, (_, result) => {
         console.log('result', result)
         if (result?.tpeg_document?.tpeg_message) {
           for (let message of result.tpeg_document?.tpeg_message) {

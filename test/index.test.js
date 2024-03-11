@@ -45,7 +45,7 @@ test('it should', async (t) => {
   await t.test('work', async (t) => {
     mock.method(global, 'fetch', async (url) => ({
       status: 200,
-      body: await promises.readFile(mockMap[url], (data) => data),
+      text: () => promises.readFile(mockMap[url], (data) => data),
     }))
 
     mock.method(certService, 'getBbcCertP', async () => {
