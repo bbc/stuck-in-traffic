@@ -66,9 +66,6 @@ test('it should', async (t) => {
     assert.strictEqual(result[0].subType, 'ferry')
     assert.strictEqual(result[0].id, '9d6a2285af1a5ca888026f94ec626ef792f6a24e')
     assert.strictEqual(result[0].summary, 'Bla bla bla bla')
-
-    console.log(JSON.stringify(result, null, 3))
-
     assert.strictEqual(result[0].daysOld, 33)
     assert.strictEqual(result[1].daysOld, 30)
     assert.strictEqual(result[2].daysOld, 18)

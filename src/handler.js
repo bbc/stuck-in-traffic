@@ -45,7 +45,7 @@ const handleEvent = async (event, context) => {
   for (let type of Object.keys(types)) {
     for (let subType of types[type]) {
       const url = `https://travel-tvp-renderer.api.bbci.co.uk/messages/${type}/${subType}.xml`
-      console.log(type, subType, url)
+
       let response
       try {
         response = await fetch(url, {
@@ -63,10 +63,8 @@ const handleEvent = async (event, context) => {
       }
 
       const text = await response.text()
-      console.log('text', text)
 
       parser.parseString(text, (_, result) => {
-        console.log('result', result)
         if (result?.tpeg_document?.tpeg_message) {
           for (let message of result.tpeg_document?.tpeg_message) {
             if (message.public_transport_information) {
