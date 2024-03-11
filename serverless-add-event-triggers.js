@@ -1,4 +1,4 @@
-import { defaultTo, join, toString } from 'ramda'
+const { join, defaultTo, toString } = require('ramda')
 
 const createEventTriggers = () => {
   // aggregateEventTriggers :: [{aggregateEventTrigger}]
