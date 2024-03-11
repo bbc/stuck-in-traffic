@@ -3,35 +3,35 @@ import { Agent } from 'undici'
 import xml2js from 'xml2js'
 import certService from './cert.js'
 
-const parser = new xml2js.Parser()
-
-const types = {
-  modes: ['rail', 'motorways'],
-  pti: ['tube', 'croydontramlink'],
-  ferries: ['ferry'],
-  local: ['london'],
-  regions: [
-    'scotland',
-    'wales',
-    'northernireland',
-    'northeast',
-    'north',
-    'northwest',
-    'yorkshire-lincolnshire',
-    'midlands',
-    'eastmidlands',
-    'west',
-    'oxfordshire',
-    'cambridgeshire',
-    'east',
-    'southwest',
-    'south',
-    'southeast',
-    'channelislands',
-  ],
-}
-
 const handleEvent = async () => {
+  const parser = new xml2js.Parser()
+
+  const types = {
+    modes: ['rail', 'motorways'],
+    pti: ['tube', 'croydontramlink'],
+    ferries: ['ferry'],
+    local: ['london'],
+    regions: [
+      'scotland',
+      'wales',
+      'northernireland',
+      'northeast',
+      'north',
+      'northwest',
+      'yorkshire-lincolnshire',
+      'midlands',
+      'eastmidlands',
+      'west',
+      'oxfordshire',
+      'cambridgeshire',
+      'east',
+      'southwest',
+      'south',
+      'southeast',
+      'channelislands',
+    ],
+  }
+
   const oldNews = []
   let cert
 
