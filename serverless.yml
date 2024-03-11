@@ -1,7 +1,6 @@
 service: ${self:custom.serviceName}
 
 plugins:
-  - serverless-webpack
   - serverless-scriptable-plugin
 
 custom:
@@ -17,8 +16,6 @@ custom:
   deploymentBucket: ${self:custom.stage}-interactive-tv-data-deployment-bucket
   scriptHooks:
     after:deploy:compileEvents: serverless-add-event-triggers.js
-  webpack:
-    webpackConfig: './webpack.config.cjs'
 
 resources:
   Resources:
