@@ -1,6 +1,6 @@
 import { PutObjectCommand, S3Client } from '@aws-sdk/client-s3'
 
-const client = new S3Client({ region: 'eu-west-1 ' })
+const client = new S3Client({ region: 'eu-west-1' })
 
 const generateRows = (sortedNews) =>
   sortedNews
@@ -57,8 +57,8 @@ export const upload = async (sortedNews) => {
   try {
     const response = await client.send(command)
     console.log(response)
-  } catch (err) {
-    console.error(err)
+  } catch (e) {
+    throw new Error(`error while uploading to s3:` + e)
   }
 }
 
