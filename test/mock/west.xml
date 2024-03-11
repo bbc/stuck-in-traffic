@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Bristol - Narrow lanes and one lane closed on M4 in both directions in Gloucestershire from J19, M32 (Bristol) to J20, M5 J15 (Almondsbury Interchange), because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-24T20:21:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Bristol - A38 Malago Road in Bedminster closed northbound from the Lidl junction to the Lombard Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-11-12T16:24:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A432 Bristol - A432 Badminton Road in Emersons Green closed in both directions between Wick Wick Roundabout and the Cuckoo Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-17T08:03:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A39 Devon - A39 Watersmeet Road in Lynmouth closed in both directions from the Backmoor Gate Turn Off junction to the Simonsbath Turn Off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T12:18:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A48 Gloucestershire - Temporary lights on A48 in Lydney around the Naas Lane junction, because of junction improvements.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-07T07:07:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A350 Wiltshire - The traffic lights aren&apos;t working on A350 in Lacock at the Mons Lane junction. Approach with care.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:58:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4069 Wiltshire - B4069 in Bradenstoke closed in both directions between The Banks junction and the Clack Hill junction, because of a landslip and roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-03-20T17:41:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3224 Somerset - B3224 in Exford closed in both directions between the Exford Road junction and the Throne Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-31T12:31:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4477 Oxfordshire - B4477 in Filkins closed in both directions from the Kings Lane junction to the Sundblad Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T10:38:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Bristol - Temporary lights on A38 Sheene Road in Bedminster, Bristol at the Lidl junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4055 Bristol - B4055 Station Road in Henbury closed one way street from the A4018 junction to the Berwick Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-03-21T20:19:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4174 Bristol - One lane closed and expect delays on A4174 Hengrove Way westbound in Hengrove, Bristol at the Creswicke Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-07-31T12:12:23+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Bristol - Temporary lights on A38 Malago Road in Bedminster at the St John&apos;s Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-08-31T13:28:16+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A370 Somerset - Temporary lights on A370 Weston Road in Congresbury near the Station Close junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-02T15:54:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4057 Bristol - B4057 Kings Weston Road in Sea Mills closed in both directions from the B4054 Shirehampton Road junction to the Napier Miles Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-15T12:17:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A372 Somerset - Temporary lights on A372 Westonzoyland Road in Bridgwater at the Bower Lane junction, because of roundabout construction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-22T17:26:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A36 Somerset - Temporary lights on A36 Warminster Road in both directions in Bath between the Down Lane junction and the Ferry Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-06T13:01:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A342 Wiltshire - Temporary lights on A342 St Edith&apos;s Marsh in both directions in Rowde at the St Edith&apos;s Marsh junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T12:48:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3033 Somerset - Temporary lights on A3033 Devonshire Road in Uphill at the Southville Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T15:11:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A361 Somerset - Temporary lights on A361 Paul Street in Shepton Mallet at the Frithfield Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T16:15:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A370 Somerset - Temporary lights on A370 Main Road in Brockley at the Brockley Combe Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T16:16:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A371 Somerset - Temporary lights on A371 Knightcott Road in both directions in Banwell at the Knightcott Gardens junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T14:32:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A368 Somerset - Temporary lights on A368 East Street in both directions in Banwell near the Eastermead Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T14:35:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4175 Bristol - Temporary lights on A4175 Durley Hill in Hanham Mills near the Durley Park junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T07:17:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A37 Somerset - Temporary lights on A37 Upper Bristol Road in Clutton at the Cook&apos;s Hill junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T12:24:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A371 Somerset - Temporary lights on A371 Long Street in Croscombe at the Fayreway junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T12:33:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A37 Somerset - Temporary lights on A37 Whitstone Road in Shepton Mallet near Charlton Crossroads, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T07:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3130 Somerset - B3130 Old Church Road in Clevedon closed from the B3133 Great Western Road junction to The Triangle junction, because of pedestrian zone.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3091 Dorset - Temporary lights on B3091 in Guys Marsh at the Denham Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T12:10:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3092 Dorset - Temporary lights on B3092 in Madjeston at the Cole Street Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T12:19:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - New Queen Street in Redcliffe closed in both directions between the Whitehouse Street junction and the Princess Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Capel Road in Lawrence Weston closed in both directions between the Oakhanger Drive junction and the Commonfield Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-01-20T14:27:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Howell Hill in West Camel closed in both directions between the Fore Street junction and Canegore Corner, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-21T12:34:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Union Street in Yeovil closed one way street from the Wine Street junction to the Middle Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-11T13:49:59+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Middle Street in Yeovil closed one way street from the Union Street junction to the Silver Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-11T13:50:27+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Temporary gross weight limit of 7.5 tonnes on Caswell Lane in both directions in Portbury from the Caswell Hill junction to the Clapton Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-08T11:38:11+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Temporary lights on Filwood Park Lane in both directions in Hengrove at the Manning Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-26T13:23:08+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Anvil Street in St Philips closed in both directions between the Chimney Steps junction and the Oxford Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-11T15:35:52+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3120 Bristol - Temporary lights on B3120 St John&apos;s Lane in Bedminster at the Clinton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-31T13:29:47+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wiltshire - Fleming Way in Swindon closed in both directions between the Princes Street junction and the Fleet Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T11:47:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3187 Somerset - Temporary lights on B3187 Wood Street at the Milverton junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-10T09:37:32+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Bower Lane in East Bower closed in both directions between the Bridgwater Hospital junction and the A372 Westonzoyland Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-04T08:19:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Wrington Lane in Congresbury closed from the Wrington Road junction to the B3169 Kent Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-19T13:01:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Moon Street in St James closed from the Backfields junction to the A38 North Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-21T12:18:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wiltshire - Lower Stoke in Limpley Stoke closed from the Cliffe Drive junction to the B3108 Winsley Hill junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-10T13:32:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Broad Weir in Broadmead closed in both directions from Old Market roundabout to the Fairfax Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-14T07:21:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Cothelstone Road in Bishops Lydeard closed from the High Street junction to the Darby Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-23T09:47:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Temporary lights on Bristol Road in Gloucester at the B4072 Clifton Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T13:50:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Temporary lights on Badgeworth Road at The Reddings junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T13:54:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Tintinhull Road in Yeovil closed in both directions from the Thorne Lane junction to Combe Street Lane Roundabout, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-27T08:52:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Fir Tree Lane in Hanham closed from the A431 Nags Head Hill junction to the Cassey Bottom Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-30T13:24:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Temporary lights on Wymans Lane in Swindon at the Swindon Lane junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-30T13:58:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Engine Lane in West End closed from the St Mary&apos;s Grove junction to the Allington Gardens junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T13:39:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4234 Gloucestershire - Temporary lights on B4234 New Road between the Lydney junction and the Whitecroft junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T16:11:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4060 Gloucestershire - Temporary lights on B4060 Wickwar Road in both directions in Kingswood between the Hillesley Road junction and the Chase Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T11:57:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Bonniton Lane in Dunster, Minehead closed in both directions from the Whitswood Steep junction to the A396 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T13:27:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Charlcombe Lane in Charlcombe closed in both directions from the Lansdown Road junction to the Woolley Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T09:23:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Mount Nebo in Taunton closed in both directions between the Trull Road junction and the Broadlands Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T06:19:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Bemberry Bank in Timberscombe closed in both directions between the A396 junction and the Church Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T06:50:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Aust Road in Elberton closed from the B4461 Redhill Lane junction to the Ley Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:55:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Temporary lights on Wedmore Road in both directions in Cheddar at the B3151 Lower New Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T17:48:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - North Road West in The Reddings closed in both directions between the Badgeworth Road junction and the Grovefield Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:42:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Coombe in Sherborne closed in both directions between the B3148 Marston Road junction and the George Court junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:15:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Lees Hill in New Cheltenham closed from the Pound Road junction to the New Cheltenham Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T16:01:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Temporary lights on Ermin Way in Little Witcombe at the the Great Witcombe turn off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T16:54:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Common Mead Lane in Wyke closed from the Freame Way junction to the Kine Bush Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:09:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Castle Street in Broadmead closed one way street from the Tower Hill junction to the Queen Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T12:26:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Upper Borough Walls in Bath closed one way street from the Saw Close junction to the Northgate Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T12:29:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Temporary lights on Swindon Road in both directions in Kingsditch Trading Estate at the Wymans Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T07:41:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - West Hay Road in Wrington closed from the Wrington Road junction to the Alburys junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:42:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Spillmans Pitch in Stroud closed in both directions between the A46 Bath Road junction and the Spillmans Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:19:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3081 Dorset - Temporary lights on B3081 Shaftesbury Road in Gillingham at the Kings Court Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T12:17:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wiltshire - Temporary lights on Brook Street in Warminster at the Pound Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:58:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Station Road in Sturminster Newton closed in both directions from the B3092 Bath Road junction to the Barnes Close junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T14:18:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - High Street in Wellow closed in both directions from the Wellow Road junction to the Canteen Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T14:44:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Lansdown Grove in Bath closed in both directions from the Lansdown Road junction to the St Stephen&apos;s Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T15:13:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wiltshire - Quartermaster Road in Hawkeridge closed in both directions from the Link Road junction to the Storridge Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T15:48:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Swanley Lane in Newport closed in both directions from the Haycroft Lane junction to the A38 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T16:04:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Spillmans Pitch in Stroud closed in both directions from the Spillmans Road junction to the A46 Bath Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T16:07:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Lower Road in Upper Soudley closed in both directions from the Top Road junction to the Tramway Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T16:17:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Dean Lane in Bedminster, Bristol closed in both directions from the A370 Coronation Road junction to the Southville Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T16:23:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - Douglas Road in Kingswood, Bristol closed in both directions from the B4046 Hanham Road junction to the Forest Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T16:37:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - High Street in Kempsford closed in both directions from the Mount Pleasant junction to the Chapel Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T16:40:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4080 Worcestershire - Temporary lights on B4080 Kemerton Road in Bredon at the Station Drive junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T07:29:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Stowey Road in Yatton closed from the Well Lane junction to the Cherry Grove junction, because of pedestrian zone.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wiltshire - Castle Road in Bratton closed in both directions from the Port Way junction to the B3098 Westbury Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A350 Wiltshire - Queues on A350 Beanacre Road southbound in Melksham near the Aldi junction. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:13:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Tintinhull Road in Yeovil closed in both directions from the Thorne Lane junction to Combe Street Lane Roundabout, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:41:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4 Somerset - It&apos;s slow on A4 Bath Road in both directions in Saltford at the Grange Road junction. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:01:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A429 Gloucestershire - It&apos;s slow on A429 in Stow-On-The-Wold near the the Unicorn Hotel junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:16:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A417 Gloucestershire - Queues on A417 northbound in Birdlip from the Birdlip down hill junction to the A436 Air Balloon Roundabout junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:16:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A46 Gloucestershire - It&apos;s slow on A46 in Ashchurch near the Ashchurch for Tewkesbury train station junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:17:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3191 Somerset - Road permanently closed on B3191 West Street in both directions in Watchet between the Saxon Ridge junction and the Daws Castle junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-02-27T15:39:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bristol - No through traffic allowed on Union Street westbound in City Centre from The Horsefair junction to the A38 Bridewell Street junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-03-21T11:08:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gloucestershire - Height restriction on Peter&apos;s Street in both directions in Frocester from the Bath Road junction to the Westend junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-12-11T11:30:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Narrow lanes (1.8 feet wide) on Langridge Lane in both directions in Lansdown from the Langridge Road junction to the Tadwick Lane junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-01-26T12:30:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wiltshire - Iford Hill in Lower Westwood closed to heavy goods vehicles and narrow lanes (two feet wide) in both directions from the Lower Westwood junction to the Iford Lane junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-08T12:42:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Somerset - Iford Hill in New Town closed to heavy goods vehicles in both directions from the A36 junction to the Iford Lane junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-08T12:42:32+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

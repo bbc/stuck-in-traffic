@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M180 Lincolnshire - One lane closed on M180 westbound from J3, M181 (Scunthorpe) to J2, A161 (Gainsborough), because of emergency Bridge repairs.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-12-05T11:35:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1173 Lincolnshire - Temporary lights on A1173 in Immingham at the Middleplatt Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T16:10:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - One lane closed on Queen Street northbound in Hull near the Humber Street junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-24T18:03:11+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1202 Lincolnshire - B1202 Heath Lane in Boothby Graffoe closed in both directions from the A607 Grantham Road junction to the A15 Sleaford Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-29T10:17:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1035 East Yorkshire - Temporary lights on A1035 Grange Way in Beverley at the A164 Driffield Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-20T11:51:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1031 Lincolnshire - Temporary lights on A1031 Humberston Road in Humberston at the North Sea Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-20T11:56:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A158 Lincolnshire - Temporary lights on A158 West Street in Hagworthingham at the Deep Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-29T12:24:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A16 Lincolnshire - Temporary lights on A16 Spilsby Road in both directions in Boston at the Hospital Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-02T19:03:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A15 Lincolnshire - Temporary lights on A15 South Road in Bourne near the Holloway Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:02:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Short Ferry Road in Stainfield closed in both directions between the Stainfield turn off junction and the Ferry Hill Farm junction, because of flooding.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-10T14:29:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A63 East Yorkshire - One lane closed and it&apos;s slow on A63 Clive Sullivan Way eastbound from the A15 junction in Hessle to St Andrews Quay in Hull, because of a breakdown.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:41:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1232 East Yorkshire - Temporary lights on B1232 in Willerby at Willerby Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:12:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Sculcoates Bridge in Hull closed in both directions between the A1165 Cleveland Street junction and the Swann Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - St James Street in Hull closed in both directions between the A63 Hessle Road junction and the English Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Vicar Lane in Hull closed in both directions between the South Church Side junction and the A63 Castle Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Corporation Bridge in Grimsby closed in both directions from the Corporation Road junction to Tesco Traffic Lights, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-07T10:41:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on Welton Low Road in Brough at the Welton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-01T21:50:34+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on Welton Road in Brough near the Water Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-01T21:51:05+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on Water Lane near the Brough junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-01T21:52:04+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on Stanley Jackson Way in Brough near The A63 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-01T21:53:05+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1205 Lincolnshire - Water main work and stop-go boards on B1205 Waddingham Road in both directions in Brandy Wharf from the South Ramper junction to the Church Farm Road junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-20T08:25:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Water main work and stop-go boards on Fen Road in Normanby By Spital, Lincoln near the Saxby Lane junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-22T14:07:30+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Beverley Road in South Cave closed in both directions from the A1034 Market Place junction to the Trinity Fold junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-10T10:47:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Broadway in Lincoln closed in both directions from the Newport junction to the Nettleham Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-04T13:34:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - High Street in Swineshead closed in both directions from the King Johns Road junction to the Station Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-09T12:12:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Foxby Hill in Gainsborough closed from the A156 Lea Road junction to the Foxby Warren junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-25T13:01:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Temporary lights on Park Road in both directions in Long Sutton at the Little London junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-26T12:14:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Traffic is taking turns on West Bank in both directions in Saxilby at the High Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-07T12:53:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Temporary lights on Church Green in both directions in Long Sutton at the Lancaster Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T14:58:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on Wilson Street in both directions in Anlaby, Hull at the Windsor Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T13:36:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Stop-go boards and works on telecom cables on First Lane in both directions in Anlaby Park, Hull at the Mortimer Avenue junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T13:38:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on First Lane in both directions in Hessle at the Cottesmore Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T18:58:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Temporary lights on Henderson Avenue in both directions in Scunthorpe between the Exeter Road junction and the Jackson Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T10:11:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Temporary lights on Holyrood Drive in both directions in Foxhills Industrial Estate at the Snowdonia Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T10:13:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Coventry Road in Hull closed in both directions between the Hotham Road South junction and the Worcester Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:20:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Middlegate Road East in Kirton closed in both directions from the Boston Turn Off junction to the Horseshoe Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T09:24:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Coronation Road in Woodhall Spa closed in both directions from the King George Avenue junction to the Spa Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T10:15:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Temporary lights on Warren Road in Scunthorpe at the Bessemer Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:07:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Temporary lights on Gunby Road from the Orby junction to the Orby junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T07:39:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Temporary lights on Station Road in North Cave at the Everthorpe Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:20:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Main Road in Hemingby closed in both directions from the Coalmore Road junction to the Chapel Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:47:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Blyton Road in Laughton closed in both directions from the A159 Laughton Road junction to the Church Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:49:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Stop-go boards and works on telecom cables on Oakdene in Cottingham at the B1233 South Street junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:14:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A16 Lincolnshire - Lane closed on A16 in Spalding at the Springfields Roundabout junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-11-08T11:59:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A180 Lincolnshire - It&apos;s slow on A180 in Grimsby around Pyewipe Roundabout. Travel time is five minutes.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:14:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A164 East Yorkshire - It&apos;s slow on A164 in Willerby at Toby Carvery roundabout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:16:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Yorkshire - Commercial Road in Hull closed in both directions between the Wood&apos;s Lane junction and the A63 Hessle Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-07-12T19:21:24+01:00" />
+  </tpeg_message>
+
+</tpeg_document>

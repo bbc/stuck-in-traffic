@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M67 Greater Manchester - M67 entry slip road closed eastbound at J2, A57 (Denton), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:54:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5145 Greater Manchester - A5145 Kingsway in Stretford closed eastbound between the A5181 Barton Road junction and the A56 Chester Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-11-13T13:00:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A671 Lancashire - A671 Yorkshire Street in Burnley closed westbound from the A6114 Belvedere Road junction to the A682 Church Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-31T12:16:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A560 Greater Manchester - A560 King Street West in Stockport closed in both directions from the A5145 Travis Brow junction to the Kingston Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-05T12:37:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5054 Merseyside - A5054 Blackstone Street in Liverpool closed in both directions from the A5036 Regent Road junction to the A565 Great Howard Street junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-22T12:17:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A34 Greater Manchester - A34 Irwell Street in Salford closed southbound from the A6042 Trinity Way junction to the Stanley Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-05T16:26:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A585 Lancashire - Temporary lights on A585 in both directions in Singleton at the the A586 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-23T12:34:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A65 Cumbria - Temporary lights on A65 in Crooklands near The Crooklands Hotel junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T13:04:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - The B5410 in Lytham closed in both directions from the School Road junction to the Grand Manor Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-04-08T15:13:19+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A572 Greater Manchester - One lane closed on A572 Worsley Road in both directions in Swinton at the B5231 Partington Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-10T06:37:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A580 Greater Manchester - Lane closed on A580 East Lancashire Road eastbound in Astley at the A577 Mosley Common Road junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-12T13:16:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A553 Cheshire - Temporary lights on A553 Silver Jubilee Bridge in both directions in Runcorn between the A558 Bridgewater Expressway junction and the Waterloo Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-23T06:31:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A673 Lancashire - Temporary lights on A673 Chorley Road in both directions in Heath Charnock at the Lower Hill Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-01T16:41:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A584 Lancashire - Temporary lights on A584 Lytham Road in Warton at the Highgate Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-07T13:21:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6017 Greater Manchester - Temporary lights on A6017 Ashton Road in Bredbury at the Cromwell Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T07:37:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5130 Cheshire - No through traffic allowed on B5130 Sandy Lane in both directions in Huntington from the Butterbache Road junction to the A5115 Christleton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T09:50:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5238 Greater Manchester - B5238 Station Road in Blackrod closed from the B5408 Manchester Road junction to the Rivington View Business Park junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-20T09:30:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5411 Lancashire - B5411 Tag Lane in Ingol closed northbound from the Tanterton Hall Road junction to the B6241 Tom Benson Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-22T12:35:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A575 Greater Manchester - Temporary lights on A575 Gladstone Road in Farnworth at the A6053 Bolton Road junction, because of maintenance work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T16:19:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A628 Greater Manchester - Temporary lights on A628 Market Street in Hollingworth near the Taylor Street junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-29T17:03:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6241 Lancashire - Temporary lights on B6241 Tom Benson Way in both directions in Ashton On Ribble at the Tulketh Brow junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T08:49:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A56 Greater Manchester - Temporary lights on A56 Bury New Road in both directions in Kersal at the Singleton Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T08:38:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A538 Cheshire - Temporary lights on A538 Altrincham Road in both directions in Morley Green at the Nansmoss Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T08:43:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6 Derbyshire - Temporary lights on A6 Buxton Road in both directions in Furness Vale around the Old Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T06:31:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A59 Lancashire - Temporary lights on A59 Liverpool Road in both directions in Tarleton at Tarleton Traffic Lights, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T09:49:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A560 Greater Manchester - Temporary lights on A560 Stockport Road in Cheadle at the Park Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T16:09:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A54 Cheshire - Temporary lights on A54 Buxton Road in Key Green at the Sprink Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T17:31:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A533 Cheshire - Temporary lights on A533 London Road in both directions in Northwich at the Dock Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T13:06:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A682 Lancashire - Temporary lights on A682 Burnley Road in Goodshaw at the Turton Hollow Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T13:19:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A49 Greater Manchester - Temporary lights on A49 Wigan Lane in Wigan at the Royal Albery Edward Infirmary junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T07:49:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A59 Merseyside - It&apos;s heavy on A59 in both directions in Aintree between the Topham Drive junction and the Dunnings Bridge Road junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:09:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Filton Road in Stockbridge Village closed in both directions from the Melbury Road junction to the St Davids Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Sleaford Road in Stockbridge Village closed in both directions from the Melbury Road junction to the St Davids Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - No through traffic allowed on The Road in both directions in Tyldesley between the Primrose Street South junction and the Astley Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - No through traffic allowed on Fleece Street in Rochdale from the King Street junction to the Packer Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Henderson Street in Burnage, Manchester closed in both directions from the Eastholme Drive junction to the Berrie Grove junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-11T18:50:32+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Alt Hill Road in Higher Alt Hill closed westbound from the Alt Hill Lane junction to the Mill Brow junction, because of traffic calming measures.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-08T08:27:09+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Broomgrove Lane in Denton closed in both directions from the Alexandra Road junction to the Herbert Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-30T17:17:37+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Ashfield Road in Rochdale closed eastbound from the New Barn Lane junction to the Deeplish Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-03T15:19:20+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Ryecroft Lane in Stapleford closed in both directions from the Broomheath Lane junction to the Burton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-11T12:40:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Southgate Street in Oldham closed from the Rhodes Bank junction to the Retiro Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-15T11:51:44+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on London Road in Oldham near the Yates Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-15T15:38:19+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Traffic is taking turns on Roundcroft in Romiley at the Clover Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-28T09:01:50+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Prospect Road in Prenton closed in both directions from the Prenton Lane junction to the Burrell Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-03T20:56:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Legion Lane in Bromborough closed one way street near the Allport Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T09:47:07+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Irvine Road in Tranmere closed in both directions between the Mount Road junction and the Snowdon Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T09:48:06+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Fairhaven Drive in Bromborough closed in both directions from the Alistair Drive junction to the Brookhurst Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T09:56:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Dale Avenue in Bromborough closed in both directions from the Bradmoor Road junction to the Oteley Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T09:57:07+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Beaconsfield Road in Bebington closed in both directions between the B5136 New Chester Road junction and the Elmbank Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T11:01:07+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Rosedale Road in Birkenhead closed in both directions from the Well Lane junction to the Downham Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-10T10:43:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Rose Mount in Birkenhead closed in both directions from the B5151 Storeton Road junction to the Mount Pleasant junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-17T10:41:53+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Christchurch Road in Tranmere closed one way street from the Slatey Road junction to the Palm Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-19T09:14:38+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Wethersfield Road in Birkenhead closed in both directions from the Budworth Road junction to the Noctorum Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-23T13:34:41+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Broughton Road in Wallasey closed in both directions from the B5145 Poulton Road junction to the Deveraux Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-23T13:37:42+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Erskine Road in Wallasey closed in both directions from the Deveraux Road junction to the B5145 Poulton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-23T13:38:43+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Ennisdale Drive in West Kirby closed in both directions between the Bracken Drive junction and the Newton Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-02T09:29:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Scoresby Road in Wallasey closed in both directions from the Grant Road junction to the Mackenzie Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-06T13:09:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Mackenzie Road in Wallasey closed in both directions from the Cameron Road junction to the Scoresby Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-06T13:11:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Manor Lane in Wallasey closed in both directions from the Penkett Road junction to the A554 Seabank Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-06T13:30:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Shackleton Road in Wallasey closed in both directions from the Twickenham Drive junction to the Grant Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-08T12:11:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Simister Lane in Birch closed in both directions from the Blueball Lane junction to the Droughts Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-20T13:02:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Cheadle Lane in Plumley closed in both directions between the Trouthall Lane junction and the Patmos Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-11T21:21:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Read&apos;s Avenue in Blackpool closed in both directions from the A583 Whitegate Drive junction to the B5390 Park Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T08:03:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Lowlands Road in Peacock Hay closed from Talke Roundabout to the Chatterley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T13:06:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Station Road in Lostock Gralam closed southbound from the Fitton Street junction to the Birches Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-04T12:30:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A580 Greater Manchester - One lane closed on A580 East Lancashire Road in both directions in Swinton at the A572 Worsley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-10T06:37:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Suffolk Street in Ropewalks closed from the Henry Street junction to the Lydia Ann Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T09:47:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6230 Lancashire - Temporary lights on B6230 Church Brow in Walton Le Dale near White Bull Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T12:48:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Sidgreaves Lane in Cottam closed from the Hoyles Lane junction to the Lea Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T11:12:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Marley Road in both directions in Levenshulme at the Samuel Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T14:52:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Alexandra Drive in both directions in Ladybarn at the Roseleigh Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T14:53:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Temporary lights on Lytham Road in both directions in Freckleton at the Lamaleach Drive junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T14:55:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Sanderling Road in both directions in Offerton between the Shearwater Road junction and the A627 Offerton Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T10:44:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6222 Greater Manchester - Temporary lights on B6222 Bury Road in Rochdale near the the Cemetery Hotel junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T11:53:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Kings Road in Old Trafford closed in both directions from The Quadrant to the B5217 Seymour Grove junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T12:20:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Swaine Street in Stockport closed one way street from the Exchange Street junction to the Chestergate junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T06:24:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Tabley Lane in Preston closed in both directions from the Lightfoot Lane junction to the Tyneham Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:56:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Victoria Street in Preston closed in both directions from the Adelphi Street junction to the Sizer Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T13:05:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Whitehill Road in Blackpool closed in both directions from the School Road junction to the Peel Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T12:26:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Coole Lane in Coole Pilate closed from the Hollingreen Lane junction to the Brine Pits Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T09:43:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Temporary lights on Swanley Lane in Swanley, Nantwich at the Springe Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:53:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5213 Greater Manchester - Temporary lights on B5213 Church Road in Urmston at the B5214 Station Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T09:35:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Gipsy Lane in Rochdale at the Royle Barn Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T09:51:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Caryl Street in Toxteth closed from the Park Street junction to the Grafton Grove junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:31:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Park Lane in Maghull, Liverpool closed in both directions from the Beechway junction to the School Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T10:17:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - St Annes Road in Denton closed in both directions between the A57 Hyde Road junction and the Sandbrook Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:04:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Moss Side Lane in Hale Nook closed in both directions from the Union Lane junction to the Swilkin Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:46:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Temporary lights on Main Road in Nether Kellet at the Back Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:59:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Edge Lane in both directions in Clayton at the North Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T08:37:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Ashton Road West in both directions in Failsworth between the Lord Lane junction and the Whitekirk Drive junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T08:54:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Temporary lights on St Annes Road in Blackpool at the Lostock Gardens junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:00:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Temporary lights on Highfield Road in Blackpool at the St Annes Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:00:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Kirby Park in West Kirby closed in both directions between the B5141 Village Road junction and the Devonshire Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:50:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Commerce Way in Trafford Park closed northbound from the Bolster Systems turn off junction to the Westinghouse Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T10:54:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Stamford Road in Hale closed in both directions from the B5163 Ashley Road junction to the Hollywood junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:00:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Baron Street in Rochdale closed in both directions from the Water Street junction to the Livsey Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:28:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Albyns Avenue in Manchester closed in both directions from the A665 Cheetham Hill Road junction to the Beckenham Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:33:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Stewart Street in Crewe closed in both directions from the Rockwood Avenue junction to the Alton Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:40:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Temporary lights on Park Lane in Poynton at the Bulkeley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T16:38:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Temporary lights on Dovepoint Road in Meols at the A553 Birkenhead Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T17:02:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Grove Lane in Bramhall, Stockport near the B5094 Acre Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T17:09:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5411 Lancashire - Temporary lights on B5411 Woodplumpton Road in Preston at the the Lands End Hotel junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:52:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Walfield Avenue in Congleton closed in both directions from the Giantswood Lane junction to the Tidnock Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T12:55:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Patmos Lane in Plumley closed in both directions from the Cheadle Lane junction to the Common Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:12:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6171 Greater Manchester - Temporary lights on B6171 Hillcrest Road in Stockport at the Broadway junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:14:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Ledsham Lane in Ledsham closed in both directions from the A550 Welsh Road junction to the Ledsham Village junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:17:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Budworth Lane in Great Budworth closed in both directions from the A559 Northwich Road junction to The Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:23:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Tolver Street in St Helens closed in both directions from the Hall Street junction to the Woodville Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:25:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cheshire - Nixon Drive in Winsford closed in both directions from the Basford Way junction to the Grange Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:35:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Lavender Hill in New Hall Hey closed in both directions from the Cherry Crescent junction to the Almond Crescent junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:42:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Back Haslam Street in Bury closed in both directions from the Chesham Road junction to the Back Chesham Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:44:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Beswick Street in Manchester closed in both directions from the Butler Street junction to the Pollard Street East junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:47:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Whittycroft Avenue in Higherford closed in both directions from the Barnoldswick Road junction to the A682 Gisburn Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:58:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Ampthill Road in Liverpool closed in both directions between the Fulwood Park junction and the Amherst Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-10T11:06:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Dukes Brow in Blackburn closed in both directions between the A677 Preston New Road junction and the Adelaide Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-10T11:28:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6232 Lancashire - Temporary lights on B6232 Grane Road in Haslingden near the Holden Arms Pub junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T07:53:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - Traffic is taking turns on Christchurch Road in Oxton at the Palm Hill junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:25:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A49 Greater Manchester - It&apos;s slow on A49 Wigan Lane in both directions in Wigan from the Kingsmede junction to the Clifton Crescent junction. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:47:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A57 Greater Manchester - The usual congestion on A57 Hyde Road and Mottram Moor at the Mottram in Longdendale junction. Travel time is ten minutes.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:15:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M6 Cheshire - Narrow lanes and a speed restriction of 50 mph on M6 in both directions from J21a, M62 J10 (Croft Interchange) to J26, M58 (Orrell Interchange), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T12:04:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A55 Cheshire - One lane closed on A55 westbound from J38, A483 (Posthouse Roundabout) to J36, A5104 (Warren Bank Interchange), because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-08T07:30:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6182 Greater Manchester - Roadworks and restrictions on B6182 Greengate in Blackfriars at the New Bridge Street junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - No through traffic allowed on Queen Street in both directions in Manchester from the Boond Street junction to the Gravel Lane junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Market Street in Blackpool closed one way street from the A586 Talbot Road junction to the West Street junction, because of pedestrian zone.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-03-21T12:42:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lancashire - Market Street in Blackpool closed southbound from the West Street junction to the Church Street junction, because of pedestrian zone.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-03-21T12:42:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Temporary lights on Vicarage Grove in both directions in Eccles near the the car park junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-06-02T20:56:56+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A580 Merseyside - Lane closed on A580 East Lancashire Road eastbound in Knowsley at Knowsley Industrial Park, because of electricity work.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-07T12:58:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A585 Lancashire - Road permanently closed on A585 Garstang New Road in both directions in Singleton between the the Shell Petrol station junction and the Windy Harbour Traffic Lights junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-19T18:43:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merseyside - No through traffic allowed on Lime Street in Liverpool from the A5038 junction to the Copperas Hill junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-20T08:07:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6053 Greater Manchester - Lane closed on A6053 Bolton Road in Farnworth at the A575 Gladstone Road junction, because of maintenance work.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-23T16:33:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Greater Manchester - Lane closed on Bentley Street in Farnworth at the A6053 Bolton Road junction, because of maintenance work.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-23T16:35:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A540 Merseyside - It&apos;s slow on A540 Telegraph Road in Heswall around the B5138 Pensby Road junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:13:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6 Lancashire - It&apos;s slow on A6 South Road onto King Street into town in Lancaster around the the one way system towards Greyhound Bridge junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:14:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A57(M) Greater Manchester - A57(M) Mancunian Way in Manchester busy but moving outbound from Ancoats to Salford.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:14:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A58 Merseyside - It&apos;s slow on A58 Linkway West in St Helens between Cannington Roundabout and Asda Roundabout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:15:55+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

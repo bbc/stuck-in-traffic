@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">Bla bla bla bla bla bla bla bla bla bla bla bla bla  bla bla bla bla bla bla bla bla bla bla bla bla</summary>
+    <public_transport_information severity_factor="severe" version_number="1" message_generation_time="2024-03-08T06:33:24+00:00">
+      <transport_operator_description>
+        <operator_name name="St Mawes Passenger Ferry" />
+      </transport_operator_description>
+    </public_transport_information>
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bla bla bla bla bla bla bla bla bla bla bla bla bla  bla bla bla bla bla bla bla bla bla bla bla bla bla</summary>
+    <public_transport_information severity_factor="medium" version_number="1" message_generation_time="2024-03-08T15:20:46+00:00">
+      <transport_operator_description>
+        <operator_name name="DFDS Seaways" />
+      </transport_operator_description>
+    </public_transport_information>
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bla bla bla bla</summary>
+    <public_transport_information severity_factor="slight" version_number="1" message_generation_time="2024-02-07T12:05:29+00:00">
+      <transport_operator_description>
+        <operator_name name="Calmac" />
+      </transport_operator_description>
+    </public_transport_information>
+  </tpeg_message>
+
+</tpeg_document>

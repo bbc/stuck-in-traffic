@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M5 Devon - Long delays on M5 northbound at J29, A3015 (Exeter), because of an earlier accident. Congestion to before J30 (Exeter / Service Areas). All lanes have been re-opened.</summary>
+    <road_traffic_message severity_factor="very severe" version_number="1" message_generation_time="2024-03-11T11:23:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 South Yorkshire - One lane closed on M1 southbound from J33, A630 (Catcliffe) to J32, M18 (M18 interchange), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-09-25T12:55:53+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M180 Lincolnshire - One lane closed on M180 westbound from J3, M181 (Scunthorpe) to J2, A161 (Gainsborough), because of emergency Bridge repairs.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-12-05T11:35:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Bristol - Narrow lanes and one lane closed on M4 in both directions in Gloucestershire from J19, M32 (Bristol) to J20, M5 J15 (Almondsbury Interchange), because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-24T20:21:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Bridgend - One lane closed on M4 eastbound from J37, A4229 (Pyle) to J36, A4061 (Bridgend), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-06T08:52:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - M2 exit slip road closed London-bound at J5, A249 (Sittingbourne), because of major roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T06:10:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - Speed restriction of 50 mph and one lane closed on M2 in both directions between J6, A251 (Faversham) and J5, A249 (Sittingbourne), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:51:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 Derbyshire - One lane closed and a speed restriction of 50 mph on M1 in both directions between J30, A616 (Worksop) and J31, A57 (Sheffield), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:52:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M8 Glasgow City - Two lanes closed on M8 in both directions between J15, Townhead and J17, Great Western Road, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:53:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M27 Hampshire - One lane closed on M27 in both directions at J8, A3024 (Bursledon), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:54:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M67 Greater Manchester - M67 entry slip road closed eastbound at J2, A57 (Denton), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:54:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 Bedfordshire - One lane closed on M1 northbound after J12, A5120 (Flitwick), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-06T12:39:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 West Yorkshire - Lane closed and a speed restriction of 50 mph on M1 in both directions between A1(M) J43 and J45, A63 (Leeds Cross Green), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-08T09:49:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M18 South Yorkshire - Queues and one lane closed on M18 southbound from J2 A1(M) J35 to J1, A631 (Bramley), because of vehicle fire.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:58:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 Northamptonshire - One lane closed on M1 northbound between J16, A45 (Daventry) and J17, M45 (Dunchurch), because of a vehicle having a tyre changed. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:06:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Berkshire - M4 lane closed on exit slip road eastbound at J13, A34 (Chieveley), because of emergency drainage repairs. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:09:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M62 Cheshire - One lane closed and it&apos;s slow on M62 eastbound from M62 J10, Croft Interchange to J11, A574 (Birchwood), because of a breakdown.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:15:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M5 Worcestershire - Two lanes closed and queues on M5 southbound from J4a M42 to J5, A38 (Droitwich), because of a lorry that&apos;s broken down. Travel time is around 25 minutes.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:16:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Berkshire - Queues and one lane closed on M4 eastbound between J10 A329(M) Wokingham and J8/9, A404 (Maidenhead), because of a spillage.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:23:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 South Yorkshire - One lane closed on M1 in both directions between J35, A629 (Rotherham) and J34, A631 (Meadowhall), because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-19T18:35:03+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M25 London - M25 lane closed on entry slip road anticlockwise at J28, A12 (Brentwood), because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-02T07:33:48+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M25 Surrey - Narrow lanes on M25 in both directions around J10, A3 (Wisley Interchange), because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:57:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Berkshire - Speed restriction of 50 mph on M4 in both directions between J13, A34 (Chieveley) and J14, A338 (Hungerford), because of a contraflow and roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:58:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M27 Hampshire - Lane closed on M27 in both directions from J12, M275 (Portsmouth) to J11, A27 (Fareham), because of drainage works.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T08:14:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - Heavier than normal along the exit slip road on M2 London-bound at J3, Chatham.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:22:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M25 Kent - M25 busy but moving anticlockwise at the Dartford Tunnels. Travel time is ten minutes.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:22:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - M2 entry slip road closed and one lane closed coastbound at J2, A228 (Strood), because of emergency repairs.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T10:44:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M6 Cheshire - Narrow lanes and a speed restriction of 50 mph on M6 in both directions from J21a, M62 J10 (Croft Interchange) to J26, M58 (Orrell Interchange), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T12:04:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M621 West Yorkshire - Narrow lanes and a speed restriction of 50 mph on M621 in both directions between J1, A6110 (Beeston) and J2, A643 (Elland Road), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T12:04:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 Bedfordshire - It&apos;s heavy on M1 southbound around J11, A505 (Dunstable). Travel time is five minutes.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T11:19:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M40 Oxfordshire - The usual congestion on M40 southbound before J9, A34 (Bicester). Travel time is five minutes.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T11:21:46+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

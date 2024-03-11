@@ -1,0 +1,68 @@
+service: ${self:custom.serviceName}
+
+plugins:
+  - serverless-webpack
+  - serverless-scriptable-plugin
+
+custom:
+  accountId: ${ssm:/accountId}
+  outputSnsTopicName: ${self:provider.stage}-stuck-in-traffic-topic
+  metricNamespace: AggregateMetrics
+  serviceName: ${self:provider.stage}-stuck-in-traffic
+  stage: ${opt:stage, 'int'}
+  morphDataEnvOverrides: # on int or test stage we can override the upstream SBL env
+    int: 'live'
+    test: 'live'
+  morphDataEnv: ${self:custom.morphDataEnvOverrides.${self:custom.stage}, 'live'}
+  deploymentBucket: ${self:custom.stage}-interactive-tv-data-deployment-bucket
+  scriptHooks:
+    after:deploy:compileEvents: serverless-add-event-triggers.js
+  webpack:
+    webpackConfig: './webpack.config.cjs'
+
+resources:
+  Resources:
+    OutputTopic:
+      Type: AWS::SNS::Topic
+      Properties:
+        TopicName: ${self:custom.outputSnsTopicName}
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: eu-west-1
+  stage: ${self:custom.stage}
+  logRetentionInDays: 30
+  deploymentBucket: ${self:custom.deploymentBucket}
+
+  stackTags:
+    BBCComponent: ${self:custom.serviceName}
+    BBCProject: interactive-tv-data
+    BBCEnvironment: ${self:custom.stage}
+
+  iamRoleStatements:
+    - Effect: 'Allow'
+      Action:
+        - 'sns:Publish'
+      Resource:
+        - 'arn:aws:sns:eu-west-1:${self:custom.accountId}:${self:custom.outputSnsTopicName}'
+    - Effect: 'Allow'
+      Action:
+        - 'cloudwatch:PutMetricData'
+      Resource: '*'
+    - Effect: 'Allow'
+      Action:
+        - 'ssm:GetParameter'
+      Resource:
+        - 'arn:aws:ssm:eu-west-1:${self:custom.accountId}:parameter/credentials/certs/bbc/cert'
+        - 'arn:aws:ssm:eu-west-1:${self:custom.accountId}:parameter/credentials/certs/bbc/key'
+        - 'arn:aws:ssm:eu-west-1:${self:custom.accountId}:parameter/credentials/certs/bbc/ca'
+
+functions:
+  aggregate:
+    handler: src/handler.handleEvent
+    name: ${self:custom.serviceName}
+    description: Hits travel API and finds any potentially stale data
+    environment:
+      MORPH_DATA_ENV: ${self:custom.morphDataEnv}
+      OUTPUT_TOPIC_ARN: 'arn:aws:sns:eu-west-1:${self:custom.accountId}:${self:custom.outputSnsTopicName}'

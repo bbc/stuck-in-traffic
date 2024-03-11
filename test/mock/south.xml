@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M27 Hampshire - One lane closed on M27 in both directions at J8, A3024 (Bursledon), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:54:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Berkshire - M4 lane closed on exit slip road eastbound at J13, A34 (Chieveley), because of emergency drainage repairs. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T12:04:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Berkshire - One lane closed and it&apos;s heavy on M4 eastbound between J10 A329(M) Wokingham and J8/9, A404 (Maidenhead), because of an earlier accident and a spillage.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T12:13:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A420 Oxfordshire - A420 Botley Road in Oxford closed from Oxford Station Mini roundabout to the Cripley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-11-17T10:57:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A334 Hampshire - A334 Charles Watts Way in Southampton closed eastbound from the A27 Moorhill Road junction to Hedge End, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-18T12:34:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A340 Berkshire - A340 Basingstoke Road in Aldermaston Wharf closed in both directions from the Station Road junction to the A4 Bath Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-18T16:52:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3024 Hampshire - A3024 Brunswick Place in Southampton closed eastbound from the Water Lane junction to the Kings Park Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-05T12:17:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A273 West Sussex - A273 Isaacs Lane in Burgess Hill closed in both directions between the B2036 Pains Flat junction and the the Holmbush Farm turn off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-07T20:54:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3055 Isle Of Wight - A3055 Leeson Road in Ventnor closed in both directions between the Bonchurch Shute junction and the Luccombe Chine junction, because of a landslip.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-08T07:38:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A350 Dorset - A350 Bridge Approach in Poole closed in both directions at Poole Bridge, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T07:20:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A44 Oxfordshire - A44 Oxford Road in Southcombe closed in both directions from The Chipping Norton turn off junction to The Enstone turn off junction, because of accident investigation work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T12:07:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A35 Dorset - A35 Bournemouth Road in Branksome blocked and delays in both directions between Pottery Junction and The Car Dealership junction, because of a fire at a building.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T12:08:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Berkshire - Speed restriction of 50 mph on M4 in both directions between J13, A34 (Chieveley) and J14, A338 (Hungerford), because of a contraflow and roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:58:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M27 Hampshire - Lane closed on M27 in both directions from J12, M275 (Portsmouth) to J11, A27 (Fareham), because of drainage works.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T08:14:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Wiltshire - Temporary lights on A30 in Salisbury between the Old Malthouse Lane junction and St Thomas Bridge Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T16:33:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A418 Buckinghamshire - Temporary lights on A418 in Rowsham at the Manor Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T15:22:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4494 Berkshire - B4494 in Leckhampstead closed in both directions from the the RAF Welford turn off junction to the the Leckhampstead turn off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T14:47:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A29 West Sussex - Temporary lights on A29 Church Hill in Pulborough at the Old Rectory Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-01T08:56:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3008 Hampshire - B3008 Victoria Road in Aldershot closed from the Heathland Street junction to the Wellington Street junction, because of traffic measures during peak hours.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-28T11:58:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A418 Oxfordshire - Temporary lights on A418 Oxford Road in Tiddington near the the Fox and Goat Pub junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-02T11:18:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2140 West Sussex - B2140 Old Worthing Road in Angmering closed in both directions between Blue Star Roundabout and the Roundstone Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-10T12:48:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A272 West Sussex - Temporary lights on A272 Petersfield Road in Midhurst near the the Halfmoon Pub junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-17T10:42:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3004 Hampshire - B3004 Standford Lane in Lindford closed southbound from the Cricket Lea junction to the Mill Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-01T14:49:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3004 Hampshire - B3004 Mill Lane in Alton closed in both directions from the Milsom Road junction to the Montecchio Way junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-05T20:47:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3057 Hampshire - Temporary lights on A3057 Romsey Road in Nursling around the Redbridge Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-08T11:31:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A417 Oxfordshire - Temporary lights on A417 Faringdon Road in both directions in Stanford In The Vale at the Joyces Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-08T14:39:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A331 Hampshire - Lane closed on A331 Blackwater Valley Route near Frimley, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T14:09:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3004 Hampshire - B3004 Liphook Road in Lindford closed in both directions from The Royal Exchange Pub junction to the Lindford Club junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-13T12:25:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3049 Hampshire - B3049 Clifton Terrace in Winchester closed in both directions from the B3040 Romsey Road junction to the B3420 Upper High Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-18T18:13:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A32 Hampshire - Temporary lights on A32 Mumby Road in Gosport around The Castle Tavern junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-19T11:55:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3322 Isle Of Wight - B3322 Alum Bay New Road in Totland closed in both directions from the Madeira Road junction to the Alum Bay Old Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-22T14:05:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3016 Berkshire - B3016 Finchampstead Road in Finchampstead closed from the Barkham Ride junction to the B3430 Nine Mile Ride junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T18:07:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A2030 Hampshire - Temporary lights on A2030 Havant Road in both directions in Farlington at the Lower Farlington Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-25T19:47:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A32 Hampshire - Temporary lights on A32 Wickham Road in both directions in Fareham near the Pook Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T17:21:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4 Berkshire - Temporary lights on A4 Bath Road in Theale between the A340 junction and the Bostock Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T18:03:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A259 West Sussex - Temporary lights on A259 Littlehampton Road in Ferring near the Langbury Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T13:11:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2223 West Sussex - B2223 Sompting Avenue in Worthing closed westbound from the Sompting Road junction to the Broadwater Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T09:54:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3090 Hampshire - Temporary lights on A3090 Main Road in Hursley near The Dolphin Inn junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T11:16:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4095 Oxfordshire - Temporary lights on A4095 Lords Lane in Bicester at the B4100 Banbury Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T17:39:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A36 Hampshire - Temporary lights on A36 Salisbury Road in both directions in Calmore at the Stanley Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T06:09:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A360 Wiltshire - Temporary lights on A360 Devizes Road in Salisbury at the Bedford Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T12:03:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3208 Surrey - One lane closed on B3208 Water Lane eastbound in Badshot Lea from the A325 junction to the Sainsbury&apos;s junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T09:28:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A334 Hampshire - Temporary lights on A334 Mill Hill in Botley near the Botley Hill junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T12:06:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Surrey - One lane closed on A30 London Road in Blackwater near Meadows Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T14:10:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3001 Surrey - B3001 Station Hill in Farnham closed in both directions between The Fairfield junction and the Tilford Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:19:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3048 Hampshire - Temporary lights on B3048 in St Mary Bourne between the Egbury Road junction and the Harroway junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T10:02:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3048 Hampshire - Temporary lights on B3048 in St Mary Bourne at the the Church junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T17:39:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Langford Road in Portsmouth closed in both directions from the Harcourt Road junction to the George Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-02-22T12:15:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Temporary lights on Glenferness Avenue in both directions in Bournemouth at the Rothesay Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-14T17:00:09+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Unicorn Road in Portsmouth closed between the A3 Alfred Road junction and the Anchor Gate Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-11T09:42:29+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Traffic is taking turns on West Way in both directions in Broadstone, Poole near the Mallow Close junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-18T13:38:20+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Road permanently closed and a new road layout on Fir Tree Lane in Bishopstoke between the Allington Lane junction and the Fir Tree Close junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-19T09:42:21+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Mindenhurst Road in Deepcut closed in both directions from the Deepcut Bridge Road junction to the Brunswick Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-29T16:56:37+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Marsh Lane in Stoke Mandeville closed in both directions from the North Lee Lane junction to the Chestnut Way junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-13T04:47:45+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Blackbushes Road in Elvetham closed in both directions from the A30 Hartford Bridge Flats junction to the Ivyhole Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-23T15:56:18+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - East Park Terrace in Southampton closed in both directions between the Charlotte Place Roundabout junction and the New Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-27T12:39:51+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Wootton Road in Tiptoe closed in both directions from the B3055 Arnewood Bridge Road junction to the Middle Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-01T15:49:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Blakes Road in Hare Hatch closed in both directions between the Blakes Lane junction and the Purfield Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-09T19:53:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - St Peters Road in Earley closed in both directions from the B3350 Church Road junction to the A329 Wokingham Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-28T20:48:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Temporary lights on Foreman Park in Ash near the Foreman Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-05T13:40:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Foreman Road in Ash closed in both directions from the Grange Road junction to the A323 Guildford Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-05T15:15:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - South Front in Southampton closed westbound from the A33 Kingsway junction to the Palmerston Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T12:29:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Highbridge Road in Parkstone closed from the Kingsbridge Road junction to the Belle Vue Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-14T13:58:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Owlsmoor Road in Owlsmoor closed from the Copperfield Avenue junction to the Church Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-14T14:29:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Alexandra Road in Portsmouth closed from the A2030 Lake Road junction to the Church Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-18T06:45:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Rownhams Lane in North Baddesley at the Dunnings Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-19T14:42:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Suffolk Road in Bournemouth closed in both directions from the Cambridge Road junction to the Norwich Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-27T08:22:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Denmark Street in Aldershot closed from the North Lane junction to the White Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T10:30:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Stafford Road in Bournemouth closed in both directions from the Madeira Road junction to the Lorne Park Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T12:56:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Temporary lights on Cramhurst Lane in Milford at the Merryacres junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-04T13:55:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Station Road in Padworth closed in both directions between the Basingstoke Road turn off junction and the A4 Bath Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-09T13:32:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Charlotte Street in Portsea closed one way street from the Cascades Approach junction to the Landport View junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-10T13:27:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Heathvale Bridge Road in Ash Vale closed in both directions from the B3411 Vale Road junction to the Hutton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-16T16:40:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Everton Road in Hordle closed in both directions from the Sky End Lane junction to the Frys Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-16T17:28:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Clarence Esplanade in Southsea closed in both directions between The Dell junction and the A288 South Parade junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T12:02:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Temporary lights on Whitley Wood Road in Shinfield near the Mitford Close junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-26T12:46:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Gas main work on Church Road in both directions in Woodley from the Butts Hill Road junction to the Duffield Road junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-26T15:39:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Newtown Lane in Verwood closed eastbound from the B3072 Manor Road junction to the Newtown Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-29T15:34:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Road in Calvert closed between the Three Points Lane junction and the Brackley Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-30T10:18:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Commercial Road in Portsmouth closed in both directions between The Train Station junction and The Premier Inn junction, because of roadworks. Diversion in operation - bus services 1/2/7.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T12:52:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Hunts Pond Road in Titchfield from the Netley Road junction to the Abshot Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T12:39:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Worthing Road in Southwater at the Fairbank Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T14:25:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Pebble Hill in Kintbury closed in both directions from the Kintbury Road junction to the Rooksnest Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T13:41:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Little Ann Road in Abbotts Ann closed in both directions from the Mill Lane junction to the A343 Salisbury Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T13:56:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Palmerston Road in Southampton closed in both directions from the New Road junction to the South Front junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T14:03:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Beechey Road in Bournemouth closed in both directions from the Cavendish Road junction to the Wellington Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T20:47:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Helmdon Road in Greatworth closed in both directions from the B4525 junction to the Peveril Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T14:34:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Temporary lights on Sandhurst Road in both directions in Crowthorne near the Kingsley Close junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T12:53:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A27 Hampshire - One lane closed on A27 Cams Hill in both directions in Portchester at the Shearwater Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T14:29:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Winfrith Way in both directions in Nursling at the Nursling Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T16:28:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Horns Drove in both directions in Rownhams at the Nutshalling Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T16:30:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3064 Dorset - Temporary lights on B3064 Lansdowne Road in Bournemouth at the Milton Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T11:52:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3073 Dorset - Temporary lights on B3073 Leigh Road in Wimborne near the Lonsdale Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T12:14:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Amberley Drive in Goring By Sea around the Arlington Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T14:16:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3404 Hampshire - Temporary lights on B3404 Alresford Road in both directions in Winchester at the Baring Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-18T18:10:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3040 Hampshire - Temporary lights on B3040 Romsey Road in both directions in Winchester at the B3049 Clifton Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-18T18:14:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3064 Dorset - Temporary lights on B3064 Lansdowne Road in both directions in Bournemouth at the Beechey Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-18T18:56:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Temporary lights on King&apos;s Road in both directions in Reading at the Abbey Square junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-18T20:48:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2177 Hampshire - Temporary lights on B2177 Bedhampton Hill Road in Bedhampton around the the Beefeater junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T11:54:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3333 Hampshire - Temporary lights on B3333 South Street in Gosport at the South Cross Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T11:56:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3333 Hampshire - Temporary lights on B3333 Privett Road in Gosport at the Browndown Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T11:57:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Eagle Avenue in Waterlooville at the Fulmer Walk junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:08:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Berkshire - Nine Mile Ride in Finchampstead closed from the B3016 Finchampstead Road junction to the Gorse Ride South junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:12:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - South Road in Catherington closed in both directions from the North Road junction to the London Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:13:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Stoneham Lane in Eastleigh at the the Church junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:47:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Avington Road in Itchen Abbas closed between the Avington Lane junction and the Avington Park Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T11:12:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Newton Lane in Noar Hill closed from the Hawkley turn off junction to the Shotters Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T12:06:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Oxfordshire - Temporary lights on Station Road in Brize Norton near The Fosseway junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T12:49:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Pembroke Way in Bognor Regis near the Oxford Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T14:30:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Isle Of Wight - Knighton Shute in Knighton closed in both directions from the Knighton Road junction to The Shute junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-24T14:50:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Shell Lane in Colemore closed from the A32 junction to the St Peter ad Vincula Church junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T14:59:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3354 Hampshire - Temporary lights on B3354 Main Road in Fishers Pond at the B2177 Portsmouth Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T13:30:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Traffic is taking turns on Brooks Lane in Broadbridge at the Broadbridge Drive junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:06:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Roman Road in Westhampnett near the Old Arundel Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:12:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on East Portway in Andover near the Sterling Park junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T17:49:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Greenacres Ring in Angmering around the Lansdowne Way junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:05:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3400 Hampshire - Temporary lights on B3400 London Road in Freefolk at the Priory Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T17:12:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Gally Hill Road in Crookham Village near The Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T17:27:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Chapel Road in West End near the St James Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T17:31:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4017 Oxfordshire - Temporary lights on B4017 Abingdon Road in Steventon at the Hanney Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:55:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Oxfordshire - The Straight Mile in Kidlington closed in both directions between the Upper Campsfield Road junction and the Banbury Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T08:29:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2113 West Sussex - Temporary lights on B2113 Folders Lane in Ditchling Common near the Stroudly Drive junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T13:59:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Stop-go boards and roadworks on Cuckfield Road in Hurstpierpoint near the Barter Close junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T14:06:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Curvins Way in Lancing closed in both directions from the Hayley Road junction to the A2025 Grinstead Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T12:53:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Manor Road in Lancing closed in both directions at the Greenoaks junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T12:54:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Watery Lane in West Ashling closed in both directions from the Down Street junction to the Admirals Walk junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T10:18:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Spring Road in Southampton closed from the A3025 Portsmouth Road junction to the Cranbury Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:50:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - West Chiltington Road in Nutbourne Common closed in both directions from the Nutbourne Road junction to the Panners Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:18:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on New Road in Littlehampton near the Lidl junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:27:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Wide Lane in Southampton near the Swaythling turn off junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T11:10:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Avon Causeway in Hurn closed in both directions from the Matchams Lane junction to Court Farm Junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T11:51:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Winslow Road in Swanbourne closed in both directions between the A413 Bennetts Hill junction and the Nearton End junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T17:16:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4100 Oxfordshire - Temporary lights on B4100 Warwick Road in Banbury near the Firtree Close junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T17:36:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Oxfordshire - Fringford Road in Caversfield closed in both directions between the A4095 Southwold Lane junction and the Skimmingdish Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T17:50:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Oxfordshire - Temporary lights on Morrell Avenue in Oxford near the Cross Street junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T17:55:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B480 Oxfordshire - Temporary lights on B480 Watlington Road in Cowley, Oxford at the Oxford Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T18:04:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Temporary lights on Stoneham Lane in both directions in Eastleigh at the Chestnut Avenue junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T06:22:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Suffield Lane in Elstead closed from the Littleworth Road junction to the Rodsall Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:49:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2127 Surrey - Temporary lights on B2127 Bookhurst Road in Cranleigh at the Parklands Drive junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T13:30:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Robin Hood Lane in Broadbridge Heath between the Rookwood Golf Course turn off junction and the Bailing Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T13:45:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Green Lane in Monxton closed in both directions from the Keepers Hill junction to the Andover Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T07:09:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Cooks Pond Road in Milland closed in both directions between the Rake Road junction and the Chithurst Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T11:42:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Fullers Road in Rowledge closed in both directions from the Farnham turn off junction to the High Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T12:49:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Morris Road in Farnborough closed in both directions from the A3011 Lynchford Road junction to the Gordon Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:56:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Traffic is taking turns on Lion Mead in Shottermill near the Meadway junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:11:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Parkstone Avenue in Southsea, Portsmouth closed in both directions from the Nettlecombe Avenue junction to the Old Bridge Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:16:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Clarence Road in Bognor Regis closed in both directions from the High Street junction to The Esplanade junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:51:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - Fareham Road in Hambledon closed in both directions from the B2150 West Street junction to the Bent Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:55:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hampshire - High Street in West Meon closed in both directions between the Doctors Lane junction and the the A32 junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T15:24:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Brook Road in Wormley closed westbound from the Sebastopol Lane junction to the Church Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T15:32:08+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A501 Antrim - A501 Glen Road in Hannahstown closed in both directions between the Glenside Road junction and the Suffolk Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-20T12:41:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A29 Londonderry - Temporary lights on A29 Drumcroon Road in both directions in Coleraine from the Killeague Road junction to the Ballylintagh Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T12:27:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Antrim - Derriaghy Road in Derriaghy closed in both directions from the Milltown Road junction to the A513 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T11:39:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Down - Barr Hall Road in Portaferry closed in both directions from the Shore Road junction to the Bar Hall Bay junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T11:53:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B183 Antrim - One lane closed and temporary lights on B183 Moneynick Road eastbound in Creggan-Cranfield from the Ballynafey Road junction to the Derryhollagh Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T11:34:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Antrim - Ballyduff Road in Newtownabbey closed in both directions from the Fairview Road junction to the Carnmoney Road junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T13:01:47+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

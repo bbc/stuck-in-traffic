@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A1309 Cambridgeshire - Temporary lights on A1309 Milton Road in Chesterton near the Fraser Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Woodhead Drive in Chesterton, Cambridge closed in both directions from the A1309 Milton Road junction to the Hopkins Close junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Kendal Way in Cambridge closed in both directions between the A1309 Milton Road junction and the Shirley Grove junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-01-25T20:01:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bedfordshire - The Bottoms in Harlington closed in both directions from the Harlington junction to the Harlington junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-01T18:43:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - West Bank in Crowland closed in both directions from the West Street junction to the B1166 Gravel Causeway junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-28T11:01:29+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bedfordshire - Midland Road in Bedford closed westbound from the Costin Street junction to the A5141 Prebend Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-15T13:59:30+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Sandy Lane in Harpole closed in both directions from the Larkhall Lane junction to the Berrywood Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-26T15:19:19+01:00" />
+  </tpeg_message>
+
+</tpeg_document>

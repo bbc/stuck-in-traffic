@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A178 County Durham - A178 The Front in Seaton Carew closed in both directions from the B1276 Station Lane junction to the Church Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-05T19:08:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5086 Cumbria - A5086 Parkside Road in Frizington closed in both directions between the B5294 Church Street junction and the Red Beck Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-21T15:47:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6 Cumbria - A6 King Street in Penrith closed from the Market Square junction to the Langton Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-22T10:58:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A592 Cumbria - A592 Kirkstone Pass closed in both directions from the Hartsop turn off junction in Hartsop to the Townhead Brow junction in Troutbeck, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T14:39:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A689 County Durham - Temporary lights on A689 in Bishop Auckland around the Newton Cap Viaduct junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-04T11:30:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A182 County Durham - Temporary lights on A182 in Dawdon near the Admiralty Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T13:49:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6344 Northumberland - B6344 in Longframlington closed in both directions between the the A697 junction and the Longframlington turn-off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-08T11:15:50+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A191 Tyne And Wear - Temporary lights on A191 Benton Park Road in South Gosforth, Newcastle upon Tyne at South Gosforth roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-06T14:18:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1328 Northumberland - B1328 Bridge Street in Blyth closed from the B1329 junction to the B1327 Union Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-10T14:03:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A167 Tyne And Wear - Temporary lights on A167 Durham Road in Birtley near the the Birtley Leisure Centre junction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-27T13:33:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A174 North Yorkshire - Temporary lights on A174 Zetland Road in Loftus at the B1366 Station Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-01T09:40:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1 Tyne And Wear - Narrow lanes and a speed restriction of 50 mph on A1 Western Bypass in both directions in Tyne and Wear from J67, Kingsway (Coalhouse Roundabout) to the A1(M) J65 junction, because of major widening works. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T12:03:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A172 North Yorkshire - Temporary lights on A172 Marton Road in Middlesbrough at the Marton Burn Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T13:37:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A183 Tyne And Wear - Temporary lights on A183 Mill Lane in Whitburn at the Fern Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T13:58:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A183 Tyne And Wear - Temporary lights on A183 Coast Road in South Shields near the Kingsway junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T14:04:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A183 Tyne And Wear - Temporary lights on A183 Roker Terrace in Roker at the St Georges Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T10:06:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A186 Tyne And Wear - Temporary lights on A186 Collingwood Street eastbound in Newcastle Upon Tyne from the Westgate Road junction to the Groat Market junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T07:15:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1 Tyne And Wear - A1 Western Bypass in Kingston Park lane closed on exit slip road and it&apos;s slow northbound at J77, A167 (Kenton Bar Roundabout), because of a breakdown.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:25:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6255 North Yorkshire - Temporary lights on B6255 in Hawes near the Lanacar Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-22T15:45:37+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6259 Cumbria - Temporary lights on B6259 northbound in Outhgill near the Tommy Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T09:30:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6277 County Durham - Temporary lights on B6277 in Mickleton at the West Pasture Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:44:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Liddell Street in North Shields near the Clive Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Gas main work and roadworks on Scarborough Street in South Bank at the Harcourt Road junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-28T22:52:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Cromwell Road in South Bank closed in both directions from the Harcourt Road junction to the Ann Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-28T22:54:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - No through traffic allowed on Jesmond Dene Road in Jesmond, Newcastle at the Grosvenor Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-17T06:56:07+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Camerton Road in Camerton closed in both directions from the Green End junction to the Coldgill Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-01T09:51:05+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Tyne Street in North Shields closed from the Union Street junction to the Linskill Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-04T13:04:57+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Laygate Street in South Shields closed from the Commercial Road junction to the West Holborn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-04T13:16:56+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Heaton Park View in Heaton closed in both directions from the Warwick Street junction to the Heaton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-11T11:41:56+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Saunders Avenue in Witton Le Wear closed in both directions between the the A68 junction and the Saint James Church junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T11:34:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Bell St in North Shields closed in both directions from the Liddell Street junction to the Union Quay junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-09T14:34:59+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Pym Street in South Bank closed in both directions between the Harcourt Road junction and the Ann Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-11T20:30:09+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Pilgrim Street in Newcastle Upon Tyne closed southbound between the Blackett Street junction and Swan House Roundabout, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-11T20:38:10+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Prospect Row in Hendon closed in both directions from the Silver Street junction to the Barrack Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T09:49:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Wallnook Lane in Langley Park closed in both directions between the Front Terrace junction and the Firs Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-18T17:08:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Easson Street in Middlesbrough closed in both directions from the Park Road South junction to the Marton Grove Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T09:20:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - No through traffic allowed on Berwick Avenue in Castletown from the Birrell Street junction to the Barrow Street junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T13:36:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Temporary lights on Castle Road in High Stakesby, Whitby at the High Stakesby Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T09:36:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Temporary lights on Marton Grove Road in both directions in Marton Grove, Middlesborough between the Valley Road junction and the Eden Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T10:09:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Smithfield Road in Darlington closed in both directions from the Neasham Road junction to the Henderson Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T09:49:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - One lane closed on Aynam Road southbound in Kendal from the A6 New Road junction to the Nether Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T09:44:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Low Street in Leeming Bar closed from the Leases Road junction to the Fence Dike Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-06T11:25:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1365 North Yorkshire - Traffic is taking turns on B1365 Meadowfield in both directions in Stokesley at the Cleveland Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T14:16:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Devonshire Street in Carlisle closed in both directions between the A7 Lowther Street junction and the Victoria Viaduct junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-11T16:27:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Kirkbarrow in Kendal closed in both directions from the Glebe Road junction to the Anchorite Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T09:48:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Clifford Terrace in Crawcrook closed in both directions from the Clifford Gardens junction to the B6317 Main Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T13:55:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Temporary lights on The Fleet in Dormanstown, Redcar at the Wilton Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T10:30:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Wilton Avenue in Redcar closed in both directions from the Broadway West junction to the Hobson Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:09:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Road in Brisco closed between the Crossroads House B junction and the Highways England Lowhurst depot junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:12:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Easington Street in Sunderland closed in both directions from the Sheepfolds North junction to the Richmond Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T10:16:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Temporary lights on Levens Lane in both directions in Levens near the Church Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T17:18:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Pottery Lane in Newcastle Upon Tyne closed from the Shot Factory Lane junction to the B1600 Forth Banks junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T11:35:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - The Avenue in Whitby closed in both directions from the B1460 Castle Road junction to the Westbourne Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T12:37:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Temporary lights on Syke Road in Wigton at the Highmoor Park junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T15:45:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Westmorland Road in both directions in Elswick at the St Johns Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T16:43:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Temporary lights on Levens Drive in both directions in Newtown at the Woodend Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T16:54:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northumberland - Temporary lights on Ovingham Road in Wylam at the Main Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:32:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Blackfell Road in Blackfell, Washington at the Knoulberry Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:33:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Temporary lights on Victoria Road in Hartlepool at the B1277 York Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:38:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Temporary lights on Damson Way in Dragonville, Durham near the Dragon Ville junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:45:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Temporary lights on Damson Way in both directions in Gilesgate Moor at the Dragonville Link Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:45:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Mullen Road in both directions in Wallsend at the Kings Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:52:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Senhouse Street in Maryport closed westbound from the A596 Curzon Street junction to the Crosby Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-03T13:34:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Helmside Road in Oxenholme closed in both directions from the Kendal Turn Off junction to the A65 Burton Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:11:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Temporary lights on Wattsfield Road in Kendal near the Bellingham Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:12:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Temporary lights on Marton Road in Middlesbrough at the Cineworld junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:38:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1272 North Yorkshire - Temporary lights on B1272 Linthorpe Road in Middlesbrough at the Borough Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:39:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Temporary lights on Huckelhoven Way in Hartlepool at the Whitby Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:42:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Fulwell Road in Sunderland near the Stranton Terrace junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:55:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Kitchener Road in Whitburn at the Arthur Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:03:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Coronation Street in South Shields near the Cornwallis Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:08:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Minton Lane in North Shields near the Minton Court junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:09:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Beach Road in Tynemouth at the Regents Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:18:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on New York Road in Murton at the Murton Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:20:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Peter Lane in Carlisle closed in both directions from the Newby West Roundabout junction to the B5299 Dalston Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T12:53:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Temporary lights on Cumwhinton Road in Carleton, Carlisle at the Cumwhinton Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T16:57:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5299 Cumbria - Temporary lights on B5299 Dalston Road in Carlisle at the Woodend Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T17:00:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Temporary lights on Rose Street in Gateshead at the Team Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T17:14:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Rose Street in Gateshead closed in both directions between the Vine Close junction and the Morrison Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T17:16:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northumberland - Havelock Street in Blyth closed one way street from the B1328 Bridge Street junction to the the Waterloo Pub junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:11:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6301 County Durham - Temporary lights on B6301 Ford Road in Lanchester at the Ford Crescent junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T17:34:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1432 County Durham - Temporary lights on B1432 Stockton Road in Cold Hesledon at the B1285 junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:50:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">County Durham - Back East Parade in Consett closed in both directions from the Seymour Street junction to the Railway Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T16:33:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cumbria - Temporary lights on Busk Lane in Sedbergh between the Loftus Hill junction and the Birks Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T07:54:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Traffic is taking turns on Aisgill Drive in West Denton at the Ashdale Crescent junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:29:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Traffic is taking turns on Haig Street in Dunston near the Dunston Activity Centre junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:32:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Viewforth Terrace in Sunderland closed eastbound from the Eston Grove junction to the A1018 Newcastle Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-28T15:33:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A171 North Yorkshire - Lane closed on A171 Cargo Fleet Lane in Middlesbrough at Bramble Farm Traffic Lights, because of electricity work.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T13:40:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Tyne And Wear - Lane closed on Burdon Road in New Silksworth at the B1286 Doxford Park Way junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T13:50:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A183 Tyne And Wear - Lane closed on A183 Whitburn Road in Whitburn at Marriott roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T13:57:45+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

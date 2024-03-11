@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M5 Worcestershire - Two lanes closed and queues on M5 southbound from J4a M42 to J5, A38 (Droitwich), because of a lorry that&apos;s broken down. Travel time is around 25 minutes.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:50:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A439 Warwickshire - A439 Warwick Road in Stratford Upon Avon closed northbound from the A3400 Bridgeway junction to the Sand Barn Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-22T12:49:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4034 West Midlands - A4034 Bromford Road in Oldbury closed westbound from the A4182 Kelvin Way junction to the Fountain Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-28T13:14:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - The A448 in Mustow Green closed in both directions between the Harvington Hall Lane junction and the the Belbroughton turn off junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-05T12:55:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5191 Shropshire - A5191 Shoplatch in Shrewsbury closed westbound from the Market Street junction to the St John&apos;s Hill junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-05T14:15:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A449 Staffordshire - A449 Wolverhampton Road in Stafford closed outbound from Queensway Island to the Crescent Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-05T16:57:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5 Staffordshire - One lane closed on A5 westbound in Mile Oak from the B5404 Hints Road junction to Weeford Interchange, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-09T06:44:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A426 Warwickshire - Temporary lights on A426 in both directions in Hill between the Leamington Hastings junction and the Hospital Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T14:41:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A51 Staffordshire - Temporary lights on A51 in both directions in Great Haywood at the Church Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T08:44:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Staffordshire - It&apos;s slow on A38 southbound in Streethay from Lichfield to Swinfen Island, because of an obstruction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:59:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A51 Staffordshire - It&apos;s heavy on A51 in both directions in Hopwas from the B5404 Plantation Lane junction to the Jerrys Lane junction, because of an obstruction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T12:16:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4380 Shropshire - B4380 in Cressage closed in both directions from the A458 Shrewsbury Road junction to the Eaton Constantine turn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T12:21:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A461 West Midlands - Temporary lights on A461 Church Street in both directions in Brierley Hill near the Church Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-04-10T07:56:33+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A445 Warwickshire - Roadworks and restrictions on A445 Leamington Road in Cubbington around the Coventry Road junction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-07T13:26:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A457 West Midlands - Narrow lanes on A457 Spring Hill in both directions in Winson Green, Birmingham between the City Hospital junction and Spring Hill Circus, because of a contraflow and major roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-14T13:46:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4177 Warwickshire - Temporary lights on A4177 Birmingham Road in Hatton Park near the the Shell Petrol Station junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-27T08:43:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A449 Staffordshire - Temporary lights on A449 Wolverhampton Road in Himley at Himley Crossroads, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-03T14:07:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4123 West Midlands - Lane closed on A4123 Birmingham New Road in both directions in Tipton around the A4037 Tipton Road junction, because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-04T12:34:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A460 West Midlands - Temporary lights on A460 Cannock Road in Fallings Park around the Park Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-04T13:47:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A34 Staffordshire - One lane closed on A34 Ringway in Cannock at Queen&apos;s Square, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-09T17:59:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A52 Staffordshire - Temporary lights on A52 Ash Bank Road in Werrington near the Washerwall Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-22T16:18:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A439 Warwickshire - Temporary lights on A439 Warwick Road in Stratford Upon Avon near the the Church junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-30T13:34:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A441 Worcestershire - Temporary lights on A441 Evesham Road in Astwood Bank at the B4092 Sambourne Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-31T13:44:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4438 West Midlands - B4438 Catherine De Barnes Lane in Solihull closed from the B4102 Solihull Road junction to the Shadow Brook Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-08T08:01:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A460 West Midlands - Temporary lights on A460 Cannock Road in both directions in Park Village at the Park Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-18T22:04:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4190 Worcestershire - B4190 Severn Bridge in Bewdley closed eastbound between the Severn Side North junction and The Bewdley Inn, because of a one-way system in place and flood prevention measures.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-19T09:28:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4514 West Midlands - Temporary lights on B4514 Olton Boulevard East in both directions in Acocks Green at the A41 Gospel Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-19T21:20:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A417 Herefordshire - Temporary lights on A417 Leadon Way in Ledbury at the Martins Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T13:58:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4030 West Midlands - Temporary lights on A4030 Bearwood Road in Smethwick at the Newlands Green junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T13:17:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A429 Warwickshire - Temporary lights on A429 Fosse Way in both directions in Halford near The Halford Bridge Inn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-01T06:26:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4515 West Midlands - B4515 Nursery Road in Lozells closed in both directions from the Brougham Street junction to the Villa Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-01T12:27:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5127 Staffordshire - Temporary lights on A5127 Burton Road at Streethay, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-01T18:12:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4040 West Midlands - Temporary lights on A4040 Station Road in Stechford at the Yardley Fields Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T10:47:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4144 West Midlands - B4144 Lozells Road in Lozells, Birmingham closed in both directions from the Wilton Street junction to the A34 High Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T12:21:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Herefordshire - Temporary lights on The A49 in Wellington Marsh near the the Upper Wellington turn off junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A45 West Midlands - One lane closed on A45 Dunchurch Highway westbound in Coventry after the A4114 Pickford Way junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A491 West Midlands - Temporary lights on A491 Wolverhampton Road in Kingswinford near the B4175 Dudley Road junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Temporary lights on The A44 in Chadbury, Evesham near The Wood Norton Hotel junction, because of water main work. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4217 West Midlands - Temporary lights on B4217 Edgbaston Road in Edgbaston, Birmingham near the Cannon Hill Park junction, because of gas main work. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A461 West Midlands - Temporary lights on A461 Horseley Heath in Tipton near the Horseley Road junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A452 Warwickshire - Temporary lights on A452 Europa Way in Leamington Spa at the Gallows Hill junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:55:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5191 Shropshire - Temporary lights on A5191 Shoplatch in both directions in Shrewsbury between the Claremont Street junction and the St John&apos;s Hill junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T14:16:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4041 West Midlands - One lane closed on A4041 Queslett Road in both directions in Great Barr, Birmingham at Scott Arms Traffic Lights, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T08:01:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A458 West Midlands - Temporary lights on A458 Stourbridge Road in Halesowen near The King Edward Pub junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T12:06:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4100 West Midlands - Temporary lights on A4100 High Street in Blackheath near The Knights Quest junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T12:15:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A452 West Midlands - One lane closed on A452 Chester Road in both directions in Castle Vale, Birmingham at Spitfire Island, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T12:27:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5061 Shropshire - B5061 Holyhead Road in Telford closed in both directions from the Furnace Road junction to the Snedshill Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T13:49:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A460 West Midlands - Temporary lights on A460 Cannock Road in Wolverhampton near the Park Lane junction, because of water main work. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T15:59:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A491 West Midlands - Temporary lights on A491 Stream Road in Wordsley at the Ashdown Drive junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T12:38:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4040 West Midlands - Temporary lights on A4040 Wellington Road in Perry Barr, Birmingham near the Willmore Road junction, because of electricity work. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T12:58:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5007 Staffordshire - Temporary lights on A5007 City Road in Stoke-On-Trent near The Manor Sports Complex junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T08:06:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A449 Worcestershire - Temporary lights on A449 Wolverhampton Road in both directions in Cookley near the Castle Road junction, because of gas main work. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T08:17:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A456 West Midlands - One lane closed on A456 Hagley Road in both directions in Edgbaston, Birmingham between the B4182 Sandon Road junction and the Fountain Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:42:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Clayhanger Road in Walsall Wood closed in both directions from the B4152 Lindon Road junction to the Maybrook Road junction, because of emergency repairs. Traffic is coping well. Diversion in operation - bus service 8.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:06:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4550 Worcestershire - B4550 Blackpole Road in Worcester closed and it&apos;s heavy in both directions from the Windermere Drive junction to the Cosgrove Close junction, because of an investigation by the police.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T12:06:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5368 Staffordshire - B5368 Lower Milehouse Lane in Newcastle under lyme partially blocked and it&apos;s heavy in both directions at the Douglas Road junction, because of an accident.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T12:07:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4136 West Midlands - It&apos;s heavy on B4136 Windmill Lane in both directions in Smethwick, Birmingham between the A4092 Cape Hill junction and the Ballot Street junction, because of an investigation by the police.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T12:16:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A34 West Midlands - Temporary lights on A34 in Walsall between the Springvale Avenue junction and the Ravensdale Gardens junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T11:04:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4397 Shropshire - Temporary lights on B4397 in Baschurch at the Church Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T14:29:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Cromwell Lane in Burton Green closed in both directions from the Hodgett&apos;s Lane junction to the Red Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - No through traffic allowed on Oak Street in both directions in Rugby from the Barby Road junction to the A426 Dunchurch Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - No through traffic allowed on Frances Road in both directions in Kings Norton, Birmingham from the Lifford Lane junction to the A441 Pershore Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Shirrall Drive in Carroway Head closed in both directions from the A453 Carroway Head Hill junction to the Drayton Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - No through traffic allowed on Rounds Gardens in both directions in New Bilton from the Levy Close junction to the Oliver Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-01-13T07:58:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Shay Lane in Forton closed in both directions between the Forton junction and the Shebdon junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-02-12T22:29:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - St James&apos; Place in Bordesley closed in both directions between the Locke Place junction and the Viaduct Street junction, because of HS2 works.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-16T12:26:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - New Canal Street in Digbeth, Birmingham closed in both directions from the Fazeley Street junction to the Curzon Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-21T20:22:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Fazeley Street in Digbeth, Birmingham closed in both directions from the New Canal Street junction to the Andover Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-21T20:22:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4179 West Midlands - Temporary lights on B4179 Bank Street in both directions in Brierley Hill near the High Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-10T07:42:33+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Talbot Street in Brierley Hill closed one way street from the Albion Street junction to the High Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-11T13:25:57+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Cottage Street in Brierley Hill closed one way street from the High Street junction to the Little Cottage Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-11T13:27:58+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Little Cottage Street in Brierley Hill closed in both directions from the Cottage Street junction to the A461 Venture Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-11T13:33:57+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Long Itchington Road in Offchurch closed in both directions between the the B4455 junction and the Welsh Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-30T09:34:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Dogpool Lane in Selly Park, Birmingham closed eastbound from the A441 Pershore Road junction to the Fashoda Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-08T12:10:52+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Chell Road in Stafford closed northbound from the Broad Eye junction to the A34 Queensway junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-03T10:52:18+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Jiggers Bank in Horsehay closed in both directions from Jiggers roundabout to the Cherry Tree Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-06T13:12:22+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Salop Drive in Quinton closed southbound at the Salop Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-13T12:01:56+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Priory Mews in Warwick closed in both directions near the Cape Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-19T11:20:38+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Crocketts Lane in Smethwick around the A457 Tollhouse Way junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-21T11:06:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Essex Street in Birmingham closed eastbound from the Horse Fair junction to the Inge Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-23T14:18:43+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - The Old Gated Road in Lighthorne closed in both directions from the B4100 Banbury Road junction to The Green junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-24T10:58:21+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - No through traffic allowed on Blake Lane in both directions in Bordesley Green, Birmingham between the B4128 Bordesley Green junction and the Hob Moor Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-26T10:08:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4128 West Midlands - Temporary lights on B4128 Bordesley Green in Bordesley Green, Birmingham around the the Texaco garage junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-26T10:08:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - No through traffic allowed on Green Lane in both directions in Bordesley Green, Birmingham between the B4128 Bordesley Green junction and the Fifth Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-26T10:09:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4128 West Midlands - No through traffic allowed on B4128 Bordesley Green in both directions in Bordesley Green, Birmingham from the Whitacre Road junction to the Fifth Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-26T10:09:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - No through traffic allowed on Churchill Road in both directions in Bordesley Green, Birmingham between the Whitacre Road junction and the B4128 Bordesley Green junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-26T10:10:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Honiley Road in Meer End closed northbound from the Bree&apos;s Lane junction to the Fen End Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-14T11:28:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Birmingham Road in Dudley closed in both directions between the Dudley Bus Station junction and the King Street junction, because of major roadworks. Diversion in operation - NXWM Black Country 2, 6, 7, 8, 12, 12a, 14 and X8.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-17T08:59:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Woodway Lane in Coventry closed in both directions from the Coventry junction to the Coventry junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-19T08:55:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Temporary lights on Station Drive in Ludlow at the Glencoe Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T13:24:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4043 West Midlands - Temporary lights on B4043 Manor Lane in Halesowen at the Leasowes Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T13:48:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Banners Lane in Halesowen at the Colman Hill Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T14:01:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Colmore Row in Birmingham City Centre closed one way street from the Bennetts Hill junction to the Eden Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-05T13:43:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Bruce Road in Coventry closed in both directions from the Links Road junction to the Beake Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-16T10:41:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Ironmasters Way in Telford closed in both directions between the Lawn Central junction and the Bishton Court junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-18T12:27:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Temporary lights on Smorrall Lane in Bedworth at the Hospital Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-18T17:41:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4043 West Midlands - Temporary lights on B4043 Manor Lane in both directions in Halesowen at the Stennels Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-19T10:09:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Londonderry Lane in Smethwick, Birmingham closed in both directions from the B4182 Londonderry Road junction to the Francis Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T13:26:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - College Road in Stoke-On-Trent closed in both directions from the Avenue Road junction to the Cleveland Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-25T11:31:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4184 Worcestershire - Temporary lights on B4184 Hewell Road in Redditch at the Batchley Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T13:35:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Moor End Lane in both directions in Erdington at the Berkswell Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T17:08:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on City Road in Dudley between the Darbys Hill Road junction and the Oakham Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T11:21:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Finch Road in Lozells closed in both directions between the Heathfield Road junction and the Roland Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-03T10:38:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Station Drive in Ludlow closed in both directions from the Glencoe Terrace junction to the Upper Galdeford junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-12T14:07:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4043 West Midlands - Temporary lights on B4043 Manor Lane in both directions in Halesowen at the Stennels Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-18T18:18:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Meriden Street in Digbeth, Birmingham closed in both directions from the New Canal Street junction to the Coventry Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T13:23:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Railway Lane in Willenhall closed in both directions from the B4464 New Road junction to the Longacres junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T13:33:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4551 Worcestershire - Temporary lights on B4551 Bromsgrove Road in Hunnington near the Romsley Cricket Club junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T13:33:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Albert Street in Birmingham City Centre closed westbound from the Moor Street Queensway junction to the New Meeting Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T13:41:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Hurcott Road in Kidderminster closed in both directions from the A451 Stourbridge Road junction to the A449 Chester Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T13:43:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Massbrook Road in Fallings Park closed in both directions from the Inchlaggan Road junction to the Mandale Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T13:45:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Young Close in Kidderminster closed in both directions between the Aldi junction and the A451 Stourport Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T13:10:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Temporary lights on Stoneleigh Road in Stoneleigh near the King&apos;s Hill Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T14:03:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Temporary lights on Dalehouse Lane in Kenilworth near the Whitehead Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T14:04:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Edgbaston Road in Balsall Heath, Birmingham at the Oakfield Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T16:59:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Herefordshire - Temporary lights on Gorsty Lane in Hereford near the Nimrod Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T09:45:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Welford Road in Handsworth, Birmingham closed in both directions from the Broughton Road junction to the Hall Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T13:13:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Herefordshire - Martins Way in Ledbury closed in both directions from the A417 Leadon Way junction to the Biddulph Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T13:58:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Front Street in Ilmington closed in both directions from the Back Street junction to the Foxcote Hill junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T14:17:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Station Bridge Road in Fenton closed from the Glebedale Road junction to the Christchurch Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T11:32:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Lunt Street in Bilston at the Lavender Grove junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T12:04:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Stony Lane in Smethwick at the Auckland Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T13:16:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Temporary lights on Church Road in both directions in Redditch at the Churchfield Court junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T13:58:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Webb Lane in both directions in Hall Green, Birmingham near the Paradise Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:15:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Temporary lights on Lea Bank Avenue in both directions in Kidderminster at The Lea Causeway junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:23:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Tessall Lane in both directions in Longbridge at the Kemshead Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:28:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Warwickshire - Temporary lights on Astley Lane in both directions in Bedworth before the Smorrall Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T08:31:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Manor Road in both directions in Streetly at the A452 Chester Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T08:32:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Beacon Lane in Lydiate Ash closed in both directions from the Alvechurch Highway junction to the Beacon Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-03T12:58:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Crowmeole Lane in Kingsland closed in both directions from the A488 Radbrook Road junction to the B4386 Mytton Oak Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-03T13:29:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Temporary lights on Grove Road in both directions in Shrewsbury near the Leamore Crescent junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T14:21:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Temporary lights on White Hart in both directions in Shrewsbury around the Pulrose Walk junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T14:23:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Temporary lights on Belvidere Road in both directions in Shrewsbury at the Cornelia Crescent junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T14:36:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Hayseech in Halesowen at the Haden Hill junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:08:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Long Innage in Colley Gate near the West Road South junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:09:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Coach Road in Coalbrookdale closed in both directions from the Buildwas Road junction to the Strethill Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:26:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Furnace Road in Telford closed in both directions from the B5061 Holyhead Road junction to the Hazel Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T13:52:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - Temporary lights on Wellington Road in both directions in Newport between Church Aston roundabout and the Greenvale junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:24:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Shropshire - The link road in Crudgington closed in both directions between the A442 Queensway junction and the the B5062 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:27:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Stafford Lane in Oaken closed in both directions from the A41 Holyhead Road junction to the Oaken Lanes junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:30:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Ormes Lane in Tettenhall Wood closed in both directions from the Wood Road junction to The Holloway junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:40:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Wrottesley Road in both directions in Tettenhall at the Nethy Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:01:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Temporary lights on Newhampton Road East in both directions in Wolverhampton near the Fawdry Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:03:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Sidings Road in Pirton closed in both directions from the Hill Road junction to the Station Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T12:32:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Common Lane in Meir Heath closed in both directions from the Bracken Close junction to Meir Heath Crossroads, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T12:50:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Staffordshire - Common Lane in Meir Heath closed in both directions from the Bracken Close junction to Meir Heath Crossroads, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T12:50:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Worcestershire - Temporary lights on Scarfield Hill eastbound in Alvechurch near the the Weighbridge junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T16:33:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Waterloo Road in Wolverhampton closed in both directions from the Clarence Street junction to the Darlington Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - School Street in Wolverhampton closed in both directions from the Darlington Street junction to the Skinner Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Midlands - Darlington Street in Wolverhampton closed in both directions from the Townswell Fold junction to the Waterloo Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T08:00:00+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

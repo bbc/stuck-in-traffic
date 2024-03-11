@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A3216 London - A3216 Sloane Street in Chelsea closed northbound from the Sloane Square junction to Scotch Corner, because of a mobile crane being used.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-10-19T07:56:05+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A400 London - A400 Charing Cross Road in Westminster closed northbound from Trafalgar Square to the St Martin-in-the-Fields junction, because of gas main work. Expect delays. Diversion in operation - via the Strand, Kingsway, High Holborn and Shaftesbury Avenue.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-18T13:01:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A244 Surrey - A244 Chertsey Road in Feltham closed in both directions between the Groveley Road junction and the Phoenix Court junction, because of junction improvements.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-20T08:09:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4094 Buckinghamshire - A4094 Cookham Bridge in Cookham closed in both directions between the Hedsor Road junction and the B4447 High Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-22T09:58:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4200 London - A4200 Eversholt Street in Camden closed southbound from the A400 Oakley Square junction to the Euston Station junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-27T06:42:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A306 London - A306 Hammersmith Bridge in Hammersmith closed in both directions between the Hammersmith Flyover junction and the Castlenau junction, because of long-term roadworks. Diversion in operation - Buses 33, 72, 209, 419, 485 and 609 are curtailed to Lonsdale Road (south of the bridge). All other traffic uses Putney, Chiswick and Kew bridges.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:56:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A246 Surrey - A246 York Road in Guildford closed in both directions from the Victoria Road junction to the Denmark Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-06T08:59:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3214 London - A3214 Buckingham Gate in Central London closed in both directions between the Spur Road junction and the Palace Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-09T10:46:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A40 London - A40 High Holborn in Central London closed eastbound between the New Turnstile junction and the Little Turnstile junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:18:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A118 London - A118 Romford Road in Forest Gate closed in both directions between the Ratcliff Road junction and the Palmerston Road junction, because of a fire at the Police Station earlier. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:05:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3214 London - A3214 Buckingham Palace Road in Victoria closed northbound from the Elizabeth Street junction to the A3213 Eccleston Bridge junction, because of water main work. Diversion in operation - for buses 11, 44, 170, 211, C1 and C10.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:14:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A104 London - A104 Lea Bridge Road in Leyton closed and queues in both directions between the Flempton Road junction and the Perth Road junction, because of accident investigation work. Congestion to half a mile back along Lea Bridge Road westbound, and south on Markhouse Road from Walthamstow. Diversion in operation - for buses 55 and 56.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:36:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M25 London - M25 lane closed on entry slip road anticlockwise at J28, A12 (Brentwood), because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-02T07:33:48+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M25 Surrey - Narrow lanes on M25 in both directions around J10, A3 (Wisley Interchange), because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:57:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M11 Essex - An earlier accident on the exit slip road to the M25 anticlockwise on M11 southbound at J6 M25. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:40:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A404 Buckinghamshire - Temporary lights on A404 in both directions in Beamond End at the Sheepcote Dell Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-11T20:08:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3 London - A3 in Tolworth lane closed on exit slip road in both directions at Tolworth Junction, because of long-term roadworks. Expect delays. On the roundabout.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T06:55:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4 London - One lane closed on A4 into town in Chiswick from Hogarth Roundabout to the the Hammersmith Flyover junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T06:48:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B504 London - B504 Judd Street in Central London closed in both directions from the A501 Euston Road junction to the Bidborough Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-02-24T15:15:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A214 London - Lane closed on A214 Trinity Road in Wandsworth at the A217 Swandon Way junction, because of sewer repairs.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-07-30T08:24:11+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A320 Surrey - Temporary lights on A320 Guildford Road in Chertsey near the Salesian School junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-08-12T07:49:13+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B353 London - B353 Manor Road in Richmond closed southbound between the Gainsborough Road junction and Manor Circus, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-23T09:24:07+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A316 London - Temporary lights and one lane closed on A316 Lower Mortlake Road in both directions in Richmond at Manor Circus, because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-03T07:04:40+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4127 London - Temporary lights on A4127 Greenford Road in Greenford around the Westway Cross junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-15T07:02:29+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A117 London - Temporary lights on A117 High Street South in East Ham near the Tilbury Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-15T13:22:38+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A200 London - Lane closed on A200 Druid Street westbound in Bermondsey between the Tanner Street junction and the A100 Tower Bridge Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-28T10:24:16+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A416 Buckinghamshire - Temporary lights on A416 Amersham Road in Chesham Bois at the Chiltern Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-20T09:03:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A23 Surrey - Temporary lights on A23 Brighton Road near Hooley, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-22T06:36:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A117 London - Temporary lights on A117 High Street North in East Ham around the East Ham Station junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-14T06:41:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A112 London - Temporary lights on A112 High Street in Plaistow at the A114 Clegg Street junction, because of resurfacing work. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-16T08:32:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A411 London - Temporary lights on A411 Barnet Road in both directions in Arkley near the the Church junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-19T09:43:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1184 Essex - Temporary lights on A1184 Cambridge Road in both directions in Old Harlow at the Old Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-31T07:26:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B197 Hertfordshire - B197 Wellfield Road in Hatfield closed in both directions from The Minims junction to The Common junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-05T14:44:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Surrey - Temporary lights on A30 London Road in Windlesham at The Windmill Pub junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-14T12:56:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B317 London - B317 North End Road in Fulham closed in both directions between the Sedlescombe Road junction and the A3218 Lillie Road junction, because of sewer repairs.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A246 Surrey - Temporary lights on A246 Leatherhead Road in Bookham near the South End junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T14:15:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4 London - One lane closed on A4 Piccadilly eastbound in Mayfair near Green Park Station, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-19T09:49:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B278 London - B278 Wrythe Lane in Carshalton closed in both directions between the Erskine Road junction and the West Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-20T13:18:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4000 London - Temporary lights on A4000 Victoria Road in North Acton near the Chandos Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T10:27:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B272 London - B272 Rowan Road in Norbury closed from the Stanford Road junction to the Jack Dimmer Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T07:55:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4005 London - Temporary lights on A4005 Bridgewater Road in Sudbury at the A4090 Whitton Avenue East junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T12:47:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B386 Surrey - B386 Trys Hill Longcross Road in Longcross closed in both directions from the Accommodation Road junction to the Foxhills Mews junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T13:09:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A503 London - Temporary lights on A503 Camden Road in Camden at the A5200 Torriano Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-29T18:05:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A24 London - Temporary lights on A24 Upper Tooting Road in both directions in Tooting at Tooting Bec Station, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-02T08:31:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A105 London - Temporary lights on A105 Green Lanes in both directions in Palmers Green around the the Hsbc bank junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-02T09:25:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A308 London - Temporary lights on A308 Kings Road in Fulham at the Lots Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T07:19:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4 London - One lane closed on A4 Talgarth Road westbound in Hammersmith between West Kensington Station and the Gliddon Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T07:27:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A217 London - One lane closed on A217 London Road southbound in Mitcham from the Armfield Crescent junction to the Downe Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T08:04:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A212 London - Temporary lights on A212 Combe Road in Croydon at the Birdhurst Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T08:26:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A235 London - One lane closed on A235 Brighton Road southbound in South Croydon near the Esso Garage junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T08:34:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1 London - Temporary lights and narrow lanes on A1 Holloway Road in both directions in Holloway at Holloway Road Station, because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:59:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A2 London - One lane closed on A2 New Cross Road eastbound in New Cross at the New Cross Station turn off junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T13:29:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A214 London - Temporary lights on A214 Tooting Bec Road in Streatham at the Doctor Johnson Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T05:57:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1081 Hertfordshire - Temporary lights on A1081 Harpenden Road in both directions in St Albans near the the petrol station junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T15:13:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3100 Surrey - Temporary lights on A3100 London Road in Guildford at the A25 Parkway junction, because of roadworks. On the roundabout.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T07:48:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A247 Surrey - Temporary lights on A247 High Street in Old Woking at the Hipley Street junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T13:21:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A40 London - One lane closed on A40 New Oxford Street eastbound in Central London between the A400 Charing Cross Road junction and the Earnshaw Street junction, because of an unsafe building and roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T14:10:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A24 London - Temporary lights on A24 Clapham Common South Side in Clapham at the A205 South Circular junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T17:43:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Holly Hill Road in Belvedere closed one way street from the Filston Road junction to the A206 Erith Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T11:26:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Surrey - Temporary lights on A30 London Road in Bagshot near The Used car Dealership junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T15:49:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A416 Hertfordshire - Temporary lights on A416 Kings Road in Berkhamsted at the Ashlyns Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T15:58:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A214 London - Temporary lights on A214 Anerley Hill in Crystal Palace at the Cintra Park junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T13:34:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A218 London - Temporary lights on A218 Haydons Road in Merton at the A238 Merton High Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T13:46:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A404 Buckinghamshire - Temporary lights on A404 Amersham Road in Four Ashes at the Kingshill Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T14:11:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B157 Hertfordshire - B157 Shepherds Way in Brookmans Park closed in both directions from the A1000 Great North Road junction to the Ramsey Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T15:06:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A232 London - Temporary lights on A232 Pound Street in Carshalton at the B277 North Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T16:56:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4007 Buckinghamshire - Temporary lights on A4007 Slough Road in Iver Heath near the Perivale Livery Stables junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T08:17:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A404 London - Temporary lights on A404 Harrow Road in both directions in Kensal Green at Kensal Green Station, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:24:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Birdcage Walk in Central London closed between the Spur Road junction and the Horse Guards Road junction, because of the Changing of the Guard.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - The Mall in Central London closed in both directions between the Buckingham Palace junction and Trafalgar Square, because of the Changing of the Guard.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Constitution Hill in Central London closed in both directions between the Buckingham Palace junction and the Hyde Park Corner junction, because of the Changing of the Guard.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4020 London - Temporary lights on A4020 Uxbridge Road eastbound in Hanwell near the Ealing Hospital junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:32:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A414 Hertfordshire - One lane closed on A414 North Orbital Road eastbound in London Colney between London Colney Roundabout and the A1(M) J3 (St Albans junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:59:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A302 London - Commonwealth Day and restrictions on A302 Broad Sanctuary in both directions in Westminster between the Parliament Square junction and the B326 Great Smith Street junction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Whyteleafe Hill in Whyteleafe closed in both directions between the A22 Godstone Road junction and Whyteleafe Station, because of an incident. Diversion in operation - for London bus 439, and local routes 409, 411 and 657. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:32:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Winchelsea Road in Harlesden partially blocked and delays in both directions between the Mordaunt Road junction and the B4492 Acton Lane junction, because of accident investigation work. Congestion to Harlesden Station. Diversion in operation - for buses 206 and 224.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:32:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4 London - It&apos;s heavier than usual on A4 out of town in Hammersmith from the the Hammersmith Flyover junction to Hogarth Roundabout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:45:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Temporary lights on Leather Lane in Hunt&apos;s Green at the Kings Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - No through traffic allowed on Middlesex Street in Aldgate from the A1211 Dukes Place junction to the Gouldston Walk junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Devonshire Avenue in Sheerwater closed in both directions between the Bunyard Drive junction and the Spencer Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-02-14T12:27:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Winsland Street in Paddington closed in both directions from the Tanner Lane junction to the London Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-02T12:22:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hertfordshire - Chalfont Lane in Rickmansworth closed in both directions between the the M25 junction and the A412 Denham Way junction, because of HS2 construction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-03-22T10:45:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Millennium Way in Greenwich closed southbound between the Edmund Halley Way junction and the Boord Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-04T10:43:10+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Cadogan Gardens in Central London closed in both directions between the Cadogan Square junction and the A3216 Sloane Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-15T20:05:01+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Temporary gross weight limit of 7.5 tonnes on Evanston Gardens in both directions in Wanstead from the A12 Eastern Avenue junction to the Castle Drive junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-26T11:58:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - St John&apos;s Wood High Street in St Johns Wood closed one way street from the Barrow Hill Road junction to the St John&apos;s Wood Terrace junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-27T15:12:45+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Gambles Lane in Send closed in both directions from the Hungry Hill Lane junction to the Grove Heath Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-07T11:22:02+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B376 Surrey - Temporary lights on B376 Shepperton Road in both directions in Littleton at the Littleton Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-12T14:49:52+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Tanner Lane in Paddington closed in both directions between the Winsland Street junction and the A4205 Praed Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-16T10:52:52+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Temporary lights on Links Road in Ashtead near the Links Close junction, because of water main work and long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-17T16:26:55+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Temporary lights on Woodstock Lane South in Claygate near the Red Lane junction, because of water main work and long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-17T16:36:28+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - North Road in Richmond closed in both directions between the A316 Lower Richmond Road junction and the Chilton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-06T07:48:26+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Leeke Street in St Pancras closed in both directions from the Wicklow Street junction to the A201 King&apos;s Cross Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-29T14:16:10+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hertfordshire - Selden Hill in Hemel Hempstead closed westbound from the Park Lane junction to The Plough Roundabout junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-07T11:16:54+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Loddiges Road in Hackney closed in both directions from the Elsdale Street junction to the Frampton Park Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-11T12:47:29+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Randolph Road in Southall closed from The Crescent junction to the Beaconsfield Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-25T11:50:51+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Temporary gross weight limit of five tonnes on Southfield Road in both directions in Ponders End from the A1010 Hertford Road junction to the Northfield Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-26T11:41:31+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Portugal Road in Woking closed in both directions from the Walton Road junction to the Maybury Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-29T16:22:13+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Temporary lights on Torrington Place in Central London near the Malet Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-08T07:54:35+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Maclise Road in Kensington closed one way street from the A315 Hammersmith Road junction to the Sinclair Road junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-11T21:05:10+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Galleons Drive in Barking Riverside closed in both directions from the Mallards Road junction to the Marine Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-13T12:11:57+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Lane closed on North Woolwich Road in Newham at North Woolwich roundabout, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-15T07:40:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Tower Hamlets Road in Upton closed from the Forest Lane junction to the Cemetery Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-19T12:57:41+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Ellerton Road in Surbiton closed in both directions from the B3364 Ditton Road junction to the Dennan Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-14T13:14:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Gleneldon Road in Streatham closed from the A23 Streatham High Road junction to the Valley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-17T10:47:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Palmer Place in Holloway closed westbound from the A1 Holloway Road junction to the Morgan Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-17T11:41:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Davies Mews in Mayfair closed in both directions from the Davies Street junction to the South Molton Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-24T12:12:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Wellington Way in Byfleet closed in both directions from the Sopwith Drive junction to The Heights junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-28T13:01:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hertfordshire - Hale Road in Hertford closed in both directions from the Queens Road junction to the B158 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-29T10:13:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Reverdy Road in Bermondsey closed in both directions between the A2206 Southwark Park Road junction and the Fort Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-11T15:43:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Alderbourne Lane in Fulmer closed in both directions from the Cherry Tree Lane junction to the Fulmer Common Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T11:01:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Bond Road in Mitcham closed in both directions between the Mortimer Road junction and the A217 London Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T19:56:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Elm Lane in Elm Corner closed from the A3 junction to the Elm Corner junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-14T14:24:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Lyham Road in Brixton closed from the New Park Road junction to the Thornbury Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-19T13:14:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Angel Street in The City closed one way street from the A40 King Edward Street junction to the A40 St Martins Le Grand junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T11:33:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Cloth Street in Barbican closed in both directions between the A1 Aldersgate Street junction and the Newbury Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T11:58:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - College Street in The City closed one way street from the College Hill junction to the Dowgate Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T12:02:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Westgate Road in Beckenham closed from the Foxgrove Road junction to the Beckenham Place Park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-21T12:09:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Bakers Lane in Epping near the Cottis Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-22T12:48:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Bittams Lane in Chertsey closed in both directions from the Green Lane junction to the A320 Guildford Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T14:10:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - One lane closed on Atlas Road eastbound in Friern Barnet from the B550 Colney Hatch Lane junction to the Pegasus Way junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-29T07:29:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Brandon Road in Sutton closed in both directions between the Crown Road junction and the Burgess Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T11:29:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Low Hall Lane in Walthamstow closed in both directions between the Downsfield Road junction and the Markhouse Avenue junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T11:31:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Trevor Street in South Kensington closed southbound from the A315 Knightsbridge junction to the Trevor Walk junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T11:39:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Cranfield Road in Brockley closed in both directions between the Wickham Road junction and the Breakspears Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T11:39:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - St Jude Street in Stoke Newington closed in both directions between the Boleyn Road junction and the King Henry&apos;s Walk junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T13:01:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Angel Street in St Pauls closed one way street from the King Edward Street junction to the St Martins Le Grand junction, because of long-term roadworks. Diversion in operation - for bus routes 8, 25, 521 and N242.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-03T13:03:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Denbigh Street in Pimlico closed in both directions between the Warwick Way junction and the A3213 Belgrave Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-23T12:11:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Heigham Road in East Ham closed one way street from the Colvin Road junction to the A117 High Street North junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-25T12:22:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Traffic is taking turns on Clarendon Road in Ashford near the Princes Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-30T13:34:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Upper Brook Street in Mayfair closed one way street from the Park Street junction to the Grosvenor Square junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T12:34:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Dalling Road in Hammersmith closed from the Brackenbury Road junction to the Cardross Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T13:10:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Chase Road in North Acton closed in both directions between the Bashley Road junction and the Powergate Business Park junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T13:03:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - High Street North in Beckton closed in both directions between the A124 Barking Road junction and the Kempton Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T13:07:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - George Row in Bermondsey closed in both directions from the A200 Jamaica Road junction to the Sugar Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T14:57:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Basil Street in Belgravia closed from the Hans Crescent junction to the Pavilion Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T13:44:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Rockware Avenue in Greenford closed in both directions from the A4127 Greenford Road junction to the Lyon Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T10:22:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Temporary lights on South Access Road in both directions in Walthamstow at the Essex Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T16:00:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Poulett Road in Beckton closed westbound from the Nelson Street junction to the A117 High Street South junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-12T15:24:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Green Bank in Wapping closed from the Wapping Lane junction to the Tench Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T13:15:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hertfordshire - Temporary lights on Colonial Way in Watford near the Rhodes Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T17:16:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Helix Road in Brixton closed in both directions from the Leander Road junction to the Arodene Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-17T09:02:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Sydenham Road in Croydon closed in both directions from the Gladstone Road junction to the Limes Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-17T09:53:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Rail Sidings Road in Bermondsey closed in both directions between the St James&apos;s Road junction and the Lucey Way junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:22:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Collett Road in Rotherhithe closed in both directions from the Tranton Road junction to the Storks Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:25:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Ash Road in Stratford closed in both directions between the Hatfield Road junction and the Albert Square junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:27:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Ainslie Wood Gardens in Chingford closed in both directions between the Ainslie Wood Road junction and the Larkswood Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T11:47:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Wellington Hill in High Beech closed from the Manor Road junction to the Pynest Green Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T11:58:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Blendon Road in Bexley closed in both directions between the A221 Penhill Road junction and the Danson Interchange junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T13:26:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">London - Crossbrook Road in Kidbrooke closed in both directions between the Langbrook Road junction and the Bournbrook Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T11:55:44+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

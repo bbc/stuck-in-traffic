@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A50 Leicestershire - A50 Northgate Street in Leicester closed into town between the Abbey Gate junction and the Sanvey Gate junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-12T12:41:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A607 Leicestershire - A607 Thorpe Road in Melton Mowbray closed in both directions from the A606 Thorpe End junction to the Stafford Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-08T08:08:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A46 Leicestershire - Contraflow and roadworks on A46 in both directions between the the B676 turn off junction in Six Hills and the A606 Melton Road junction in Widmerpool. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T17:10:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A606 Leicestershire - Temporary lights on A606 Burton Road in Burton Lazars at the Sawgate Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-06T13:14:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6005 Nottinghamshire - Temporary lights on A6005 Nottingham Road in both directions in Attenborough, Nottingham at the Eldon Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-18T20:05:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A515 Derbyshire - Temporary lights on A515 Sturston Road in Ashbourne near the A517 Belper Road junction, because of roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-22T12:59:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1175 Lincolnshire - Temporary lights on A1175 Main Road in both directions in Uffington at the Greatford Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T17:36:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A444 Derbyshire - Temporary lights on A444 Burton Road in Castle Gresley near the Mount Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T17:38:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6006 Leicestershire - B6006 Derby Road in Ashby-De-La-Zouch closed northbound between the Burton Road junction and the Hackett Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T11:37:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A60 Nottinghamshire - Temporary lights on A60 Loughborough Road in Ruddington near the Easthorpe Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T14:12:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6005 Derbyshire - Temporary lights on A6005 Nottingham Road in Long Eaton at the George Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T17:09:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Temporary lights on Iveshead Road in both directions in Shepshed at the Abbey Close junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6047 Leicestershire - Temporary lights on B6047 Melton Road in East Langton near the Langton Road junction, because of bridge repair work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-14T12:35:23+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Staple Lane in Newark closed in both directions from the Bowbridge Lane junction to the B6326 London Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-24T13:41:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Station Road in Wistow closed in both directions from the Wistow Road junction to the Glen Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-21T14:20:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - Oker Road in Darley Bridge closed between the Kirby Lane junction and the Oker Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T09:17:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A52 Lincolnshire - Temporary lights on A52 Barrowby Road in Grantham around the Gloucester Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-12T07:43:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Merrylees Road in Newbold Verdon closed in both directions from the B585 Bagworth Road junction to the Heath Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-22T11:57:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Gainsford Crescent in Old Basford closed in both directions from the Pavior Road junction to the Landcroft Crescent junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-26T15:49:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Temporary lights on Fairway Road in Shepshed at the Brendon Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-30T12:37:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Grey Friars in Leicester closed southbound from the St Martins junction to the Friar Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T14:48:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Sawgate Road in Burton Lazars closed in both directions from the A606 Burton Road junction to the Lag Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-06T13:21:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - No through traffic allowed on Old Lane in both directions in Darley Abbey from the Haslams Lane junction to the Darley Street junction, because of bridge repair work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T14:53:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Temporary lights on Bradgate Road in Anstey at the Park Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T17:07:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6179 Derbyshire - Temporary lights on B6179 Alfreton Road in Little Eaton near Little Eaton Island, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T09:09:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Temporary lights on Leicester Road in Countesthorpe at the Regent Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T17:35:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - Temporary lights on Pastures Hill in Littleover at the Elgin Avenue junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T08:11:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Pollard Road in Braunstone closed in both directions between the Gallards Hill junction and the Bendbow Rise junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:07:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Didsbury Street in Braunstone closed in both directions between the Gallards Hill junction and the Bendbow Rise junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:09:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - King Edward Avenue in Mansfield closed in both directions from the Alexandra Avenue junction to the Waverley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T09:15:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - New Street in North Wingfield closed in both directions from the Station Road junction to the Bamford Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T09:25:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - Temporary lights on Mill Road in Cromford near the the church junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T16:19:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Temporary lights on Station Road in Ratby near the Park Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T16:21:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Scotland Way in Countesthorpe closed in both directions from the Packman Green junction to the Rosebank Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T10:04:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - St Edmund&apos;s Close in Allestree closed in both directions from the Kings Croft junction to the Park Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T10:07:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Belvoir Road in Eaton closed in both directions from the Wood Lane junction to the Main Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T10:09:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - Norfolk Road in Long Eaton closed in both directions from the A6005 Nottingham Road junction to the Landsdown Grove junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T10:14:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Temporary lights on Lichfield Lane in Mansfield at the Chatsworth Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:10:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - New Street in North Wingfield closed in both directions from the Station Road junction to the Cross Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:09:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Temporary lights on Crown Farm Way in Mansfield near the Vicar Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Temporary lights on Big Barn Lane in Mansfield near the Bridgford Street junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Traffic is taking turns on Markham Street in Newstead Village at the Musters Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:33:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Stop-go boards and roadworks on Chilwell Lane in Bramcote at the Bramcote Lane junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6009 Nottinghamshire - Temporary lights on B6009 Long Lane in Watnall at the Narrow Lane junction, because of tree cutting.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Rempstone Road in East Leake closed in both directions from the Woodgate Road junction to the Kirk Ley Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:46:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Central Avenue in Hucknall closed in both directions from the B6009 Watnall Road junction to the Derbyshire Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:52:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Nottinghamshire - It&apos;s slow on A38 Alfreton Road in both directions in Sutton In Ashfield at the B6027 Common Road junction. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:09:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Derbyshire - It&apos;s slow on A38 Kingsway northbound in Derby before the Kingsway Island and Markeaton Island junction. Travel time is ten minutes.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:15:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Leicestershire - Braunstone Gate in Leicester closed westbound from the New Park Street junction to the A5460 Narborough Road North junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-11-24T13:00:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Derbyshire - Moira Road in Overseal closed to heavy goods vehicles in both directions from the A444 Main Street junction to the Bath Lane junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-12T15:31:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A50 Leicestershire - It&apos;s slow on A50 Highcross Street and Northgate Street in Leicester between the A594 Vaughan Way junction and the Frog Island junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:15:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A38 Derbyshire - It&apos;s slow on A38 Queensway southbound in Derby at Markeaton Island.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:17:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A615 Derbyshire - It&apos;s slow on A615 Causeway Lane and Bakewell Road in Matlock around the Matlock Bridge junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:17:37+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

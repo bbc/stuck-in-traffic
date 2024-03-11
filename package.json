@@ -1,0 +1,18 @@
+{
+  "name": "stuck-in-traffic",
+  "version": "1.0.0",
+  "description": "Hits the travel API and finds any potentially stale data in the red button travel service ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "build": "zip -r build/build.zip ./src -x './test/*'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1574.0",
+    "undici": "^6.7.1",
+    "xml2js": "^0.6.2"
+  }
+}

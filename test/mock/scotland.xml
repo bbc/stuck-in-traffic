@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M8 Glasgow City - Two lanes closed on M8 in both directions between J15, Townhead and J17, Great Western Road, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:53:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A917 Fife - A917 in Colinsburgh closed in both directions from the Crail Turn Off junction to the Leven Turn Off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:22:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A90 Angus - A90 in Northwaterbridge blocked and it&apos;s heavy northbound at the Hillside Turn Off junction, because of vehicle fire and an accident involving two vehicles.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:24:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A7 City Of Edinburgh - Lane closed on A7 South Bridge in both directions in Old Town from the A1 Waterloo Place junction to the Chambers Street junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-12-15T14:34:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A90 City Of Edinburgh - A90 South Charlotte Street in Edinburgh closed in both directions from the A8 Princes Street junction to the Charlotte Square junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-08T14:36:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A90 City Of Edinburgh - A90 Charlotte Square in New Town closed in both directions from The Kimpton junction to the Hope Street junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-08T14:37:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Aberdeen City - Holburn Street in Aberdeen closed in both directions from the B9077 Great Southern Road junction to the Holburn Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-07T14:05:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A804 Glasgow City - A804 Phoenix Road in Glasgow closed eastbound between Charing Cross and the Garscube Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:22:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A989 Perth And Kinross - A989 Tay Street in Perth closed in both directions from the Shore Road junction to the Canal Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:22:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A723 South Lanarkshire - A723 Strathaven Road in Hamilton closed in both directions from the Ballantyne Drive junction to the Muttonhole Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:22:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A7 City Of Edinburgh - A7 Old Dalkeith Road in Inch closed southbound from Cameron Toll to the Craigmillar Castle Park Cemetery junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:23:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A816 Argyll And Bute - Landslip and a convoy system in place on A816 in both directions in Kintraw in the the South of Kintraw junction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-08T16:44:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A77 South Ayrshire - Temporary lights on A77 in Glenapp at the Carlock Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-19T14:27:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A9 Falkirk - Temporary lights on A9 at the Bankside Industrial Estate junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-06T14:31:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A82 Highland - Temporary lights on A82 in both directions from the Inverness turn off junction in Invermoriston to the Urqhart Castle junction in Strone, because of a landslip.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-09T10:23:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A96 Aberdeenshire - Temporary lights on A96 in Colpy at the Oldmeldrum Turn Off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T11:46:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A90 Aberdeenshire - Temporary lights on A90 in Crimond at the Logie Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T11:48:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A701 Midlothian - Temporary lights on A701 in Straiton at the A768 Niven&apos;s Knowe Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T15:03:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A905 Falkirk - Temporary lights on A905 in Airth at the Castle View junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:45:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A9 Falkirk - Temporary lights on A9 in Grangemouth at the Grandsable Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T14:13:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A904 Falkirk - Temporary lights on A904 in Blackness near the Cauldcoats Holdings junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A95 Moray - Temporary lights on A95 in Mulben at the Boat o Brig junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A96 Highland - Temporary lights on A96 at the Auldearn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T11:55:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A96 Moray - Temporary lights on A96 in Alves at the Alves Primary School junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T11:57:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A85 Perth And Kinross - Temporary lights on A85 in Lawers at the Comrie Croft junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T13:47:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A835 Highland - Temporary lights on A835 in Newton Of Ferintosh at the Mulbuie Turn Off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T13:50:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A84 Stirling - Temporary lights on A84 in Doune near the A820 Balkerach Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T13:59:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A77 South Ayrshire - Temporary lights on A77 in both directions in Ayr between Bankfield roundabout and Holmston roundabout, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T06:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A95 Highland - Temporary lights on A95 at the Advie junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A9 Highland - Temporary lights on A9 at the Moy junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A95 Highland - Temporary lights on A95 at the Kinveachy junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A96 Moray - Temporary lights on A96 in Forres at the Findhorn Turn Off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A96 Highland - Temporary lights on A96 in Nairn around the Tradespark Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A84 Stirling - Temporary lights on A84 at Craigforth, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A830 Highland - Temporary lights on A830 in Corpach near the Farrow Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6399 Scottish Borders - B6399 closed in both directions between the Hawick junction and the the B6357 junction in Newcastleton, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-05-03T16:53:13+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B828 Argyll And Bute - B828 in Monevechadan closed in both directions from the the Bridge junction to the the junction of the B839, because of bridge repair work and emergency repairs.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-30T13:17:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B821 Stirling - B821 Station Road in Strathblane closed in both directions from the A809 junction to the West Highland Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-06-07T13:33:54+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A912 Perth And Kinross - Temporary lights on A912 Edinburgh Road in Perth at the South Inch Park junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-07-18T13:41:02+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A727 East Renfrewshire - Temporary lights on A727 Busby Road in both directions in Clarkston at the Mearns Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-08-25T06:18:11+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B968 Aberdeenshire - B968 Charlestown Road in Birsemore closed from the B976 junction to the Bridgeview Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-15T11:03:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B775 East Renfrewshire - B775 Gleniffer Road in Uplawmoor closed in both directions from the Shilford Road junction to the Sergeant Law Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-11T11:18:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1 City Of Edinburgh - One lane closed on A1 Regent Road in both directions in Meadowbank from the Wishaw Terrace junction to the Easter Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-05T17:26:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A77 South Ayrshire - Temporary lights on A77 Bridge Street in both directions in Girvan from the Bridgemill Roundabout junction to the Dalrymple Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-06T12:29:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A78 North Ayrshire - Stop-go boards and roadworks on A78 Irvine Road northbound in Coal Terminal from the Oilrig Road junction to the Port Road junction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-06T12:39:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Road permanently closed and a new road layout on Greenside Lane in both directions in Calton from the A900 Baxters Place junction to the Marshalls Court junction.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-07T10:07:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A901 City Of Edinburgh - Temporary lights on A901 Great Junction Street in Leith at the B900 Bonnington Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A96 Moray - Temporary lights on A96 Church Road in Keith near the Land Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A73 North Lanarkshire - Traffic is taking turns on A73 Carlisle Road in Airdrie near the the Bp Garage junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T09:01:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A78 North Ayrshire - Temporary lights on A78 Ardrossan Road in West Kilbride at the B7047 Chapelton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-19T18:16:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A8 City Of Edinburgh - Temporary lights on A8 Corstorphine Road in Murrayfield around The Murrayfield Hotel junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-29T13:36:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A92 Fife - Speed restriction of 30 mph on A92 Tay Road Bridge northbound in Dundee City between Tay Bridge Roundabout and the Dundee junction, because of a contraflow and roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:57:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A86 Highland - Temporary lights on A86 Main Street in Newtonmore near the Strone Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T13:48:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A85 Perth And Kinross - Temporary lights on A85 Main Street in Methven near The Methven Arms junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T14:01:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A902 City Of Edinburgh - Temporary lights on A902 Ferry Road in Trinity at the A903 Granton Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A772 City Of Edinburgh - Temporary lights on A772 Gilmerton Road in Gilmerton at the Gilmerton Station Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T07:58:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A95 Moray - Temporary lights on A95 High Street in Aberlour near the Hill Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A84 Stirling - Temporary lights on A84 Leny Road in Callander at The Riverside Inn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A82 West Dunbartonshire - A82 Great Western Road in Old Kilpatrick partially blocked southbound at Erskine Bridge, because of a breakdown. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:11:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B966 Aberdeenshire - B966 in Fordoun closed in both directions between the Castleton Farm Shop junction and the A90 junction, because of bridge repair work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-01-18T15:42:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B803 Falkirk - Temporary lights on B803 at the Lionthorn Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B9011 Moray - Temporary lights on B9011 Victoria Road in Forres near the St John Church junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Renfrewshire - No through traffic allowed on Wright Street in both directions in Renfrew between the Fitzalan Road junction and the Arran Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-21T14:28:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Whitehouse Loan in Edinburgh closed in both directions from the Alvanley Terrace junction to the Grange Loan junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-18T07:54:26+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dundee City - Baldovan Road in Dundee closed from the Harestane Road junction to the Craigmill Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-19T15:15:41+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Duncan Street in Prestonfield, Edinburgh closed from the Causewayside junction to the A701 Minto Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-23T06:45:22+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Tarvit Street in Edinburgh closed from the Drumdryan Street junction to the A702 Leven Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-23T09:15:27+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Canon Street in Broughton, Edinburgh closed one way street from the B900 Eyre Place junction to the Canon Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-07T20:04:31+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Baileyfield Crescent in Portobello closed in both directions between the Fishwives Causeway junction and the Adamslaw Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-12T10:07:24+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Renfrewshire - Clippens Road in Linwood closed in both directions from the A761 junction to the Brediland Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-20T07:13:31+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dundee City - Brown Street in Dundee closed in both directions from the Miln Street junction to the Douglas Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-12T13:19:49+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Bankhead Road in Dalmeny closed in both directions from the Main Street junction to the B924 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-28T09:22:46+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Marchmont Road in Marchmont closed southbound between the A700 Melville Drive junction and the Warrender Park Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-11T15:01:33+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dundee City - Wentworth Drive in Dundee closed in both directions from the Rosemount Road junction to the Wentworth Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-20T16:33:06+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dundee City - Earl Grey Place West in Dundee closed in both directions from the South Crichton Street junction to the the A991 junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-25T11:52:09+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Glasgow City - Shields Road in Glasgow closed in both directions from the Scotland Street junction to the St Andrew&apos;s Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-06T10:20:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - George Street in New Town closed from the Charlotte Square junction to the Frederick Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-13T10:57:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dundee City - Castle Lane in Broughty Ferry closed one way street from the Castle Street junction to The Esplanade junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-14T13:15:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Parkgrove Street in Clermiston, Edinburgh closed in both directions between the A90 Queensferry Road junction and the Parkgrove Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-14T13:30:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Perth And Kinross - Road in Benvie closed between the A90 junction and the Benvie Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-16T09:24:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Aberdeenshire - Hillbrae Way in Newmachar closed from the Pinkie Road junction to the School Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-28T11:11:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Lanarkshire - Roughrigg Road in Chapelhall closed in both directions from the Craigens Road junction to the Stepends Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-05T10:33:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6415 City Of Edinburgh - Temporary lights on B6415 Musselburgh Road in both directions in Joppa from the Milton Road East junction to the Seaview Crescent junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-14T15:23:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Lanarkshire - Lefroy Street in Coatbridge closed in both directions from the Corsewall Street junction to the Blairhill Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-10T11:55:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Renfrewshire - Aurs Road in Netherplace closed in both directions from the B769 Dodside Road junction to the Springfield Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-11T10:48:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Lanarkshire - Thornton Road in Jackton closed from the Peel Road junction to the Ravenscourt junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-15T11:17:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Stirling - Upper Craigs closed in both directions from the Cameronian Street junction to the Port Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-17T11:59:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Wishaw Terrace in Meadowbank closed from the A1 Dalziel Place junction to the Marionville Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T10:28:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Angus - Strathmartine Road in Bridgefoot closed in both directions from the Rosemill Road junction to the Craigmill Road junction, because of bridge repair work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T10:07:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B816 Falkirk - Temporary lights on B816 Thorndale Gardens in Allandale at the Allandale Park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-06T13:30:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B8028 Falkirk - Temporary lights on B8028 Braeside in Shieldhill at the Crosshall Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-07T13:44:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - North Charlotte Street in New Town closed in both directions from the St Colme Street junction to the Charlotte Square junction, because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:09:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Pilton Drive in Craigleith closed in both directions from the A902 Ferry Road junction to the Pilton Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T16:25:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Stirling - Wellgreen Road closed from the B8052 Goosecroft Road junction to the Upper Craigs junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T10:52:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Lothian - Polbeth Road in Polbeth closed from the Burnside Crescent junction to the Five Sisters Zoo junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T16:10:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B924 City Of Edinburgh - Temporary lights on B924 Hawes Brae in Queensferry at The Hawes Inn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:04:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Temporary lights on Muirhouse Green in Muirhouse at the Muirhouse Bank junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:10:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Temporary lights on Calton Road in Edinburgh at the Jacobs Ladder junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:11:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Devon Place in Edinburgh closed southbound from the A8 West Coates junction to the Devon Gardens junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:17:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Gardner&apos;s Crescent in Edinburgh closed in both directions from the B700 Morrison Street junction to the Port Hamilton junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:30:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Lady Lawson Street in Edinburgh closed eastbound from the Castle Terrace junction to the West Port junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:32:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Roseburn Drive in Edinburgh closed in both directions from the Roseburn Avenue junction to the Roseburn Place junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:34:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Temporary lights on Saughton Road North in Corstorphine at the Kirk Loan junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:39:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Abbey Lane in Edinburgh closed in both directions from the Abbeyhill junction to the Lower London Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:51:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Lutton Place in Edinburgh closed in both directions from the A7 South Clerk Street junction to the St Leonard&apos;s Street junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T14:44:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Oxgangs Brae in Oxgangs closed in both directions from the Oxgangs Medway junction to the Caiystane Gardens junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Laverockbank Road in Trinity closed in both directions from the East Trinity Road junction to the the Starbank Inn junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Falkirk - Temporary lights on Comely Park in Brightons at the B805 Crichton Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:30:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B8028 Falkirk - Temporary lights on B8028 Blackbraes Road in California near the Princes Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:31:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B803 Falkirk - Temporary lights on B803 Cochrane Avenue at the B8080 Cow Wynd junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:33:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Falkirk - Temporary lights on Gartcows Road at the South Bantaskine Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:42:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B8028 Falkirk - Temporary lights on B8028 Falkirk Road in Hallglen at the New Hallglen Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:45:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B905 Falkirk - Temporary lights on B905 Denny Road in Larbert at the Quintinshill Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T14:08:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Falkirk - Temporary lights on Gilston Crescent in Polmont at the Lewis Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T14:17:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B902 Falkirk - Temporary lights on B902 Grahams Road at the Boyd Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B805 Falkirk - Temporary lights on B805 Main Road in Maddiston at the Kendieshill Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Sighthill Park in Wester Hailes closed from the Sighthill Terrace junction to the Sighthill Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T11:12:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Aberdeenshire - Union Street in Ellon closed in both directions from the the Esso Garage junction to the the Police Station junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T10:20:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Geissler Drive in Leith Docks closed in both directions from the Victoria Quay junction to the Hudson Gait junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T17:42:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Temporary lights on Oxgangs Road North in Oxgangs at the Oxgangs Farm Drive junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Temporary lights on Colinton Road in Slateford at the Craiglockhart Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Temporary lights on Dundee Street in Edinburgh at the Dundee Terrace junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Stirling - Park Drive in Bannockburn closed in both directions from the A9 New Road junction to the Park Crescent junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Stirling - Pirnhall Road in Bannockburn closed in both directions from the the Premier Inn junction to the the A91 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B803 Falkirk - Temporary lights on B803 High Street in Slamannan at the B8022 Station Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A720 Midlothian - It&apos;s slow on A720 Edinburgh City Bypass westbound in Old Craighall from Millerhill Junction to Sheriffhall Roundabout.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:21:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B710 Scottish Borders - B710 in Clovenfords closed in both directions from the Caddon Haugh junction to the A707 junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-09-29T17:14:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Roadworks and Road permanently closed on Sandport Place in both directions in Leith from the Shore junction to the Ronaldsons Wharf junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-05-22T00:00:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Aberdeen City - Schoolhill in Aberdeen closed westbound from the Upperkirkgate junction to the Belmont Street junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-01-07T22:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B700 City Of Edinburgh - Lane closed on B700 Morrison Street westbound in Edinburgh at the Grove Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-29T12:14:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">City Of Edinburgh - Lane closed on Dundas Street in Edinburgh around the Great King Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-29T12:24:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A71 City Of Edinburgh - Lane closed on A71 Gorgie Road in Saughton around the Balgreen Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-29T14:00:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A8 City Of Edinburgh - Lane closed on A8 Glasgow Road eastbound in Newbridge at the Station Road junction, because of roadworks during the day.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

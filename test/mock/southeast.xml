@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - M2 exit slip road closed London-bound at J5, A249 (Sittingbourne), because of major roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T06:10:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - Speed restriction of 50 mph and one lane closed on M2 in both directions between J6, A251 (Faversham) and J5, A249 (Sittingbourne), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:51:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M20 Kent - One lane closed and it&apos;s slow on M20 London-bound from J11a, Channel Tunnel to J11, A20 (Hythe), because of an overturned vehicle.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T12:16:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A249 Kent - A249 in Stockbury Valley closed southbound from Sittingbourne to Hucking Turn Off, because of major roadworks. Diversion in operation - turn around at J4 to exit coastbound for Sittingbourne, or the A229 Blue Bell Hill from J3 Chatham, to go south to the M20.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-10T06:53:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A226 Kent - A226 Galley Hill Road in Swanscombe closed in both directions between the High Street junction and the Snowden Hill junction, because of a landslip and long-term roadworks. Diversion in operation - via the A2 between Greenhithe and Ebbsfleet.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-12-07T11:38:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A26 Kent - A26 Tonbridge Road in Maidstone closed in both directions from the Westree Road junction to the Bower Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-06T16:58:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A249 Kent - The exit and entry slip roads are closed on A249 northbound in Kemsley at Iwade, because of junction improvements. Diversion in operation - via the Kingsferry Roundabout and back, or via Sittingbourne.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-06T06:00:00+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A289 Kent - One lane closed on A289 westbound in Gillingham from the Pegasus Way junction to the Camden Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-13T13:08:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A259 East Sussex - Temporary lights on A259 in both directions in Exceat near the the Cuckmere Inn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T09:02:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A25 Kent - Temporary lights on A25 in Sundridge at the Main Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T13:41:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A296 Kent - Temporary lights on A296 in Stone between the B2174 St James Lane junction and the B2500 Watling Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T13:09:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A259 East Sussex - The bridge is due to open at 12:30 on A259 in Newhaven at the Newhaven Swing Bridge junction. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:43:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2188 East Sussex - B2188 in Friars Gate closed in both directions from the Whitehouse Lane junction to the Summersales Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-09T14:28:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A255 Kent - Temporary lights on A255 Ramsgate Road in Broadstairs near the Hereson Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-07-06T15:35:35+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A226 Kent - Lane closed on A226 Bath Street in Gravesend near the Gravesham Hospital junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-18T14:22:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A21 East Sussex - Temporary lights on A21 Bohemia Road in Hastings near the Falaise Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-08T14:16:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A260 Kent - Lane closed on A260 Harbour Approach Road one way street in Folkestone near the Folkestone Harbour junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-24T13:17:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A258 Kent - Temporary lights on A258 Dover Road in Walmer near the Ripple Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-08T15:33:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A259 East Sussex - Temporary lights on A259 South Coast Road in Peacehaven near the Sunview Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T14:28:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A229 Kent - Temporary lights on A229 Linton Hill in Linton near the Butt Green Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T18:10:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A28 Kent - Temporary lights on A28 Canterbury Road in Kennington at The Old Mill Pub junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-28T13:19:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A22 East Sussex - Lane closed on A22 Polegate Road in Summerhill at the Summerhill Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-29T13:38:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A2034 Kent - Temporary lights on A2034 Cherry Garden Avenue in Folkestone at the Cherry Garden Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-01T15:50:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A229 Kent - Temporary lights on A229 Hartley Road in Hartley near the B2086 Swattenden Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-01T16:24:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2159 East Sussex - B2159 Battle Road in St Leonards On Sea closed in both directions from the A21 London Road junction to the Duke Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T14:08:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A28 Kent - Temporary lights on A28 Canterbury Road in Kennington at the Hillcrest Close junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T14:34:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A26 Kent - Temporary lights on A26 Tonbridge Road in Maidstone at the Milton Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T14:20:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A2 Kent - Temporary lights on A2 Watling Street in Strood at the Lancelot Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T14:27:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A260 Kent - Temporary lights on A260 Canterbury Road in Densole at the Pay Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T08:52:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A272 East Sussex - Temporary lights on A272 Goldbridge Road in Newick at the Church Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T15:31:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A272 East Sussex - Temporary lights on A272 Budletts Lane in Coopers Green at the Five Ash Down junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T15:46:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A265 East Sussex - Temporary lights on A265 High Street in Etchingham near the Oxenbridge Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T15:58:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A291 Kent - Temporary lights on A291 Canterbury Road in Herne Bay near the Curtis Wood Park Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T13:58:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2110 West Sussex - B2110 College Lane in East Grinstead closed in both directions between the A264 Holtye Road junction and the Sandy Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:37:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - Heavier than normal along the exit slip road on M2 London-bound at J3, Chatham.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:13:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - No through traffic allowed on Grasmere Road in Chestfield between the Blackberry Way junction and the Shepherds Walk junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Maidstone Road in Maidstone closed in both directions from Sittingbourne to the Wormdale Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-05-05T08:56:48+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Southview Road in Southwick closed in both directions from the A270 Old Shoreham Road junction to the Grange Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-09T11:39:59+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2066 East Sussex - Temporary lights on B2066 Western Road in both directions in Brighton between the B2122 Montpelier Road junction and the Regent Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-14T11:23:40+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Bell Grove in Aylesham closed in both directions from the Ackholt Road junction to the Burgess Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-25T09:11:44+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Netherfield Road in Battle closed in both directions between the A2100 London Road junction and the B2096 junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-19T09:49:08+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2001 Kent - Temporary lights on B2001 Grain Road in Isle Of Grain between the Power Station Road junction and The National Grid Power Station junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-23T13:13:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Gun Road in Blackboys closed in both directions from the Shepherds Hill junction to the B2102 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-08T15:47:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Underhill in Maresfield closed in both directions from the High Street junction to the Cobdown Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T16:28:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Poplar Avenue in Hove closed southbound from the Hangleton Way junction to the Lark Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T09:47:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Netherfield Road in Battle closed in both directions from the A2100 London Road junction to the Eatenden Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-02T18:12:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Station Road in Hailsham closed in both directions from the Lindfield Drive junction to the Station Road Industrial Estate junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-09T16:48:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Harbourne Lane in Ashford closed in both directions from the Church Hill junction to the Swain Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-10T15:42:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Ship Hill in Tatsfield closed in both directions from the Paynesfield Road junction to the Rag Hill Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-29T15:59:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Road Of Remembrance in Folkestone closed in both directions between The Leas junction and the A260 Lower Sandgate Road junction, because of a landslip.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T11:04:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Cheriton High Street in Folkestone closed in both directions between the Horn Street junction and the Motis Business Centre junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-06T16:33:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Canterbury Road West in Cliffsend closed in both directions from the Sea View Road junction to the A256 Haine Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-06T16:35:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Hubbards Hill in both directions in Sevenoaks between the Gracious Lane junction and the Glebe Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-09T16:39:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Pembury Grove in Bexhill On Sea closed in both directions between the Bidwell Avenue junction and the Oakwood Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T11:59:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Chestnut Walk in Bexhill On Sea closed in both directions from Wheatsheaf Inn to The Gorseway junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T11:37:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Old Ashford Road in Lenham closed in both directions from the Groom Way junction to the A20 junction, because of drainage works.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T16:55:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2111 West Sussex - Temporary lights on B2111 Scamps Road in Walstead at the East Mascalls Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T17:35:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Colebrooke Road in Bexhill On Sea closed in both directions from the B2098 Collington Avenue junction to the Cranston Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T11:45:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Roadworks and restrictions on Avondale Road in St Leonards On Sea near the Wingate Close junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-20T14:18:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Mill Road in Brompton near the Strover Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T14:14:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Wardsbrook Road in Ticehurst closed in both directions from the Church Street junction to the Sheepstreet Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T11:59:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Gladstone Road in St Peters closed southbound from the A255 The Broadway junction to the Vale Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:52:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Kings Drive in Gravesend closed in both directions from the Windsor Road junction to the Kitchener Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T14:09:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Princes Road in Gravesend closed in both directions from the Gloucester Road junction to the Jellicoe Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T14:12:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Three Gates Road in Fawkham, Sevenoaks closed in both directions from the School Lane junction to the Canada Farm Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T16:16:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on London Road in both directions in St Dunstans at the Queens Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T06:36:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Deadmans Lane in Rye closed in both directions between the A628 Rye Road junction and the Love Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:05:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Newlands Avenue in Bexhill On Sea closed in both directions between the Down Road junction and the Bancroft Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:30:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Swain Road in St Michaels closed from the A28 Ashford Road junction to the Harbourne Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T09:39:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2005 Kent - Temporary lights on B2005 Castle Road in Sittingbourne near the Swale Way junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T12:00:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Willington Street in Downswood at the Deringwood Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T13:21:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Boxley Road in Boxley at the Boxley Church Hall junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:08:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Fort Road in Margate closed one way street from the B2051 Fort Hill junction to the King Street junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:41:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Avenue Gardens in Margate closed in both directions between the Lonsdale Avenue junction and the Rutland Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:45:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Oriental Place in Brighton closed one way street from the A259 King&apos;s Road junction to the Sillwood Place junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T15:02:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Woodfield Road in both directions in Crawley at the Green Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T06:23:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Lower Haysden Lane in Tonbridge closed in both directions between the Upper Hayesden Lane junction and the Haysden Country Park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T07:12:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Cuckfield Road in Burgess Hill near the Old Mill House junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T14:03:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2104 East Sussex - Temporary lights on B2104 Ersham Road in Summerhill near the Cuckoo Trail junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T14:12:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Twiss Road in Hythe at the Twiss Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T16:02:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Harbour Road in Rye near the A259 Winchelsea Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T16:15:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Brittains Lane in Sevenoaks closed in both directions from the Wood Drive junction to the Beaconfields junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T08:40:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Percy Road in Margate closed in both directions between the Edgar Road junction and the Sweyn Road junction, because of emergency gas repairs.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T11:24:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Coldharbour Road in Upper Dicker near The Village Hall junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T13:46:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Menzies Road in St Leonards On Sea at The aklen Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:09:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2229 Kent - Temporary lights on B2229 Beaver Lane in Ashford at the Jemmett Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T14:32:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Station Road in Paddock Wood closed in both directions from the B2160 Maidstone Road junction to the Church Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T15:09:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on South Street in Chestfield at the Millstrood Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T11:47:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Sea Road in Westgate On Sea at the Hengist Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T11:50:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Royal Esplanade in Westgate-On-Sea at the Westcliff Gardens junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T11:53:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on College Road in both directions in Ramsgate at the Holly Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T11:58:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Oakley Close in Ashurst Wood between the A22 Lewes Road junction and the Worsted Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:23:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on High Street in East Grinstead at the Church Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:25:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Manor Road in Brasted at the New Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:39:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B245 Kent - Temporary lights on B245 London Road in Hildenborough at the Foxbush junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:59:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Snodhurst Avenue in Chatham near the Harptree Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T14:24:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Stop-go boards and roadworks on Landport Road in Lewes at the Weald Close junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:14:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Gas main work and restrictions on Sutton Avenue in Seaford near the Links Road junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:20:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Lane closed on Marshall Road in Eastbourne near Marshall roundabout, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:29:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Wilton Avenue in Stone Cross at the Percival Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:31:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Traffic is taking turns on Percival Road in Stone Cross at the Wilton Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T14:33:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Eastern Road in Brighton near the Sutherland Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:16:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Edward Road in Haywards Heath at the Vale Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:21:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B2272 West Sussex - Temporary lights on B2272 Franklynn Road in Haywards Heath near the Western Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:22:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on America Lane in Haywards Heath near the Boston Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:28:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on New Town in Uckfield near the New Place junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:38:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Batts Bridge Road in Maresfield near the Robian Close junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:49:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Temporary lights on Rattle Road in Stone Cross, Eastbourne near the Towers Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T15:55:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - White Horse Road in Warbleton closed in both directions between the Sandhill Lane junction and the Back Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T16:16:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Hebrand Walk in Normans Bay closed in both directions between the B2182 junction and the Sluice Lane junction, because of flooding.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T18:28:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on Borde Hill Lane in Haywards Heath at the Copyhold Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:28:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on High Street in Otford near The Church junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:44:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Traffic is taking turns on Duck Street in Elham at the Water Farm junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:51:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Turketel Road in Folkestone around the Bathurst Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:59:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Argyle Road in Whitstable closed in both directions from the B2205 Oxford Street junction to the Regent Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:29:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Gorringe Valley Road in Wannock closed in both directions from the A2270 Eastbourne Road junction to the Wannock Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:38:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Digdog Lane in Three Chimneys closed in both directions from the Sand Lane junction to the Hareplain Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:47:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Ford Lane in Wrotham Heath closed in both directions from the Wrotham Water Road junction to the the A20 junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T15:40:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Canterbury Road Service Road in Densole near the Nursery Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T17:54:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Lower Road in Forest Row closed in both directions from the A22 Lower Square junction to the Station Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:51:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Canterbury Street in Gillingham near the Dawes Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:32:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Electricity work and restrictions on Harvard Road in Ringmer at the Penn Crescent junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T14:07:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Sussex - Temporary lights on St John&apos;s Road in East Grinstead at the A264 Moat Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T14:16:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Wardsbrook Road in Ticehurst closed in both directions from the B2099 High Street junction to the Sheepstreet Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:23:20+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Avenue Lane in Eastbourne closed in both directions from the St Anne&apos;s Road junction to the St Leonard&apos;s Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:24:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Dumb Woman&apos;s Lane in Winchelsea closed in both directions between the Winchelsea Lane junction and the B2089 Udimore Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:29:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - West Street in Alfriston closed in both directions from the North Road junction to the Sloe Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-10T14:09:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - London Road Temple Ewell in Temple Ewell closed in both directions between the Egerton Road junction and the Wellington Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T06:12:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Temporary lights on Smallfield Road in Horley from the Langshott junction to the Weatherhill Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T07:41:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Brook Hill in Oxted closed in both directions between the Meadowbrook junction and the High Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Surrey - Hare Lane in Newchapel closed in both directions between the Crockers Lane junction and the Brickhouse Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:22:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Gallants Lane in East Farleigh closed in both directions between the B2010 Lower Road junction and the B2163 Heath Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:40:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Vicarage Road in Halling closed in both directions between the Hanes Dene junction and The Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:02:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Church Street in St Peters closed in both directions between the B2053 junction and the Northdown Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:26:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Charles Street in Herne Bay closed in both directions between the Coopers Hill junction and the North Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:28:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Gallants Lane in East Farleigh closed in both directions between the B2010 Lower Road junction and the Victoria Court junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:30:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Palehouse Common in Eason&apos;s Green closed in both directions between the B2192 junction and the Sandhill Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:33:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Campbell Road in Maidstone closed in both directions between the A229 Upper Stone Street junction and the A229 Hayle Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:37:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Eastling Road in Whitehill closed in both directions between the Porters Lane junction and the Vicarage Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:45:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Kent Street in Kings Hill closed in both directions between the A228 Malling Road junction and the Butchers Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:47:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Nightingale Lane in Whitley Row closed in both directions between the B2042 junction and the Yorkshill junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:50:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Cox Street in Dunn Street closed in both directions between the Court Lane junction and the Yelsted Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:53:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Dover Road in Dover closed from the Old Charlton Road junction to the A258 Castle Hill Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:14:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M2 Kent - M2 entry slip road closed and one lane closed coastbound at J2, A228 (Strood), because of emergency repairs.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T10:44:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A249 Kent - A249 in Maidstone no Right turn allowed northbound at Tunstall, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T12:04:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - Temporary lights on Gore Street in both directions in Stourmouth at the A253 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-06-16T18:37:45+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Preston Street in Brighton closed one way street from the seafront to the B2066 Western Road junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-08-14T11:25:12+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">East Sussex - Sillwood Road in Brighton closed one way street from the Sillwood Street junction to the B2066 Western Road junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-08-14T11:25:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - No through traffic allowed on Poulter Court in Ebbsfleet Valley between the Weldon Road junction and the Park View junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-09-11T12:43:29+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Kent - No through traffic allowed on Ackers Drive in both directions in Ebbsfleet Valley between the Talbot Lane junction and the Stopes Avenue junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-10-11T20:26:11+01:00" />
+  </tpeg_message>
+
+</tpeg_document>

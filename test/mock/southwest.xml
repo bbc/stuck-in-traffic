@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A379 Devon - A379 Dartmouth Road in Stoke Fleming closed in both directions between the Cinders Lane junction and the West Park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-23T12:41:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A381 Devon - A381 West Alvington Hill in West Alvington closed in both directions between the Kingsbridge Cricket Club junction and the Veales Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-01T12:34:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3082 Cornwall - A3082 St Blazey Road in Par closed in both directions from The Coach Garage junction to the Par Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-07T12:43:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A393 Cornwall - A393 Sandy Lane in Redruth closed from the Carknown Gardens junction to the Park Trielin junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-08T07:36:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A377 Devon - A377 Cowley Bridge Road in Exeter closed northbound from the the Great Western Hotel junction to the B3183 New North Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-08T12:32:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A392 Cornwall - Temporary lights on A392 in Newquay between the Crantock turn off junction and the Morissons junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-18T16:12:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Cornwall - One lane closed on A30 in both directions in Mitchell around Carland Cross, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-31T11:40:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A394 Cornwall - Temporary lights on A394 in both directions in Breage at the Higher Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-12T12:46:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A380 Devon - One lane closed on A380 southbound in Kingsteignton near Ware Barton Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T16:26:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A361 Devon - Temporary lights on A361 in Chivenor, Braunton near the Tinever Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T12:02:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3217 Devon - B3217 in Dowland closed in both directions from the Staple Back Lane junction to the Duke of York Inn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-06-19T13:44:59+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3257 Devon - B3257 in Buckland Monachorum closed in both directions near the Denham Bridge junction, because of bridge repair work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-02T10:37:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A381 Devon - Temporary lights on A381 Totnes Road in Two Mile Oak near the Two Mile Oak Cross junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-07-30T09:11:42+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A39 Devon - Temporary lights on A39 Torridge Bridge in Bideford near Heywood Road roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-06T12:16:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3125 Devon - Temporary lights on A3125 Bickington Road in Sticklepath near The Cedars Pub junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-22T12:07:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A391 Cornwall - Temporary lights on A391 St Austell Road in Stenalees at Single Rose Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-30T12:01:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A376 Devon - Temporary lights on A376 Exmouth Road in both directions in Lympstone near the Summer Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-11T12:30:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A387 Cornwall - Temporary lights on A387 Polperro Road in Looe at the North Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T16:06:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A393 Cornwall - Temporary lights on A393 Sandy Lane in Redruth at the Cal Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-23T16:08:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3022 Devon - Temporary lights on A3022 Torquay Road in Paignton near The Shell Station junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T11:23:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A3047 Cornwall - Temporary lights on A3047 Treswithian Road in Camborne near The Cornish Oven junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T15:04:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A383 Devon - Temporary lights on A383 Ashburton Road in Newton Abbot near The Hand Car Wash junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T15:05:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A386 Devon - Temporary lights on A386 Bideford in Bideford near the Torridge Hill junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T15:10:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A394 Cornwall - Temporary lights on A394 Meneage Road in Helston near The Cemetery junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T16:38:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3301 Cornwall - B3301 Loggans Road in Loggans closed in both directions from the Guildford Road junction to the Bar Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T08:03:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Cornwall - One lane closed on A30 Bypass westbound between Carminow Cross in Bodmin and Innis Downs Junction in Lanivet, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T06:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Church Lane in Modbury closed in both directions between the the A379 junction and the Moon Lane junction, because of a landslip.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:53:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Devon - Queues on A30 eastbound in Okehampton before Sourton Cross. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:15:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3293 Cornwall - Temporary lights on B3293 in Garras near the Gweek Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T16:03:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3269 Cornwall - Temporary lights on B3269 in Lostwithiel at the Pelyn Vets junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T16:43:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Red Lion Hill in Brixton closed in both directions from the A379 junction to the Vinery Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-17T16:13:22+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3274 Cornwall - Temporary lights on B3274 Edgcumbe Road in Roche around the Fuller-Tre Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-11T21:45:08+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Church Road in Cockwood closed in both directions from the Dawlish Warren Road junction to the A379 Exeter Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-22T09:49:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Quay Road in Teignmouth closed from the Custom House Hill junction to the Osmond&apos;s Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T10:37:50+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Whitehill Road in Bradley Valley closed from the Exeter Road junction to the A382 Bovey Tracey Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T12:59:53+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Fore Street in Redruth closed in both directions from the B3300 Penryn Street junction to the Green Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-04T17:58:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Temporary lights on Douglas Avenue in Exmouth at the Cranford Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-12T14:34:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3292 Cornwall - Temporary lights on B3292 Commercial Road in Penryn around the Quay Hill junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-15T17:37:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Goodrington Road in Goodrington closed in both directions from the Palm Tree View junction to the A379 Dartmouth Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-23T09:43:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Church Street in Dawlish closed in both directions between the Oak Hill junction and the Weech Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-25T12:32:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Slittercombe Lane in Kenton closed in both directions from the Manor Gardens junction to the Penhayes Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-03T13:30:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Ridgeway in Plympton closed in both directions from the B3416 Deep Lane junction to the Cornwood Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-05T16:00:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Madeira Drive in Widemouth Bay closed in both directions from the Marine Drive junction to the Long Park Drive junction, because of sewer repairs.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-12T00:01:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Higher Cadewell Lane in Kingskerswell closed from the Edginswell Lane junction to the Collaton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T09:08:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Collaton Road in Kingskerswell closed from the Edginswell Lane junction to the Higher Cadewell Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T09:14:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3274 Cornwall - Temporary lights on B3274 Bodmin Road in St Austell near The Waterwheel junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T13:00:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Cooks Level in Gorran Haven closed in both directions from the Bell Hill junction to the Chute Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T13:04:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Water Lane in Kingskerswell closed in both directions from the Sunnyside Road junction to the Fore Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T14:27:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - George Lane in Plympton closed in both directions from the Fore Street junction to the Longcause junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-13T14:52:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Derriton Road in Derril closed in both directions between the the Derril crossroads junction and the Shortlands junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T06:29:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Temporary lights on Alexandra Road in Illogan at the Robartes Terrace junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T12:22:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Temporary lights on Coronation Road in both directions in Totnes at the Mill Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-18T18:23:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Carew Road in Truro closed in both directions between the Stokes Road junction and the Tremayne Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T15:58:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Edginswell Lane in Kingskerswell closed from the Higher Cadewell Lane junction to the Orchard Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T13:32:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - North Road in Looe closed in both directions from the West Road junction to the Fore Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-24T12:05:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Temporary lights on Decoy Road in Newton Abbot at the Vale Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:23:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Temporary lights on Shillingford Road in Shillingford Abbot, Exeter between the Markham Lane junction and the Smith Field Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T17:04:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Cathebedron Road in Carnhell Green closed in both directions from the Carnhell Road junction to the Howe Downs junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T14:08:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Howe Downs in Carnhell Green closed in both directions from the B3280 Praze Road junction to the Cathebedron Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T14:08:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Plaidy Lane in Plaidy closed in both directions near the Chough Rock junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T14:33:51+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Savage Road in St Budeaux closed in both directions from the Kelly Close junction to the Talbot Gardens junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-02T14:58:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3413 Devon - Temporary lights on B3413 Crownhill Road in both directions in Honicknowle at the Transit Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-03T19:24:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - North Road in West Taphouse closed in both directions from the Bodmin turn off junction to the Liskeard turn off junction, because of repairs.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T12:20:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3284 Cornwall - Temporary lights on B3284 St Austell Street in Truro near Trafalgar roundabout, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T16:59:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Clifden Road in St Austell closed from the Sandy Hill junction to the Mount Charles Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:04:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Old Bridge Street in Truro closed from the B3284 St Clement Street junction to the Wilkes Walk junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T12:12:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Hatchmoor Common Lane in Torrington closed between the B3232 Belle Vue Cross junction and the Hatchmoor Industrial Estate junction, because of long-term roadworks. Diversion in operation.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T12:56:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Basset Street in Redruth closed in both directions between the Bond Street junction and the Sea View Terrace junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:26:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3297 Cornwall - Temporary lights on B3297 Clodgey Lane in Helston at the Godolphin Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:56:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Livonia Road in Sidmouth closed in both directions from the A375 Sidford Road junction to the Coulsdon Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T15:40:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Littleham Road in Littleham closed in both directions from the Capel Lane junction to the Castle Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:18:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3165 Dorset - Temporary lights on B3165 Lyme Road in Lyme Regis between the Uplyme Road Business Park junction and the Woodroffe Meadow junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:08:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Traffic is taking turns on Hillside Road in Sidmouth near the South Way junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:38:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Dorset - Traffic is taking turns on Sherborne Lane in Lyme Regis at the Silver Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:52:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Traffic is taking turns on Tresawls Avenue in Truro from the Newbridge Lane junction to the Gloweth View junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:57:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cornwall - Traffic is taking turns on Pendennis Road in Penzance near the Castle Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:00:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Traffic is taking turns on Taunton Avenue in Plymouth at the Hereford Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:02:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B3174 Devon - Traffic is taking turns on B3174 Mill Street in Ottery St Mary at the Tar Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:07:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Traffic is taking turns on Fore Street in North Tawton at The Square junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:08:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - Traffic is taking turns on Cornmarket Street in Torrington between the Well Street junction and the Castle Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:11:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A386 Devon - Queues on A386 Heywood Road northbound in Bideford near the Barnstaple turn off junction. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:06:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A30 Devon - Lane closed on A30 in both directions in Sourton Down near Sourton Cross, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-06T13:12:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Devon - No through traffic allowed on High Street in both directions in Barnstaple from the Butchers Row junction to the Cross Street junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

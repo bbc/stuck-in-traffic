@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 Bedfordshire - One lane closed on M1 northbound after J12, A5120 (Flitwick), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-06T12:39:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A509 Buckinghamshire - A509 in Broughton closed in both directions between Milton Keynes and Tickford roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-01-31T10:20:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1094 Suffolk - A1094 High Street in Aldeburgh closed from the Park Road junction to the Dial Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-20T08:15:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1307 Cambridgeshire - Temporary lights on A1307 in Linton at the Bartlow Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-28T11:56:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A143 Suffolk - Temporary lights on A143 in Stradishall near The Cherry Tree junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T17:59:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A14 Suffolk - Contraflow and long-term roadworks on A14 in both directions from J47, A1088 (Woolpit) to J49, Stowmarket. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:59:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A12 Essex - Speed restriction of 40 mph and one lane closed on A12 in both directions between J13, B1002 (Ingatestone) and J16, B1007 (Galleywood), because of resurfacing work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T05:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A12 Essex - One lane closed on A12 southbound in Colchester between J26, A1124 (Eight Ash Green) and Marks Tey, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T06:41:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A14 Suffolk - One lane closed on A14 eastbound between J37, Newmarket and J38, Waterhall, because of emergency drainage repairs. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:37:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1042 Norfolk - Junction improvements and restrictions on A1042 Heartsease Lane in Norwich at Heartsease Roundabout.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-20T10:37:06+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A134 Essex - Lane closed on A134 Northern Approach Road in Colchester at the Dickenson Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-08T07:32:06+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1309 Cambridgeshire - Temporary lights on A1309 Milton Road in Cambridge near the the Golden Hind pub junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-24T07:06:45+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1134 Cambridgeshire - Temporary lights on A1134 Brooks Road in Cambridge at the Sainsburys junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-01T09:43:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1175 Lincolnshire - Temporary lights on A1175 Littleworth Drove in Market Deeping at the B1525 Spalding Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-30T12:03:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B197 Hertfordshire - B197 North Road in Stevenage closed in both directions between the High Street junction and the Lister Close junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-21T09:33:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A137 Essex - Temporary lights on A137 Wignall Street in Lawford near the School Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-21T12:01:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1146 Norfolk - B1146 Beetley Road in Dereham closed in both directions from the Northall Green Lane junction to the Holt Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-22T14:48:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B184 Essex - B184 Hill Street in Saffron Walden closed in both directions from the Abbey Lane junction to the Gold Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-27T14:40:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1071 Suffolk - Temporary lights on A1071 Handford Road in both directions in Ipswich at the Elliott Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T10:13:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1156 Suffolk - Temporary lights on A1156 Felixstowe Road in both directions in Ipswich at the Newton Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-06T13:08:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1066 Norfolk - Temporary lights on A1066 Victoria Road in both directions in Diss at the Bellacre Close junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T11:57:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1094 Suffolk - Temporary lights on A1094 Saxmundham Road in Aldeburgh at the Hall Farm Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T11:52:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1009 Essex - B1009 Baddow Road in Chelmsford closed in both directions between the Baddow Road junction and the Meadgate Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-09T09:50:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A127 Essex - A127 Southend Arterial Road in Rayleigh lane closed on entry slip road westbound at Rayleigh Weir, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T07:28:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bedfordshire - Temporary lights on Oakley Road in Luton at the School Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T07:33:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5076 Northamptonshire - One lane closed on A5076 Upton Way southbound in Northampton from the Duston Mill Lane junction to the High Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:33:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A508 Northamptonshire - Temporary lights on A508 Northampton Road in both directions in Yardley Gobion between the Yardley Road junction and the the Cosgrove turn off junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:37:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4500 Northamptonshire - One lane closed on A4500 Weedon Road westbound in Northampton at the Upton Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:37:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A508 Northamptonshire - Temporary lights on A508 Harborough Road North in both directions in Pitsford between the Brampton Lane junction and the Vyse Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:39:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4500 Northamptonshire - One lane closed on A4500 Weedon Road in both directions in Kislingbury near the Sandy Lane Roundabout junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:44:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A43 Northamptonshire - One lane closed on A43 Bangrave Road Suuth southbound in Corby from the Kettering Road junction to the A6086 Geddington Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:12:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A428 Northamptonshire - Temporary lights on A428 Bedford Road in Brafield On The Green near the Ramco Petrol Station junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T10:18:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1040 Cambridgeshire - B1040 North Side in Whittlesey closed in both directions between the Wash Lane junction and the North Bank junction, because of flooding.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:51:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1025 Essex - Expect delays on B1025 The Strood in both directions in West Mersea between the Peldon junction and the Mersea Island junction, because of a high tide of 5.5 metres at 12:59.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T12:16:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Cavendish Street in Ipswich closed in both directions between the White Elm Street junction and the A1156 Fore Hamlet junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-06-27T12:14:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Severalls Lane in Colchester near the De Grey Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-06T17:04:44+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Harvey Lane in Norwich closed in both directions between the A1042 Heartsease Lane junction and the Gordon Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-09-23T08:20:36+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Water main work and stop-go boards on Stow Road in Outwell between the Outwell Road junction and the Marsh Road junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-04T13:23:39+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - New Road in Oundle closed from the Glapthorn Road junction to the A427 Station Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-06T13:39:51+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Temporary lights on Ascham Road in both directions in Chesterton near the A1134 Milton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-13T07:12:19+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Plumstead Road East in Thorpe St Andrew closed in both directions from the A1042 Heartsease Lane junction to the Aerodrome Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-18T09:01:38+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Poplar Drove in Littleport closed in both directions at the Ten Mile Bank junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-05T13:16:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Temporary lights on Coldhams Lane in Cambridge near the Norman Way junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-29T13:23:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Wick Road in Thorington Street closed in both directions from the Lower Farm Road junction to the B1068 Park Road junction, because of long-term roadworks and emergency bridge repairs.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-01T13:08:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Margetson Avenue in Thorpe St Andrew closed in both directions from the A1042 St Williams Way junction to the Harvey Close junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-01T13:10:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Bridge Street in Northampton closed in both directions between the Kingswell Street junction and the Gold Street junction, because of a fire at the old Balloon Nightclub earlier.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-07T05:21:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Front Street in Wormegay closed in both directions from the Wormegay Road junction to the Saxon Way junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T11:46:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Coast Road in West Mersea closed in both directions from the Firs Chase junction to the Carriers Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-20T16:28:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - East Ruston Road in East Ruston closed in both directions from the School Road junction to the Crostwight Road junction, because of bridge repair work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-05T12:16:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Three Mile Lane in New Costessey, Norwich closed in both directions between the Dereham Road junction and the Breckland Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-09T09:18:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - High Street in Stalham closed one way street from the Yarmouth Road junction to the St Johns Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-09T11:10:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1064 Suffolk - Temporary lights on B1064 Little St Mary&apos;s in Long Melford near the Swan Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-10T12:26:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Temporary lights on Fulbridge Road in Peterborough at the Fane Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-11T12:54:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Temporary lights on Church Green Road westbound in Bletchley at the B4034 Buckingham Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-12T10:58:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Forty Foot Bank in Chatteris closed westbound from the Doddington Road junction to the Puddock Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-15T12:40:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Long Green in Braintree closed in both directions between Galley&apos;s Corner and the Ashes Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-17T12:04:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Union Lane in Chesterton, Cambridge closed in both directions between the Pearl Close junction and the A1309 Milton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-17T12:17:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Ascham Road in Chesterton, Cambridge closed in both directions from the A1134 Milton Road junction to the Gurney Way junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-17T12:20:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Worts Causeway in Cherry Hinton closed from the A1307 Hills Road junction to the Lime Kiln Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-18T10:11:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Stubbs Lane in both directions in Tye Green at the Cheriton Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-18T15:07:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Malting Lane in Cambridge closed from the A1134 Newnham Road junction to the Ridley Hall Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-23T09:51:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Cliff Parade in Leigh-On-Sea near the Leigh Hill junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T12:39:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Seaview Road in Leigh-On-Sea closed in both directions from the Cliff Parade junction to the Broadway junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-24T12:40:31+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Manor Road in Ulting at the Hoe Mill Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-31T06:22:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Blind Lane in Honingham closed in both directions from the A47 junction to the Broom Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-02T09:19:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Acer Road in Rendlesham closed in both directions from the A1152 junction to the Redwald Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-07T16:48:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Temporary lights on Northampton Lane South in Moulton at the Manning Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-08T10:37:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Station Road in Sible Hedingham at the Christmas Field junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T11:12:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bedfordshire - Old Silsoe Road in Clophill closed at the A6 Bedford Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T13:11:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Pierce Lane in Fulbourn closed in both directions between the Apthorpe Street junction and the Bird Farm Road junction, because of gas main work. Diversion in operation - local buses won&apos;t serve the Hat and Rabbit, Bird Farm Road, Haggis Gap or Six Bells. Use stops on Cambridge Road or Manor Walk.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T05:12:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Lower Street in Horning closed in both directions from the A1062 Ropes Hill junction to the School Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-19T12:50:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B197 Hertfordshire - Temporary lights on B197 North Road in Stevenage near the Lister Close junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T09:35:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - The Street in Hadleigh closed in both directions from the Red Hill Road junction to the Church Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T11:52:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Grove Hill in Belstead closed in both directions from the Chapel Lane junction to the Holly Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T11:54:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Cross Road in both directions in Maldon at the King Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-21T15:12:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Old Thrapston Road in Bythorn closed from the Main Street junction to the Brighton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T09:57:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1025 Essex - Temporary lights on B1025 Mersea Road in both directions in Berechurch, Colchester at the Berechurch Hall Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T10:46:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Coggeshall Road in Ardleigh closed in both directions between the A137 Harwich Road junction and the Long Road East junction, because of emergency repairs.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:17:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Stonald Road in Whittlesey closed in both directions between the B1040 West Delph junction and the Crossway Hand junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T17:17:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Calverton Lane in Milton Keynes closed in both directions between Calverton Lane Roundabout and the the Middle Weald turn off junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-26T11:06:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Temporary lights on Station Road in Dereham at the Matsell Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T14:19:19+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Squires Walk in Lowestoft closed in both directions between the Clover Way junction and the Harrington Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-27T15:56:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1355 Norfolk - Temporary lights on B1355 Burnham Road in both directions in South Creake at the Bluestone Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:20:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Temporary lights on Leisure Way in both directions in Oulton near the A47 Foxburrow Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T14:32:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Station Road in both directions in Shoeburyness at the Parkanaur Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:45:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Fermoy Road in Shoeburyness closed in both directions between The Broadway junction and the St Augustine&apos;s Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T12:45:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Queens Way in Purdis Farm closed in both directions between the Nacton Road junction and the Kings Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:00:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1090 Cambridgeshire - Temporary lights on B1090 Woodwalton Lane in both directions in Woodwalton at the Bridge Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:29:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Bedfordshire - Temporary lights on High Road in Shillington at the Upton End Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T18:15:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Church Lane in Long Stratton closed in both directions from the A140 Norwich Road junction to the Station Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T15:17:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1548 Suffolk - Lane closed on B1548 Duke Street southbound in Ipswich between the A1156 Fore Hamlet junction and the University Avenue junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T10:11:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Berechurch Road in both directions in Blackheath at the Baronswood Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T13:03:23+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Temporary lights on Clover Way in both directions in Oulton at the Middle Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T13:43:25+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B1256 Essex - Temporary lights on B1256 Coggeshall Road in Braintree near the Marlborough Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T16:15:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Temporary lights on Panfield Lane in Braintree at the Pegasus Way junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-06T16:24:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Common Drove in Crowland closed in both directions from The Bridge Inn junction to the Forest Drove junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T09:21:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - School road in Runham closed in both directions from The Street junction to the Chapel Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T09:58:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - The Street in Sporle closed in both directions from the Southacre Road junction to the Priory Place junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T09:59:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Back Street in Horsham St Faith closed in both directions from the Crown Road junction to the Blind Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:54:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4034 Buckinghamshire - Temporary lights on B4034 Buckingham Road in Emerson Valley at the Wordsworth Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T14:08:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Suffolk - Temporary lights on Hardwick Lane in Bury St Edmunds near the West Suffolk Hospital junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T17:00:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Hay Lane North in Braintree closed in both directions between the B1256 Coggeshall Road junction and the Cunnington Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T10:03:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Bushel Lane in Soham closed in both directions from the Herbert Human Close junction to the Hall Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:13:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Rectory Road in Weeley Heath closed in both directions from the Mill Lane junction to the B1441 Clacton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T14:42:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Temporary lights on Billing Road in Northampton between the Upper Thrift Street junction and the Barry Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:59:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Sandy Lane in Chapel Brampton closed from the A5199 Northampton Road junction to the Brampton Grange junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T10:06:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Hempstead Road in Holt closed in both directions between the A148 junction and the Old Station Way junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T10:33:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Temporary lights on Castle Lane in Thetford at the Green Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:15:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - Temporary lights on Mill Lane in Thetford at the Nuns Bridges Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T12:16:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Norfolk - No through traffic allowed on Surrey Street in both directions in Kings Lynn between the Chapel Street junction and the High Street junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-05-18T13:31:32+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Hertfordshire - No through traffic allowed on Garden Walk in Royston from the Hawthorn Way junction to the Hammond Close junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-10-11T13:20:58+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cambridgeshire - Bartlow Road in Linton closed in both directions between the the A1307 junction and The Ridgeway junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2023-11-28T11:56:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Essex - Church Lane in Sheering closed to heavy goods vehicles in both directions from the B183 The Street junction to the High Lane junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-08T16:22:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A421 Bedfordshire - It&apos;s slow on A421 Great Barford Bypass eastbound in Great Barford before Black Cat Roundabout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:17:10+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A505 Hertfordshire - It&apos;s slow on A505 Offley Road eastbound in Hitchin before the A602 Park Way junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T12:17:49+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

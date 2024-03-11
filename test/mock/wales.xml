@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M4 Bridgend - One lane closed on M4 eastbound from J37, A4229 (Pyle) to J36, A4061 (Bridgend), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-06T08:52:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4102 Merthyr Tydfil - A4102 Swansea Road in Clwydyfagwyr closed in both directions from the A465 Heads Of The Valleys Road junction to the Castle Park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:54:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4054 Merthyr Tydfil - A4054 Upper High Street in Cefn Coed closed in both directions between the Cil-Sanws Lane junction and the Grawen Lane junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:56:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A55 Conwy - Queues on A55 North Wales Expressway westbound from J17, A547 (Conwy Morfa) to J16a, Glan-Yr-Afon (Dwygyfylchi), because of emergency repairs earlier. All lanes have been re-opened.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T10:58:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4119 Rhondda, Cynon, Taff - Temporary lights on A4119 in Coedely at Coedely Roundabout, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A487 Ceredigion - Temporary lights on A487 in Waunfawr at the Maeshendre junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-02T13:49:25+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A487 Ceredigion - Temporary lights on A487 in both directions in Waun-Gau at the Maeshendre junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-30T13:12:18+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A470 Powys - Temporary lights on A470 at the Talerddig junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-12T13:15:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A494 Gwynedd - Temporary lights on A494 in both directions between the Bethel junction and the Glan-Yr-Afon junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-12T13:47:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A40 Pembrokeshire - Temporary lights on A40 in Narberth near Penblewin Roundabout, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-29T11:56:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4086 Gwynedd - Temporary lights on A4086 in both directions in Llanberis between the Brynrefail junction and the Llanberis junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-29T13:04:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A494 Denbighshire - Temporary lights on A494 in Druid near Druid Traffic Lights, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-21T13:08:48+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A40 Pembrokeshire - Temporary lights on A40 at the Wolfscastle junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T11:44:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A487 Pembrokeshire - Temporary lights on A487 at the Aberfforest junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-07T11:47:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A470 Cardiff - One lane closed on A470 in both directions between Coryton Interchange and Rhydycar Roundabout, because of tree cutting.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4223 Rhondda, Cynon, Taff - B4223 Pen-Twyn Road in Ton Pentre closed in both directions from the Church Road junction to the A4061 Bwlch-Y-Clawdd Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-07-28T11:03:17+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B5105 Denbighshire - B5105 Ruthin Road closed in both directions from the Glan Llyn Inn junction in Clawddnewydd to the B4501 Ffordd Yr Alwen junction in Cerrigydrudion, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-16T12:38:03+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A5 Isle Of Anglesey - Temporary lights on A5 Menai Bridge in Menai Bridge near the the Bridge Inn junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-30T13:22:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4058 Rhondda, Cynon, Taff - Temporary lights on A4058 Gyfeillon Road in both directions in Trehafod at the Trehafod Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-02T13:53:27+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4058 Rhondda, Cynon, Taff - Temporary lights on A4058 Dinas Road in Dinas Rhonda at the B4278 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-02T13:58:54+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4059 Rhondda, Cynon, Taff - Temporary lights on A4059 New Road in Abercynon between the Penrhiwceiber turn off junction and the the business park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-24T06:51:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4161 Cardiff - Temporary lights on A4161 Lansdowne Road at the Grosvenor Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-04T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4059 Rhondda, Cynon, Taff - Temporary lights on A4059 New Road in Abercynon at the the B4275 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-08T11:57:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A484 Carmarthenshire - Temporary lights on A484 Pwll Road in Pwll near the the Blue Anchor junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-08T12:23:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4086 Gwynedd - Temporary lights on A4086 Llanberis Road in Caernarfon at the Cae Garw Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-01-29T12:59:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4054 Cardiff - Temporary lights on A4054 Bridge Road in Llandaff at the Radyr Court Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T12:46:28+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A525 Denbighshire - Temporary lights on A525 Vale Road in Rhyl at the the Shell Garage junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-16T14:39:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Powys - Temporary lights on The A470 in Rhayader near the Wyeside Caravan Park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T10:05:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4107 Neath Port Talbot - Temporary lights on A4107 Station Road in Cymmer at the A4063 Maesteg Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-26T11:59:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A465 Merthyr Tydfil - One lane closed on A465 Heads Of The Valleys Road at Dowlais Top Roundabout, because of long-term roadworks. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T12:03:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A470 Gwynedd - Temporary lights on A470 Llwyn-Y-Gell Road in Blaenau Ffestiniog near the Glanypwll Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T08:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A40 Monmouthshire - It&apos;s heavier than usual on A40 northbound in Monmouth from Monmouth Traffic Lights to Dixton Roundabout. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:08:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Newport - Temporary lights on Corporation Road at the the Esso Garage junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-08-25T14:29:23+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Swansea - Kings Road closed from the A483 Fabian Way junction to the Langdon Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-23T09:57:07+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Gwynedd - Temporary lights on Penrhos Road in Bangor near the Pen Y Ffridd Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-10T14:25:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B4278 Rhondda, Cynon, Taff - Temporary lights on B4278 Rheola Road in Porth near the the car park junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-22T06:48:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Newport - Caerphilly Road in Bassaleg closed in both directions from the the Tredegar Arms junction to the Station Approach junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-02T14:55:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cardiff - Temporary lights on Sanatorium Road at the Broad Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-05T09:30:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Rhondda, Cynon, Taff - Temporary lights on Swansea Road in Hirwaun at the Cae Felin Parc junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-08T12:21:26+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Monmouthshire - Devauden Road in Devauden closed westbound from the Chepstow Park Wood Car Park junction to the the B4293 junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-18T20:31:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cardiff - Ty Draw Road in Pontprennau closed in both directions from the B4562 St Mellons Road junction to the Heol Nant Glandulas junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-26T16:16:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Newport - Commercial Street closed in both directions from the Skinner Street junction to the Llanarth Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-07T16:37:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merthyr Tydfil - Road in Pontsarn closed between the Aberglais Inn junction and The Butchers Arms junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-14T11:04:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Neath Port Talbot - Temporary lights on Old Road in Baglan near the Thorney Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T11:48:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cardiff - Temporary lights on Paget Street at the Redlaver Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T12:07:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cardiff - Temporary lights on Penally Road at the Heol Eglwys junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T12:11:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cardiff - Temporary lights on Fairoak Road at the Cathays Cemetery junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-16T12:22:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Cardiff - Sanatorium Road in Canton closed southbound from the A4161 Lansdowne Road junction to the Broad Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-23T11:32:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Rhondda, Cynon, Taff - Brecon Road in Hirwaun closed in both directions from Hirwaun Roundabout to the Harris Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:04:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merthyr Tydfil - Jones Street in Dowlais closed in both directions from the Rees Street junction to The Hafod junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:04:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Merthyr Tydfil - Rocky Road in Pant closed in both directions between the Gellifaelog Old Road junction and the A465 Heads Of The Valleys Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-04T12:04:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Monmouthshire - Road in Wilcrick closed between the Bowdens Lane junction and the A48 at The Rock and Fountain Inn junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:43:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A48 Cardiff - Queues on A48 Eastern Avenue westbound from Llanedeyrn Interchange to University Hospital Of Wales. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:07:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A48 Monmouthshire - It&apos;s slow on A48 in Chepstow at Highbeech Roundabout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T11:23:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Torfaen - Cwmynyscoy Road in Cwmfields closed to heavy goods vehicles in both directions from the Rockhill Road junction to the Penyrheol Road junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-01-26T15:36:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A470 Cardiff - Lane closed on A470 Lloyd George Avenue at the Letton Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-02-16T12:08:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A465 Rhondda, Cynon, Taff - Narrow lanes and a speed restriction of 40 mph on A465 Heads Of The Valleys Road in both directions from Rhigos Roundabout in Rhigos to Dowlais Top Roundabout in Merthyr Tydfil, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T12:04:13+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Wrexham - Cae-Gwilym Lane in Cefn Mawr closed to heavy goods vehicles in both directions from the Dolydd Road junction to the B5605 Newbridge Road junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-08T17:49:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A4216 Swansea - The usual congestion on A4216 Vivian Road / Dillwyn Road in Sketty at Sketty Cross.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T11:25:28+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

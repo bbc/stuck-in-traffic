@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 South Yorkshire - One lane closed on M1 southbound from J33, A630 (Catcliffe) to J32, M18 (M18 interchange), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2023-09-25T12:55:53+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 Derbyshire - One lane closed and a speed restriction of 50 mph on M1 in both directions between J30, A616 (Worksop) and J31, A57 (Sheffield), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-04T11:52:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 West Yorkshire - Lane closed and a speed restriction of 50 mph on M1 in both directions between A1(M) J43 and J45, A63 (Leeds Cross Green), because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-08T09:49:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M18 South Yorkshire - Queues and one lane closed on M18 southbound from J2 A1(M) J35 to J1, A631 (Bramley), because of vehicle fire.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-11T11:31:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A59 North Yorkshire - A59 closed in both directions from the Church Hill junction in Blubberhouses to Bolton Abbey roundabout in Bolton Bridge, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-07T20:06:09+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A60 South Yorkshire - A60 Sandford Road in Doncaster closed southbound from the A630 Balby Road junction to the Tickhill Road junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-20T17:53:35+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A645 North Yorkshire - A645 Weeland Road in Eggborough closed in both directions from the Selby Turn Off junction to the the Horse and Jockey junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-02-22T10:09:11+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - The A159 in Gainsborough closed in both directions from the Front Street junction to the the Pilham turn off junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="severe" version_number="1" message_generation_time="2024-03-07T12:50:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M1 South Yorkshire - One lane closed on M1 in both directions between J35, A629 (Rotherham) and J34, A631 (Meadowhall), because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-09-19T18:35:03+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A19 North Yorkshire - Temporary lights on A19 in Eggborough at the Roall Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-29T07:27:30+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1 West Yorkshire - Long-term roadworks and restrictions on A1 in both directions in Wentbridge around Wentbridge South. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-04T11:58:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A19 North Yorkshire - A19 in South Kilvington lane closed on exit slip road northbound at the A61 junction, because of a breakdown. Traffic is coping well.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T11:25:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A643 West Yorkshire - Temporary lights on A643 Elland Road in both directions in Morley near the Westwoodside junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-08-17T09:14:23+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A643 West Yorkshire - Temporary lights on A643 Victoria Road in Morley near the Westwood Side junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-10-09T13:30:30+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A65 West Yorkshire - Temporary lights on A65 Ilkley Road in Burley In Wharfedale near the Leather Bank junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-11-28T13:45:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6181 West Yorkshire - One lane closed on A6181 Princes Way westbound in Bradford from the Vicar Lane junction to Jacobs Well, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-01T13:19:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6181 West Yorkshire - One lane closed on A6181 Princes Way eastbound in Bradford from the Little Horton Lane junction to Jacobs Well, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-01T13:20:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Lane closed on Currer Street eastbound in Bradford from the Well Street junction to the Field Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-01T13:27:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6181 West Yorkshire - Lane closed on A6181 Godwin Street southbound in Bradford from the James Gate junction to the Kirkgate Market junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-01T13:29:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A641 West Yorkshire - One lane closed on A641 Manchester Road northbound in Bradford from the Sharpe Street junction to Jacobs Well, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-12-01T16:09:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A660 West Yorkshire - Temporary lights on A660 Otley Road in Headingley, Leeds at the B6157 Shaw Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-01T17:15:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A619 Derbyshire - Temporary lights on A619 Chatsworth Road in Chesterfield near the Brookfield Avenue junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-02-14T15:51:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A647 West Yorkshire - Temporary lights on A647 Highgate Road in both directions in Bradford at the Chapel Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T13:32:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Woodcroft Grange in both directions in Halifax at the A646 Burnley Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-05T13:40:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6177 West Yorkshire - Temporary lights on A6177 Ingleby Road in both directions in Lidget Green at the Alford Terrace junction. In the roadworks area.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-08T07:13:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A620 Nottinghamshire - Temporary lights on A620 Main Street in Clarborough near the Hill View Crescent junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A61 West Yorkshire - Traffic is taking turns on A61 Northgate in both directions in Wakefield from the Kwik Fit junction to The College Pub junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2024-03-11T09:21:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6521 Derbyshire - Landslip and Road permanently closed on B6521 New Road in both directions in Eyam between the Riley Lane junction and the Goatscliff Farm Lane junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-01-18T15:43:16+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Trafalgar Street in Sheffield closed one way street from the Devonshire Lane junction to the Wellington Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-17T08:14:40+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Little London Road in Sheffield closed in both directions between the Rydal Road junction and the Aukley Road junction, because of Sheaf Valley Cycle Route.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-04-24T16:29:27+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Pinfold Lane in Ainley Top closed in both directions from the B6114 Dewsbury Road junction to the A643 New Hey Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-10-06T13:44:51+01:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6163 North Yorkshire - Temporary lights on B6163 Briggate in Knaresborough at the Union Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-08T10:02:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - St Cecilia Street in Leeds closed in both directions from the Centenary Square junction to the St Peter&apos;s Square junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-20T11:16:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Cleveland Street in Doncaster closed from the A630 Trafford Way junction to the Duke Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-11-22T09:40:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6181 West Yorkshire - One lane closed on A6181 Princes Way in Bradford on Jacobs Well, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-01T13:15:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Bairstow Lane in Sowerby Bridge closed from the Dam Head Road junction to the Willowfield Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-04T10:54:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Westgate in Rotherham closed northbound from the Sheffield Road junction to the Main Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-12T12:33:45+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Church Street in Elland closed from the B6114 Huddersfield Road junction to the Northgate junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-13T09:56:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Willowbridge Road in Little Smeaton closed in both directions between the Norton junction and the Mount Pleasant junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-12-28T13:28:22+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Lincolnshire - Godnow Road in Crowle closed from the A161 High Street junction to the Chapel Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-09T10:03:55+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Calder Road in Ravensthorpe near the Ravensthorpe Station junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-12T09:32:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Kingsley Road in Calcutt closed from the Bogs Lane junction to the Kingsley Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-01-23T12:34:01+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Oak Tree Drive in Gipton, Leeds at the Amberton Approach junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-01T17:17:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Woodhall Road in Calverley at the Foxholes Crescent junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-15T12:06:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Sugar Lane in Dewsbury closed from the Old Bank Road junction to the A653 Leeds Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-22T12:40:43+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Archer Road in Hemsworth near the Hutcliffe Wood Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-28T12:42:56+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6265 West Yorkshire - Temporary lights on B6265 Bradford Road in both directions in Cottingley at the Bradford Old Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T08:14:05+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Temporary lights on Long Lane in Carlton In Lindrick at the Windsor Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T09:31:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Domestic Street in Holbeck, Leeds at the Top Moor Side junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T11:51:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - St Matthew&apos;s Street in Holbeck, Leeds closed one way street from the Pleasant Place junction to the Domestic Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T11:53:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Shafton Lane in Holbeck, Leeds closed in both directions between the Shafton Street junction and the Domestic Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T11:54:37+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Bartlett Road in both directions in Ecclesfield at the Symons Crescent junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:11:39+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Piper Well Lane in both directions in Lane Head from the Wall Nook Lane junction to the A635 Holmfirth Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-02-29T13:18:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Ainsty Crescent in both directions in Kirk Deighton at the Ainsty Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T13:24:42+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Temporary lights on Leeman Road in both directions in York at the Martins Court junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-01T13:29:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Dalton Bank Road in Kirkheaton closed in both directions from the Nettleton Road junction to the B6118 Bog Green Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T07:09:57+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6143 West Yorkshire - Temporary lights on B6143 Keighley Road in both directions in Keighley at the Woodview Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:24:36+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on West Lane in both directions in Keighley at the Shann Lane junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:26:38+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6145 West Yorkshire - Temporary lights on B6145 Thornton Road in both directions in Thornton at the Camomile Court junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:29:07+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Holmes Road in both directions in Sowerby Bridge at the Gas Works Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-05T13:42:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Aireworth Road in Keighley closed in both directions from the Kinara Close junction to the Garforth Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:47:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Marshall Street in Holbeck closed northbound from the Nineveh Road junction to the Sweet Street junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T13:55:08+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Droppingwell Road in Kimberworth closed in both directions from the Farm View Road junction to the A629 Upper Wortley Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:04:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Church Drive in Brierley closed in both directions between the Church Street junction and the Chestnut Avenue junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T14:07:06+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Moor Lane in Burley In Wharfedale between the Moor Road junction and the Colston Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T16:39:40+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Worrall Road in Chapeltown, Sheffield at the Beechwood Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T17:55:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Lydgate Lane in Sheffield at the Cross Lane junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T17:59:41+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Whitechapel Road in Cleckheaton near the B6120 Turnsteads Avenue junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T18:01:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Moor End Lane in Dewsbury at the Dewsbury Gate Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-07T18:08:12+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Chadwick Street South in Brewery Wharf closed in both directions between the A653 Black Bull Street junction and the Armouries Drive junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T09:09:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Walkley Road in Walkley closed in both directions between the Walkley Bank Road junction and the Walkley Lane junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T09:35:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6074 South Yorkshire - Temporary lights on B6074 Neepsend Lane in both directions in Sheffield at the Parkwood Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:02:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Ibbotson Road in Walkley closed in both directions from the Walkley Bank Road junction to the Woodview Road junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:03:58+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Dykes Hall Road in both directions in Walkley at the Avondale Road junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:08:29+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6077 South Yorkshire - Temporary lights on B6077 Loxley Road in Loxley at the Studfield Hill junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:16:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6066 South Yorkshire - Temporary lights on B6066 Rotherham Road in both directions in Handsworth at the Orgreave Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:42:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6066 South Yorkshire - Temporary lights on B6066 Rotherham Road in Handsworth at the Kirkdale Crescent junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:42:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Temporary lights on Wrenthorpe Road in both directions in Wrenthorpe at the Valley Drive junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T11:49:02+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Canklow Road in Rotherham at the Robinson Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T12:00:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Temporary lights on Doncaster Road in Rotherham at the St Ann&apos;s Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T12:18:32+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6154 West Yorkshire - Temporary lights on B6154 Uppermoor in Pudsey, Leeds near the West Park junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-08T13:54:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Lower Darnborough Street in York closed in both directions between the River Street junction and the Cherry Street junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T16:15:47+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">South Yorkshire - Robinson Street in Rotherham closed in both directions from the Rother View Road junction to the Canklow Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T16:16:49+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Cliffe Road in Brighouse closed in both directions from the A643 Bridge End junction to the A641 Huddersfield Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-09T16:20:17+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Traffic is taking turns on Palace House Road in both directions in Hebden Bridge at the Norfolk Street junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-10T17:20:46+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Oak Lane in Triangle closed in both directions from the Sandy Dyke Lane junction to the Dean Lane junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-10T17:28:15+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Temporary lights on Bracebridge in Worksop at the Bracebridge Avenue junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">B6045 Nottinghamshire - Temporary lights on B6045 Blyth Road in Worksop at the Shepherds Avenue junction, because of works on telecom cables.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T00:00:00+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Traffic is taking turns on James Street in Harrogate at the Princes Street junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T08:27:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Traffic is taking turns on Beckside Road in both directions in Bradford between the Spencer Road junction and the Clayton Road junction, because of electricity work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:13:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - Traffic is taking turns on Ling Hill in Scarborough from the Moor Lane junction to The Uplands junction, because of water main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:18:33+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Nottinghamshire - Church Walk in Worksop closed in both directions from the B6040 Bridge Place junction to the Beaver Place junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T09:50:03+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A6177 West Yorkshire - Temporary lights on A6177 Killinghall Road in both directions in Laisterdyke at the A647 Leeds Road junction, because of gas main work.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T10:00:34+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - It&apos;s slow on Church Street in both directions in Woodlesford from the A642 Aberford Road junction to the Northwood Falls junction.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:34:04+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1 West Yorkshire - Queues on A1 into the roadworks at the Wentbridge junction. Travel time is 15 minutes.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2024-03-11T11:48:59+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">M621 West Yorkshire - Narrow lanes and a speed restriction of 50 mph on M621 in both directions between J1, A6110 (Beeston) and J2, A643 (Elland Road), because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T12:04:44+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">North Yorkshire - No through traffic allowed on Oakdale Glen in both directions in Harrogate between the Oakdale Avenue junction and the Oakdale junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">West Yorkshire - Siddal Top Lane in Siddal closed northbound from the Change Lane junction to the Phoebe Lane junction, because of a new road layout.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-04T20:55:21+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A1237 North Yorkshire - Queues on A1237 York Outer Ring Road in York at the Haxby Road roundabout junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T11:46:52+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">A64 North Yorkshire - It&apos;s slow on A64 Seamer Road in Scarborough around the B1427 Queen Margaret&apos;s Road junction.</summary>
+    <road_traffic_message severity_factor="very slight" version_number="1" message_generation_time="2024-03-11T11:50:13+00:00" />
+  </tpeg_message>
+
+</tpeg_document>

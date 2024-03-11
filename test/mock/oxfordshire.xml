@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">A413 Buckinghamshire - Long-term roadworks on A413 London Road in Wendover at the Small Dean Lane junction. Expect delays.</summary>
+    <road_traffic_message severity_factor="medium" version_number="1" message_generation_time="2023-03-14T07:14:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Temporary lights on Radclive Road in Gawcott at the Main Street junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Buckinghamshire - Old Risborough Road in Stoke Mandeville closed in both directions from the A4010 Risborough Road junction to the Whitethorn Close junction, because of long-term roadworks and roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Oxfordshire - Temporary lights on St Cross Road in Oxford at the Florey Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2022-12-12T12:52:24+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Appletree Lane in Aston Le Walls closed in both directions from the Chipping Warden junction to the Chipping Warden junction, because of long-term roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-02-22T06:53:14+00:00" />
+  </tpeg_message>
+
+  <tpeg_message>
+    <summary xml:lang="en">Northamptonshire - Temporary lights on Helmdon Road in both directions in Greatworth at the Peveril Road junction, because of roadworks.</summary>
+    <road_traffic_message severity_factor="slight" version_number="1" message_generation_time="2023-07-28T14:26:52+01:00" />
+  </tpeg_message>
+
+</tpeg_document>

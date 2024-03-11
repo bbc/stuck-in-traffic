@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tpeg_document generation_time="2014-01-06T10:49:02+0">
+
+  <tpeg_message>
+    <summary xml:lang="en">Bla bla bla bla bla bla bla bla bla</summary>
+    <public_transport_information severity_factor="medium" version_number="1" message_generation_time="2024-02-22T08:03:06+00:00">
+      <transport_operator_description>
+        <operator_name name="London Overground" />
+      </transport_operator_description>
+    </public_transport_information>
+  </tpeg_message>
+
+</tpeg_document>
