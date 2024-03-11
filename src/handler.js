@@ -3,7 +3,7 @@ import { Agent } from 'undici'
 import xml2js from 'xml2js'
 import certService from './cert.js'
 
-const handleEvent = async () => {
+const handleEvent = async (event, context) => {
   const parser = new xml2js.Parser()
 
   const types = {
