@@ -45,9 +45,9 @@ const handleEvent = async (event, context) => {
     for (let subType of types[type]) {
       const url = `https://travel-tvp-renderer.api.bbci.co.uk/messages/${type}/${subType}.xml`
       console.log(type, subType, url)
-      let xml
+      let response
       try {
-        xml = await fetch(url, {
+        response = await fetch(url, {
           dispatcher: new Agent({
             connect: {
               rejectUnauthorized: false,
@@ -61,9 +61,9 @@ const handleEvent = async (event, context) => {
         throw new Error(`error while getting ${url}:` + e)
       }
 
-      console.log('xml', xml)
+      console.log('response', response.body)
 
-      parser.parseString(xml, (_, result) => {
+      parser.parseString(response.body, (_, result) => {
         console.log('result', result)
         if (result?.tpeg_document?.tpeg_message) {
           for (let message of result.tpeg_document?.tpeg_message) {
