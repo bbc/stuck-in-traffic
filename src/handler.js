@@ -4,7 +4,6 @@ import xml2js from 'xml2js'
 import certService from './cert.js'
 
 const parser = new xml2js.Parser()
-const ignore = await import('../ignore.json', { with: { type: 'json' } })
 
 const types = {
   modes: ['rail', 'motorways'],
@@ -82,7 +81,7 @@ const handleEvent = async () => {
                 .update(type + subType + summary + generationDate.toISOString)
                 .digest('hex')
 
-              if (daysOld > 1 && !ignore.default.find((x) => x === id)) {
+              if (daysOld > 1) {
                 oldNews.push({
                   subType,
                   id,
