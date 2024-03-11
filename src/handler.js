@@ -62,7 +62,7 @@ const handleEvent = async (event, context) => {
       }
 
       parser.parseString(xml, (_, result) => {
-        if (result.tpeg_document?.tpeg_message) {
+        if (result?.tpeg_document?.tpeg_message) {
           for (let message of result.tpeg_document?.tpeg_message) {
             if (message.public_transport_information) {
               const summary = message.summary[0]._
