@@ -19,15 +19,17 @@ resources:
       Type: AWS::SNS::Topic
       Properties:
         TopicName: ${self:custom.outputSnsTopicName}
+
     StuckInTrafficBucket:
       Type: AWS::S3::Bucket
       Properties:
         BucketName: ${self:custom.bucketName}
+
     BucketPolicy:
       Type: AWS::S3::BucketPolicy
       Properties:
         Bucket:
-          Ref: Bucket
+          Ref: StuckInTrafficBucket
         PolicyDocument:
           Version: '2012-10-17'
           Id: BroxyBucketPolicy
