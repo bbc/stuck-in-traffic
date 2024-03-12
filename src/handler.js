@@ -81,6 +81,10 @@ const handleEvent = async (event, context) => {
                   )
               const dateNow = new Date()
 
+              const severity = message.public_transport_information
+                ? message.public_transport_information[0].$.severity_factor
+                : message.road_traffic_message[0].$.severity_factor
+
               let daysOld = Math.round(
                 (dateNow.getTime() - generationDate.getTime()) /
                   (1000 * 3600 * 24)
@@ -98,6 +102,7 @@ const handleEvent = async (event, context) => {
                   id,
                   summary,
                   daysOld,
+                  severity,
                 })
               }
             }
@@ -107,7 +112,9 @@ const handleEvent = async (event, context) => {
     }
   }
 
-  const sortedNews = oldNews.sort((a, b) => b.daysOld - a.daysOld)
+  const sortedNews = oldNews
+    .filter((x) => x.severity !== 'slight' && x.severity !== 'very slight')
+    .sort((a, b) => b.daysOld - a.daysOld)
   await uploadService.upload(sortedNews)
 
   return sortedNews

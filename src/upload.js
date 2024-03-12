@@ -7,7 +7,7 @@ const generateRows = (sortedNews) =>
     .map(
       (x) => `<tr class="${x.type}">
 <td class="row"><p>${x.id}<p></td>
-<td class="row"><p>${x.subType}<p></td>
+<td class="row"><p><b>${x.type}</b> - ${x.subType}<p></td>
 <td class="row"><p>${x.summary}<p></td>
 <td class="row"><p>${x.daysOld}<p></td>
 </tr>`

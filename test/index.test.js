@@ -62,15 +62,19 @@ test('it should', async (t) => {
     })
 
     const result = await handleEvent()
+    console.log(result)
 
-    assert.strictEqual(result[0].subType, 'london')
-    assert.strictEqual(result[0].id, '1a72b758fd1c56ddf5477b98f5eabcf817bbbf2a')
+    assert.strictEqual(result[0]?.subType, 'wales')
     assert.strictEqual(
-      result[0].summary,
-      `Buckinghamshire - Temporary lights on Leather Lane in Hunt's Green at the Kings Lane junction, because of long-term roadworks.`
+      result[0]?.id,
+      'd65a8ae7989dd4ba4a9b75fea6fc265c0bad133d'
     )
-    assert.strictEqual(result[0].daysOld, 456)
-    assert.strictEqual(result[1].daysOld, 456)
-    assert.strictEqual(result[2].daysOld, 456)
+    assert.strictEqual(
+      result[0]?.summary,
+      `A4119 Rhondda, Cynon, Taff - Temporary lights on A4119 in Coedely at Coedely Roundabout, because of long-term roadworks.`
+    )
+    assert.strictEqual(result[0]?.daysOld, 456)
+    assert.strictEqual(result[1]?.daysOld, 456)
+    assert.strictEqual(result[2]?.daysOld, 456)
   })
 })
