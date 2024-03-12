@@ -63,11 +63,14 @@ test('it should', async (t) => {
 
     const result = await handleEvent()
 
-    assert.strictEqual(result[0].subType, 'ferry')
-    assert.strictEqual(result[0].id, '9d6a2285af1a5ca888026f94ec626ef792f6a24e')
-    assert.strictEqual(result[0].summary, 'Bla bla bla bla')
-    assert.strictEqual(result[0].daysOld, 33)
-    assert.strictEqual(result[1].daysOld, 30)
-    assert.strictEqual(result[2].daysOld, 18)
+    assert.strictEqual(result[0].subType, 'london')
+    assert.strictEqual(result[0].id, '1a72b758fd1c56ddf5477b98f5eabcf817bbbf2a')
+    assert.strictEqual(
+      result[0].summary,
+      `Buckinghamshire - Temporary lights on Leather Lane in Hunt's Green at the Kings Lane junction, because of long-term roadworks.`
+    )
+    assert.strictEqual(result[0].daysOld, 456)
+    assert.strictEqual(result[1].daysOld, 456)
+    assert.strictEqual(result[2].daysOld, 456)
   })
 })

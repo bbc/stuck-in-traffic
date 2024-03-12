@@ -67,11 +67,18 @@ const handleEvent = async (event, context) => {
       parser.parseString(text, (_, result) => {
         if (result?.tpeg_document?.tpeg_message) {
           for (let message of result.tpeg_document?.tpeg_message) {
-            if (message.public_transport_information) {
+            if (
+              message.public_transport_information ||
+              message.road_traffic_message
+            ) {
               const summary = message.summary[0]._
-              const generationDate = new Date(
-                message.public_transport_information[0].$.message_generation_time
-              )
+              const generationDate = message.public_transport_information
+                ? new Date(
+                    message.public_transport_information[0].$.message_generation_time
+                  )
+                : new Date(
+                    message.road_traffic_message[0].$.message_generation_time
+                  )
               const dateNow = new Date()
 
               let daysOld = Math.round(
