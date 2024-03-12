@@ -93,6 +93,7 @@ const handleEvent = async (event, context) => {
 
               if (daysOld > 1) {
                 oldNews.push({
+                  type,
                   subType,
                   id,
                   summary,
