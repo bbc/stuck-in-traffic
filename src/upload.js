@@ -5,7 +5,7 @@ const client = new S3Client({ region: 'eu-west-1' })
 const generateRows = (sortedNews) =>
   sortedNews
     .map(
-      (x) => `<tr>
+      (x) => `<tr class="${x.type}">
 <td class="row"><p>${x.id}<p></td>
 <td class="row"><p>${x.subType}<p></td>
 <td class="row"><p>${x.summary}<p></td>
@@ -20,6 +20,19 @@ const buildHtml = (sortedNews) => {
 <html>
   <title>Stuck In Traffic</title>
   <head>
+    <script>
+    const toggle = (type) => {
+    let temp = document.querySelectorAll("." + type);
+      for (let i = 0; i < temp.length; i++) {
+
+        if (temp[i].style.display === "") {
+          temp[i].style.display = "none"
+        } else {
+          temp[i].style = {}
+        }
+      }
+    }
+    </script>
     <style>
         body {background-color: #CBB8A9; padding: 40px; font-family: "Fjalla One", sans-serif; font-weight: 400;font-style: normal;}
         h1   {color: #333232;font-size: 20px;}
@@ -36,6 +49,33 @@ const buildHtml = (sortedNews) => {
     <p>last updated at <b>` +
     new Date().toUTCString() +
     `</b></p>
+
+    <label class="switch">
+      modes
+      <input type="checkbox" onclick="toggle('modes')" checked>
+      <span class="slider round"></span>
+    </label>
+        <label class="switch">
+      pti
+      <input type="checkbox" onclick="toggle('pti')" checked>
+      <span class="slider round"></span>
+    </label>
+            <label class="switch">
+      ferries
+      <input type="checkbox" onclick="toggle('ferries')" checked>
+      <span class="slider round"></span>
+    </label>
+                <label class="switch">
+      local
+      <input type="checkbox" onclick="toggle('local')" checked>
+      <span class="slider round"></span>
+    </label>
+                    <label class="switch">
+      regions
+      <input type="checkbox" onclick="toggle('regions')" checked>
+      <span class="slider round"></span>
+    </label>
+
     <table>
       <tr>
         <td class="header"><h1>id</h1></td>
