@@ -24,33 +24,33 @@ resources:
       Properties:
         BucketName: ${self:custom.bucketName}
     BucketPolicy:
-    Type: AWS::S3::BucketPolicy
-    Properties:
-      Bucket:
-        Ref: Bucket
-      PolicyDocument:
-        Version: '2012-10-17'
-        Id: BroxyBucketPolicy
-        Statement:
-          # Allow any resource in the VPC
-          - Action:
-              - s3:GetObject
-            Sid: AllowAccessFromSpecificVPC
-            Resource:
-              - Fn::GetAtt: [StuckInTrafficBucket, Arn]
-              - Fn::Sub:
-                  - ${bucketArn}/*
-                  - bucketArn:
-                      Fn::GetAtt: [StuckInTrafficBucket, Arn]
-            Condition:
-              Bool:
-                aws:SecureTransport: 'true' # Require HTTPS - this is optional but recommended, broxy will only make https requests
-              StringEquals:
-                aws:sourceVpc:
-                  - vpc-04421ab457940648c # = VPC in TVR Tooling Prod a/c used by Live broxy
-                  - vpc-0b00dea11644f6120 # = VPC in TVR Tooling Prod a/c used by Dev broxy
-            Effect: Allow
-            Principal: '*'
+      Type: AWS::S3::BucketPolicy
+      Properties:
+        Bucket:
+          Ref: Bucket
+        PolicyDocument:
+          Version: '2012-10-17'
+          Id: BroxyBucketPolicy
+          Statement:
+            # Allow any resource in the VPC
+            - Action:
+                - s3:GetObject
+              Sid: AllowAccessFromSpecificVPC
+              Resource:
+                - Fn::GetAtt: [StuckInTrafficBucket, Arn]
+                - Fn::Sub:
+                    - ${bucketArn}/*
+                    - bucketArn:
+                        Fn::GetAtt: [StuckInTrafficBucket, Arn]
+              Condition:
+                Bool:
+                  aws:SecureTransport: 'true' # Require HTTPS - this is optional but recommended, broxy will only make https requests
+                StringEquals:
+                  aws:sourceVpc:
+                    - vpc-04421ab457940648c # = VPC in TVR Tooling Prod a/c used by Live broxy
+                    - vpc-0b00dea11644f6120 # = VPC in TVR Tooling Prod a/c used by Dev broxy
+              Effect: Allow
+              Principal: '*'
 
 provider:
   name: aws
