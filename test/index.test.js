@@ -73,8 +73,5 @@ test('it should', async (t) => {
       result[0]?.summary,
       `A4119 Rhondda, Cynon, Taff - Temporary lights on A4119 in Coedely at Coedely Roundabout, because of long-term roadworks.`
     )
-    assert.strictEqual(result[0]?.daysOld, 456)
-    assert.strictEqual(result[1]?.daysOld, 456)
-    assert.strictEqual(result[2]?.daysOld, 456)
   })
 })

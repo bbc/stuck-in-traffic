@@ -97,6 +97,7 @@ export const upload = async (sortedNews) => {
     Bucket: 'int-stuck-in-traffic-bucket',
     Key: 'stuck-in-traffic.html',
     Body: buildHtml(sortedNews),
+    ContentType: 'text/html',
   })
 
   try {
