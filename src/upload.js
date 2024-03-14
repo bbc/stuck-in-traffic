@@ -5,7 +5,7 @@ const client = new S3Client({ region: 'eu-west-1' })
 const generateRows = (sortedNews) =>
   sortedNews
     .map(
-      (x) => `<tr class="${x.type} ${x.severity}">
+      (x) => `<tr class="${x.type}">
 <td class="row"><p>${x.severity}<p></td>
 <td class="row"><p><b>${x.type}</b> - ${x.subType}<p></td>
 <td class="row"><p>${x.summary}<p></td>
@@ -77,23 +77,6 @@ const buildHtml = (sortedNews) => {
         <input type="checkbox" onclick="toggle('regions')" checked>
         <span class="slider round"></span>
       </label>
-      <b>severity filters:</b>
-      <label class="switch">
-        very severe:
-        <input type="checkbox" onclick="toggle('very-severe')" checked>
-        <span class="slider round"></span>
-      </label>
-      <label class="switch">
-        severe:
-        <input type="checkbox" onclick="toggle('severe')" checked>
-        <span class="slider round"></span>
-      </label>
-      <label class="switch">
-        medium:
-        <input type="checkbox" onclick="toggle('medium')" checked>
-        <span class="slider round"></span>
-      </label>
-
     </div>
 
     <table>
