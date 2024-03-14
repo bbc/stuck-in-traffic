@@ -5,8 +5,8 @@ const client = new S3Client({ region: 'eu-west-1' })
 const generateRows = (sortedNews) =>
   sortedNews
     .map(
-      (x) => `<tr class="${x.type}">
-<td class="row"><p>${x.id}<p></td>
+      (x) => `<tr class="${x.type} ${x.severity}">
+<td class="row"><p>${x.severity}<p></td>
 <td class="row"><p><b>${x.type}</b> - ${x.subType}<p></td>
 <td class="row"><p>${x.summary}<p></td>
 <td class="row"><p>${x.daysOld}<p></td>
@@ -50,35 +50,55 @@ const buildHtml = (sortedNews) => {
     new Date().toUTCString() +
     `</b></p>
 
-    <label class="switch">
-      modes
-      <input type="checkbox" onclick="toggle('modes')" checked>
-      <span class="slider round"></span>
-    </label>
-        <label class="switch">
-      pti
-      <input type="checkbox" onclick="toggle('pti')" checked>
-      <span class="slider round"></span>
-    </label>
-            <label class="switch">
-      ferries
-      <input type="checkbox" onclick="toggle('ferries')" checked>
-      <span class="slider round"></span>
-    </label>
-                <label class="switch">
-      local
-      <input type="checkbox" onclick="toggle('local')" checked>
-      <span class="slider round"></span>
-    </label>
-                    <label class="switch">
-      regions
-      <input type="checkbox" onclick="toggle('regions')" checked>
-      <span class="slider round"></span>
-    </label>
+    <div class="filters">
+      <b>type filters:</b>
+      <label class="switch">
+        modes:
+        <input type="checkbox" onclick="toggle('modes')" checked>
+        <span class="slider round"></span>
+      </label>
+      <label class="switch">
+        pti:
+        <input type="checkbox" onclick="toggle('pti')" checked>
+        <span class="slider round"></span>
+      </label>
+      <label class="switch">
+        ferries:
+        <input type="checkbox" onclick="toggle('ferries')" checked>
+        <span class="slider round"></span>
+      </label>
+      <label class="switch">
+        local:
+        <input type="checkbox" onclick="toggle('local')" checked>
+        <span class="slider round"></span>
+      </label>
+      <label class="switch">
+        regions:
+        <input type="checkbox" onclick="toggle('regions')" checked>
+        <span class="slider round"></span>
+      </label>
+      <b>severity filters:</b>
+      <label class="switch">
+        very severe:
+        <input type="checkbox" onclick="toggle('very-severe')" checked>
+        <span class="slider round"></span>
+      </label>
+      <label class="switch">
+        severe:
+        <input type="checkbox" onclick="toggle('severe')" checked>
+        <span class="slider round"></span>
+      </label>
+      <label class="switch">
+        medium:
+        <input type="checkbox" onclick="toggle('medium')" checked>
+        <span class="slider round"></span>
+      </label>
+
+    </div>
 
     <table>
       <tr>
-        <td class="header"><h1>id</h1></td>
+        <td class="header"><h1>severity</h1></td>
         <td class="header"><h1>type</h1></td>
         <td class="header"><h1>summary</h1></td>
         <td class="header"><h1>days old</h1></td>

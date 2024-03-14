@@ -72,18 +72,14 @@ const handleEvent = async (event, context) => {
               message.road_traffic_message
             ) {
               const summary = message.summary[0]._
-              const generationDate = message.public_transport_information
-                ? new Date(
-                    message.public_transport_information[0].$.message_generation_time
-                  )
-                : new Date(
-                    message.road_traffic_message[0].$.message_generation_time
-                  )
-              const dateNow = new Date()
 
-              const severity = message.public_transport_information
-                ? message.public_transport_information[0].$.severity_factor
-                : message.road_traffic_message[0].$.severity_factor
+              const info = message.public_transport_information
+                ? message.public_transport_information[0]
+                : message.road_traffic_message[0]
+
+              const generationDate = new Date(info.$.message_generation_time)
+              const dateNow = new Date()
+              const severity = info.$.severity_factor
 
               let daysOld = Math.round(
                 (dateNow.getTime() - generationDate.getTime()) /
