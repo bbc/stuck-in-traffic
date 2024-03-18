@@ -4,6 +4,14 @@ import xml2js from 'xml2js'
 import certService from './cert.js'
 import uploadService from './upload.js'
 
+const groupBy = (arr) =>
+  arr.reduce((arr, curr) => {
+    arr[curr.severity]
+      ? arr[curr.severity].push(curr)
+      : (arr[curr.severity] = [curr])
+    return arr
+  }, {})
+
 const handleEvent = async (event, context) => {
   const parser = new xml2js.Parser()
 
@@ -112,7 +120,7 @@ const handleEvent = async (event, context) => {
     .filter((x) => x.severity !== 'slight' && x.severity !== 'very slight')
     .sort((a, b) => b.daysOld - a.daysOld)
 
-  const groupedNews = Object.groupBy(sortedNews, ({ severity }) => severity)
+  const groupedNews = groupBy(sortedNews, ({ severity }) => severity)
 
   await uploadService.upload([
     ...groupedNews['very severe'],
