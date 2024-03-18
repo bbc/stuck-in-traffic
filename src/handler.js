@@ -5,12 +5,15 @@ import certService from './cert.js'
 import uploadService from './upload.js'
 
 const groupBy = (arr) =>
-  arr.reduce((arr, curr) => {
-    arr[curr.severity]
-      ? arr[curr.severity].push(curr)
-      : (arr[curr.severity] = [curr])
-    return arr
-  }, {})
+  arr.reduce(
+    (arr, curr) => {
+      arr[curr.severity]
+        ? arr[curr.severity].push(curr)
+        : (arr[curr.severity] = [curr])
+      return arr
+    },
+    { 'very severe': [], severe: [], medium: [] }
+  )
 
 const handleEvent = async (event, context) => {
   const parser = new xml2js.Parser()
