@@ -111,9 +111,20 @@ const handleEvent = async (event, context) => {
   const sortedNews = oldNews
     .filter((x) => x.severity !== 'slight' && x.severity !== 'very slight')
     .sort((a, b) => b.daysOld - a.daysOld)
-  await uploadService.upload(sortedNews)
 
-  return sortedNews
+  const groupedNews = Object.groupBy(sortedNews, ({ severity }) => severity)
+
+  await uploadService.upload([
+    ...groupedNews['very severe'],
+    ...groupedNews['severe'],
+    ...groupedNews['medium'],
+  ])
+
+  return [
+    ...groupedNews['very severe'],
+    ...groupedNews['severe'],
+    ...groupedNews['medium'],
+  ]
 }
 
 export { handleEvent }

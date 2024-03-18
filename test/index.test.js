@@ -64,14 +64,15 @@ test('it should', async (t) => {
     const result = await handleEvent()
     console.log(result)
 
-    assert.strictEqual(result[0]?.subType, 'wales')
+    assert.strictEqual(result[0]?.subType, 'motorways')
     assert.strictEqual(
       result[0]?.id,
-      'd65a8ae7989dd4ba4a9b75fea6fc265c0bad133d'
+      '9e4b7efe64cff0effa1d7f12a35ba87f8d953457'
     )
     assert.strictEqual(
       result[0]?.summary,
-      `A4119 Rhondda, Cynon, Taff - Temporary lights on A4119 in Coedely at Coedely Roundabout, because of long-term roadworks.`
+      `M5 Devon - Long delays on M5 northbound at J29, A3015 (Exeter), because of an earlier accident. Congestion to before J30 (Exeter / Service Areas). All lanes have been re-opened.`
     )
+    assert.strictEqual(result[0]?.severity, 'very severe')
   })
 })
